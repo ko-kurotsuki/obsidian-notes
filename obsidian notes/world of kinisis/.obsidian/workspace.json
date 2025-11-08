@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of World of Kinisis notes"
             }
+          },
+          {
+            "id": "3b20b6b5ab091e13",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,10 +176,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f639b2faac551136",
+  "active": "dcb344330c1f6052",
   "lastOpenFiles": [
     "World of Kinisis notes.md",
     "Attachments/World of Kinisis notes 4.png",
