@@ -1,0 +1,197 @@
+# Session notes
+
+### Session 1
+
+- Black rose and Seven appear at the gate together, and are met by instructor Zhaao long, he takes to go meet the head master. On the way we see liang he seems to be inhumanly strong
+- Have a fight with takashi, we double KO
+- We get a tour, then seven goes to the library and speaks haiteng
+- Haiteng is reading about the empress of Flame, and learned about her best friend who jess hua who currently runs the hospital.
+- Mon-ransu researched the true dragon of radiance, learned that there was a sect that worshiped that dragon, and there leader made a pact with it to gain immortality. they were the Ashina sect, and they got destroyed by the owl mercenary company. This sect knew where the entrance to the domain of the dragon was. The head of the owl merncay company took the power of the true dragon, sealed it into a sword.
+- The sword eventually found its way to Yue Tiang-Li and it was called the mortal blade.
+- Seven reads about the true dragons. Yue Tiang Li was tied to the true dragon of raidance, yalena was was tied to the true dragon of fire. The true dragon of metal was said to be evil and dislikes the dragon of fire. Its theorized that they will go to war with each other. True dragon of water was bound to an armament and was used by sin han, but it has now become lost. True dragon of wood, is said to be the one to rebirth the land, and make it grow, and that he did this millions of years ago to begin life on the planet. True dragon of earth, its the foundation of the world itself.
+- I also found a fable about them. It starts with the true dragon of fire burning away all corruption of the land
+- From the ashes of the fire, the true dragon of earth crates new earth and land
+- The true dragon of metal, created metals and gems
+- The true dragon of water caves rivers and oceans
+- The true dragon of wood creates life thought the planet
+- Then lastly the dragon of radiance gave the world its blessing to live happily
+- The true dragon of fire is said to be watching for more corruption to this day.
+- There are 2 pages missing. When haiteng tells me about about metals that corresponding to to this fable, but there was one mural missing
+- Unable to tell if this was done intentionally.
+- Seven goes to the training hall and meets riku and jack. He sees rikus technique and learns that he controls fire qi. He suggests that we go out for a hunt as a challenge. Seven agrees and Jack overhears and wants to join in. We all show off our techniques to each other, get permission and start to leave.
+- When getting permission i ask who would be the best instructor to learn spells and spell arrays from and got told its Li mei.
+- We are going to hunt a qiongqi, an evil beast similar to a lion but with wings.. Its on the edge of town.
+- Heihua decided to come with us for research purposes.
+- The qiongqi comes out and gets the jump on roku. Though great effort we manage to beat it
+- Jack got the last hit on it and won the bet.
+
+### Session 2
+
+- Come back to mt High after the hunt, make the report, and give the carcass to heihua so he can do research on it
+- We have a qucik spar, and heihua wins
+- We go to the hospital, and while we wait to speak with jess, we see Saya
+- She his recovering from severe bloodloss, he is here recovering because they cant exactly say what happened to her because mon-ranusu, and the others said not to say anything.
+- We speak with jess, I ask her when she got the power of the true dragon. She went with her party to a cave that misty had told her about. She then came back with the power.
+- When we mention the misty at the school, she says that it's impossible because misty died.
+
+### Session 3
+
+- We get 3 days of training 8 sessions of training sessions per day
+- There is a tournament with a dragon tael as the prize, we were infromed by the instucter wei
+- The headmaster gives us a quest 2,500 were on a truck crossing the south of the Imperion empire border, and into the northern vally,
+
+### Session 4
+
+- Mincheol shenmi, black rose, seven and nyx go to the northern border at the imperion empire border.
+- We find tracks of an 18 wheller, blood tracks, and 2 skeletons.
+- Mincheol feels a melevolent energy, and then black rose feels it too.
+- The skeleton is human, that was cut apart and bashed with maces.
+- We find a bunch of undead skeletons, they have death qi.
+- Death qi will shorten your life span, get you hunted down by both the cult, and the justace league. Demons can cultivate it without detriment
+- We beat the skeletons and zombies, and when we go get the stones, we find they have been moved into a cave underground.
+- We hear 3 voices and the crackling of a campfire, 1 says “its a shame what happend to the prophet, hopfully this ritual will be able to create one as good as he was”  
+    2 says “that is what these spirit stones are for” 3 says “she is a sacrifice but she has it comeing, she dishonored the black star when she didnt die to the black death. ” also hear chiterring that sounds like an insects “and they say what about them” motioning to the insects.
+- Two in particular are eating spirit stones.
+- Only the black star can empower them.
+
+### Session 5
+
+- We fight 3 cultiists 2 demons, and 2 insects and won.
+- We win and free the sacrifice. Menchol and mon-ransu recognize her as a past opponent that they beat before. She seems to have been a past member of the cult who failed in their mission and was to be sacrificed as punishment.
+- We find 2,480 spirit stones were found, the inescets ate 20 of them
+- Liren got the spiritual guandao, and a pill of might that incresed his str by 2.
+- We report back to the headmaster.
+
+### 
+
+### Session 6
+
+- Go to grocer, blacksmith, alchemy
+- We go to the blacksmith, and on the way we see grafiti of a 7 pointed black stars. The janitor says that he found other symbols near the bridge and in some other ally ways
+- We go to the backsmith, we dont buy anything and he tells me to find ranged weapons at gun stores and pawnshops
+- At the grocer we over hear the news that a monster has attacked part of the city, and that the justice force has blocked off the part of the city the slums where they attacked. We pick up the items and leave
+- On the way to the alchemy store, we sense someone watching us, and black rose tells us that has demonic aura
+- We get the
+- The black market is in the south side of town in the slums, find a man named jakey and the password is “im friends with the iron talon”
+- Shenmi and the npcs go back to the academy while seven and black rose go to the slums for the dark market. She goes to the head master to turn in the quest and gets into the questioning for the prisoner.
+- Black rose at the acadamy gets asked to find brick brawnson because he was supposed to fight in the tourniment, and he is spposed to be in the slums
+- I got to the slums and find jakey and tell him the code, then buy a shotgun
+- Shenmi interagates the prisoner, and they want to know who stole the spirit stones, she says the black star cult did, they wanted to use them to summon a new blood prophit. She said she joined because she was with someone named Kaito, and when she joined the cult it was fun at first but found them crazy
+- The blood prophet is not the only prophet. Its like a rank that higher members have, and there are 3. One of the other ones is known as the plague prophet. Other workers are the east gate butcher, and captian roku, and an old lady named lotus loco but she died, there was the collector who found rare artificts, but he has stopped recently.
+- Shenmi decideds to vouch for the prisoner hikari to allow her to join the acadamy, taking on the resonsablity if hikari gets into trouble.
+
+### Session 7
+
+- Saya reed, black rose, and maizuki go to the slums
+- Right after buying his shotgun, he hears the screem coming down from the ally way, and sees the monster climbing out of it killing someone on the way. Then second monster and a third moster follow out after it.
+- We see the guy who instuctur wei shen send black rose to find, brick brawnson fighting the monsters
+- We beat the monsters, and the justice force question reed about the incidewnt while black rose and seven bring brick brawnson back to the acadamy.
+- We assume that because of its death qi it may be demonic or necromantic in origen.
+- When we get back to the academy seven, rose, and mincheol go to question misty
+- She said that her mom was killed in the arena after getting arrested, and she inherited everything, including her name technique and house from her. She said that she can lead us into her basement that has her mothers inharitince and may include clues about the cave.
+
+### Session 8
+
+- We enter misty’s basement
+- We find the secre labe
+- In the turnmal we find mist two (mitsty’s mom) emails
+    - “Design ‘Specifications”: “To R&D. Why are the new robot designs you sent designed this way? We were supposed to be making killer robots, not strippers. One of your developers told me that they were supposed to be based off of White Rabbit’s ‘best operative’ and ‘resemble her.’ Is this what you think of me as? Curves? If so, your proportions are way off. They’re much too small if they’re supposed to look like me.”
+    - “Venom Asura”: “To R&D. “Yelena wants me to help her reverse engineer that Venom Asura thing we found, see if we can extract whatever Technique it might be hiding. I think some ash, plus a little alchemy, should do the trick. Whatever you find, don’t send it to her. Send it to me first. P.S. The current designs are fine, there’s something to appreciate there.”
+    - “The Boar”: “To Operations. I think Taowu is after me. Did they find out about that contract? Who was that job even for? I don’t think they like what I might have seen. I’ve seen those purple robes four times now, I know they’re watching me. Even Bao Lang has been acting weird around me ever since he got back to town. Tell them I was just a middle man, and I don’t even know what that information was. They should understand.”
+- We find a one of the white rabbit bots in the maintenance bay, and we up date it
+- We find a jar filled with find gray ash with 4 lebles “imporant” “for shipping” “venum ashura” “not seasoning”
+- When the robot awakes it calls misty mist two( misty’s mom)
+- The bot leads us to a bedroom. We find a calander with 2 marked dates
+    - 20 years ago on february 7th its marked for cave with yelena
+    - april 23rd is for a wedding
+    - There is a book that is about posinners, some marked pages are mention someone called venom asura
+    - The venom asura was an achent positener who used a tech that mixed poinsen with martal arts and lighting element.
+    - There is a note that that reads “Yelena would LOVE this! Even though she’s not really a poisoner. And it would give me a chance to play with her.”
+    - There is a pic of mist two, yelena, with a women with white hair green eyes, and a cloak. Yelena is wearing a mask blushing hevely and closing her thieys, and mist two is wearing a fake smile. The other women is doing silly pose.
+    - We find weeding invites for yelena and sasakue bloodox. There is a note that says “so tired of people saying this is a fake wedding, just becasue there is n o prenup doent mean its fake”
+
+### Session 9
+
+- Minchol and mon-ronsu go looking for things to make the venon asua ash, they needed an glass-viper venom sac, they bought a woman glass viper yokai, but didn't want to sacrifice her so they jo
+
+### Session 10
+
+- Meinchol and monronsu finish the fight, and collect
+
+### Session 11
+
+- Seven, black rose, menchol and mon ronsu decide to go to the cyrpt. Menchol is getting the last ingredient for his venom asura, the ashes here, he is hiding that fackt from seven and rose, and said instead that they need to cleanse the area.
+- When we get gate of the crypt we see the the black star cult preforming a ritual using the life burn energy in the area.
+- While we are fighting the ghost of yuan shi coalesce from the life energy, and uses mass suggestion to control the cultists and make them fight the undead that the white king is commanding on the skeletons.
+- After the battle, the black star templar says that they were here trying to revive the blood prophet, and find the pale one.
+- The templar says that they must not allow their enemies to gain immortal hearts.
+
+### Session 12
+
+- We are at the sect, and get 5 hours of cultivation, seven used his 20 sprit stones to learn
+- We are attacked by jon xi na, and is two demi human slaves, the king and armor king.
+- After saya beats them, we learn that they have something to do with the iron fist tournament, and a promise that instructor li ren made.
+
+# NPCs
+
+- Jes hua- doctor at the hospital in boreal city. She was the childhood best friend of the yalenea, and lost all the blood
+- Jon xi na: some fighter from the mishima clan. Has demi human slaves called king and armor king.
+
+# Encountered enemies
+
+### Qiongqi
+
+- Has quills
+
+Demons
+
+- Has death qi
+
+Slum Monsters
+
+- Have puss sacs on their back.
+- Have death qi
+- Explode on death
+
+# Spells:
+
+### Ideas
+
+- Suppression: limits the targets str stat.
+    - While in effect, targets get disadvantage on strength based checks, saving throws, and attacks.
+- Destruction: deals damage based on the difference in relm between target and user
+    - When used, it will conjure the image of a dragon ripping through the target with a huge bite. Deals 3d10+amount of qi put into the spell.
+- Sealing: seals the opponent for a number of turns based on how much qi is used for the seal
+    - Seals the opponents reaction for the duration,
+- Suppression: blocks the targets sight and and hearing
+    - Targets affected by this technique must make a wisdom saving throw or be blind and deafened for the duration.
+    - The target sees inky darkness surround them, and they hear voices of their deepest doubts shouted over everything.
+
+Black Ink suppression: weakness of a runt
+
+- On hit, target must make a wisdom saving throw or be affected by the spell for the duration
+- While in effect targets get disadvantage on strength based checks saving throws, and attacks
+- Spell lasts for 1 minute turns, and at the end of each of the target's turns, they make a wisdom saving throw, and if they succeed the effect is dispelled.
+
+Black Ink Suppression: world of condamnation,
+
+- On hit target must make a wisdom saving throw, or be affected by the spell for the duration,
+- While in effectL target is blinded and deafened for the duration
+- Spell lasts for 1 minute and at the end of each of the target's turns they make a wisdom saving throw and if they succeed the effect is dispelled.
+
+# Fight
+
+Wins:0
+
+Ties:1
+
+Loss:3
+
+Total fights: 4
+
+Individual fights:
+
+takeshi: 1 tie  
+Black Rose: 1 loss
+
+Reid, Xuna, and Shénmì: 1 loss with reid getting the final

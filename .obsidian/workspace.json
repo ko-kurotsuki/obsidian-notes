@@ -25,14 +25,14 @@
             "id": "2d215b641195ef8f",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "test/testing.md",
-                "bFile": "test/testing.md",
-                "aRef": ""
+                "file": "obsidian notes/earthrealm/Earthrelm_hearold war.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: testing"
+              "icon": "lucide-file",
+              "title": "Earthrelm_hearold war"
             }
           }
         ],
@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian notes/earthrealm/Earthrelm_hearold war.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Earthrelm_hearold war"
             }
           },
           {
@@ -127,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsidian notes/earthrealm/Earthrelm_hearold war.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Earthrelm_hearold war"
             }
           },
           {
@@ -155,12 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "obsidian notes/earthrealm/Earthrelm_hearold war.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Earthrelm_hearold war"
             }
           },
           {
@@ -194,12 +197,39 @@
   },
   "active": "2d215b641195ef8f",
   "lastOpenFiles": [
-    "test/testing.md",
-    "obsidian notes/Night in the backstreets/Enemies.md",
-    "test",
-    "obsidian notes/Night in the backstreets/Kovethe's notes in the backstreets.md",
+    "obsidian notes/earthrealm/Earthrealm Odyssey.md",
+    "obsidian notes/earthrealm/Aela's Timeline.md",
+    "Welcome.md",
+    "files.base",
     "obsidian notes/Night in the backstreets/NPC.md",
+    "obsidian notes/Night in the backstreets/Enemies.md",
+    "obsidian notes/Night in the backstreets/Kovethe's notes in the backstreets.md",
+    "obsidian notes/pestilnce of the isle/pestilance of the isle notes.md",
+    "obsidian notes/pestilnce of the isle/pestilance of the isle notes.docx",
+    "obsidian notes/world of kinisis/World of Kinisis notes.md",
+    "obsidian notes/earthrealm/Earthrelm_hearold war.md",
+    "obsidian notes/earthrealm/Earthrealm_ Nar Makai.md",
+    "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey 9.png",
+    "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey 8.png",
+    "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey 5.png",
+    "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey 3.png",
+    "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey.jpeg",
+    "obsidian notes/world of kinisis/World of Kinisis notes.docx",
+    "obsidian notes/world of kinisis/Attachments/World of Kinisis notes 13.png",
+    "obsidian notes/world of kinisis/Attachments/World of Kinisis notes 12.png",
+    "obsidian notes/world of kinisis/Attachments/World of Kinisis notes 11.png",
+    "obsidian notes/world of kinisis/Attachments/World of Kinisis notes 10.png",
+    "obsidian notes/world of kinisis/Attachments/World of Kinisis notes 9.png",
+    "obsidian notes/world of kinisis/Attachments",
     "obsidian notes/earthrealm/Welcome.md",
-    "obsidian notes/Night in the backstreets/Untitled.base"
+    "obsidian notes/earthrealm/notes for Earthrealm Odyssey.docx",
+    "obsidian notes/earthrealm/Earthrelm_hearold war.docx",
+    "obsidian notes/earthrealm/Earthrealm_ Nar Makai.docx",
+    "obsidian notes/earthrealm/Aela's Timeline.docx",
+    "obsidian notes/earthrealm/Attachments",
+    "Untitled.md",
+    "obsidian notes/world of kinisis",
+    "obsidian notes/Night in the backstreets/Session notes.md",
+    "test/testing.md"
   ]
 }
