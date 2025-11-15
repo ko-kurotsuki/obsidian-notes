@@ -131,11 +131,24 @@
 - We are at the sect, and get 5 hours of cultivation, seven used his 20 sprit stones to learn
 - We are attacked by jon xi na, and is two demi human slaves, the king and armor king.
 - After saya beats them, we learn that they have something to do with the iron fist tournament, and a promise that instructor li ren made.
-
+### Session 13
+- the day after, duing the night, everyone gets nightmares about pain and suffering, while worrying about the torniment. in the moring we feel weak, with mucle ache and fatuige. 
+- the headmaster gives a speech to encourage us. 
+- minchol recives a call from someone named maya. aparently they know eachother. she also seems to know a lot about whats happening at the school. she tells menchol to come see her, and to bring her new friend (seven).
+- we meet her in the club, and she tells us that the black star cult has been employing demons and demon cultivators. they have been been seeing them expand that demon army, employing more and more. she thinks that the black star cult has a partner that is supplying them with demonic solders. she employs us to find evidence of what they are doing, and gives us an address to check out 
+- at the adress seven infiltrates by  faking being a memeber, and partipates in the ritual. they open a portal that leads to some burning hellfire place. out step a bunch of demons their leader is a ink black demon in a suit named zevza
+- they had papers about the deal, and seven takes them. they want something called the immortal heart to revive the blood prophit but zevza says he doesnt have it and they will need to make a new deal in order to get info on where it is. 
+- while we are talking a car comes close and zevza silances the room while they pass. one car is unmarked, and one is a police car. they pull infront of the building. 
+- the police step into the building, and they say "cain wouldnint want us being here commander came" "their leader says that he doesnt want to ingonre cultis  "  the leader is called Michal 
+-  menchol grabs his phone with the recoding, but the cops discover the cultists and seven
+- we go back to mayia, and hand over the evidence. we get paid.
+- seven asks if she has info on the true dragons, and she takes him aside and tells him that yalena may take killing the true dragons *personally* and warns me to be careful in my search as people worship the dragons. 
 # NPCs
 
 - Jes hua- doctor at the hospital in boreal city. She was the childhood best friend of the yalenea, and lost all the blood
 - Jon xi na: some fighter from the mishima clan. Has demi human slaves called king and armor king.
+- maiya- someone that menchol knows. is fighting against the black star cult but is lying about the reason (she says its because she loves the city, and wants to protect people.)
+- michal wulong- a cop with the justice.
 
 # Encountered enemies
 
@@ -143,16 +156,21 @@
 
 - Has quills
 
-Demons
+### Demons
 
 - Has death qi
 
-Slum Monsters
+### Slum Monsters
 
 - Have puss sacs on their back.
 - Have death qi
 - Explode on death
 
+
+### zevza
+- demon lawyer that is making deals with the death cults
+- it seems that he is making illigal deals and they are dangerous in hell.
+- can use demonic energy with words in the demon language to force specall clauses upon people
 # Spells:
 
 ### Ideas

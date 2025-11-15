@@ -11,10 +11,14 @@
             "id": "4922375b654503a2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "pestilance of the isle notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pestilance of the isle notes"
             }
           }
         ]
@@ -143,16 +147,27 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "59fe5e5f828ab353",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -164,6 +179,7 @@
   },
   "active": "4922375b654503a2",
   "lastOpenFiles": [
-    "pestilance of the isle notes.md"
+    "pestilance of the isle notes.md",
+    "Untitled.base"
   ]
 }

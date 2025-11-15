@@ -1199,6 +1199,30 @@ Vast: 24 hp
 - We leave the class room, and aethusa notices blaidd has no shadow.
 - We go to romanius’s office to see if he stole blaidds shadow. We learn the romanius here is acutally soulless that is imitating him. And because of blaidds uique situation he reconiqzes blaidd has his master. Blaidd asks him if he has seen anything unusual. He has been on to him. This soulles says that the watch dogs are on to him, but still acting nutual. He says sonnery has suffered a lot of losses to the fallstaff army he also says that the items (256 soulless army) in the vault are ready for the Falstaff vault. and that they are ready to take the Falstaff. Ther e will be 2 fallsaffs in attendance for the betrothal ceremony. They will be married to soulless so they can open the valt. The 256 soulles are thought the school, as students facluy and even as watchdogs. Romanius created protosouls to hide the fact that they are soulens, basiclly a thin shell of soul energy to mimic the outside of a soul while still keeping the inside hollow.they are also planning to deliver soul energy to perl. Bliadd gets a list of the people who were replaced by soulless and their current
 - We get a packet about the elven mophaogy of souls. Elves have intimate attunement to magic and can use it to designate their souls will go after death including calcifying into soul gems, reincarnating to woodland creatures or fairies, or drow with pact magic will return to whoever they made into a pact with, or calcify into shadow crystal. Bloodbearers also will calcify into soul crystal aka a blood soul crystal. It also tells us that
+
+### Session 79
+- we open with ablaidd and aethusa speaking with ancan. they move through the halls, and they go to a garden outside 
+- ancan has acess to every branch of magic that exists. magic users were blamed for everything when the god kindem fell, and ancan tried to save as many as he can 
+- ancan learned chronogeny, the art of time magic from gnomes. he sees the nexus points and knows that aethusa has the power to brake them 
+- ancan sees into the future and knows about the future, and his death and the destruction of the conservitorim 
+- ancan is friends with jutas and was invited to the pilgrim hunt. he tells aethusa is the best place to stage to wage war against the chaosrealm, so offers her a deal. if she uses her power to destroy the nexus of the conservatoriums fall, then he will grant her access to the might of conservatorium for the hunt, 
+- bliadd alone in the room tries praticing magic while waiting. he tries to summon on of his familiers, but instead the shadow coalleses into a gaping maw that swollows him whole 
+- when he looks out he sees the ramains of his domain, Limbo
+- blaidds shadow moves unaturally and elongates around the tree, then takes the form a a wolf. blaidd does not feel afraid of it. the beast is blaidds own shadow.
+- the wolf is limbo, the limb that was discarded when his realm fell, he is the shadow to blaidds light, seprate but inseparable. 
+- limbo the beast's  blood has the power to make shadow beasts, and blaidds blood has the power to make lycenthropes.
+-  keigo switch with fate, and we see him speak with lilitna. keigo atfirst hates on lilithna, but she syas that she answered his prayers when he was cast out family, and begging someone to answer. he only loved the way she made him feels 
+- keigo says that this new fallstaff, while weaker, her eyes are scary. her name is vesper, she is like an animal thats been released in home, a fociaos beast that is hungry and more focused. this may be the last time he switches.
+- fate is in keigos body, sitting around an ivory table with busts and stained glass of heros but they are all broken, and busted up. sitting with him are the vampires. 
+- syllus says that vycera's pregancy is toiugh so syllus is is charge of the war effort. 
+- vesper is scraping her knife on the table, and fasting a stake. 
+- the war effort is trricky for vycera. they know the goliths have koncosum and are getting haroldeies from her. the jjj are stlll out. conseratorim is remaining nutuarl. they are usign the bone lord as a destraction and figure head. they say they need to beat the glith's and get koncosom so they send vester and keigo. they also want someone going agianst vayscora to investigate her, so they send maria.
+- we have keigo walk with vester out of the meeting, and he feels almost drunk while near her, lightly fading in and out of contious ness. we walk outside teleport to the fort where the goliaths
+- she summons a bat, she s says that it takes a month to make 1, and she has spent a year making them. their insides are fild with some type of foam that reeks of sulfuer. she says she made them to beat vycera, but is useing them hereone of them has a belly has hevenly frost in it. she send them out and blows up the fort re 
+- the fort is in rubble,  and the inside, is a bloodbath, siniew, and fire is all that remains, along with henric, he cut off his haroldry to servive.
+- koncoem will be released do to vespers action. 
+- henric says that vycera did things to vesper too. but vesper brushes her off. she probably there.
+- 
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
