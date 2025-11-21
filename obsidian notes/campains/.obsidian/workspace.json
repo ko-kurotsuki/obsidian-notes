@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slay the demon lord/old heroes party.md",
+                "file": "seal the demon lord/sessions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "old heroes party"
+              "title": "sessions"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "slay the demon lord/old heroes party.md",
+                "file": "seal the demon lord/sessions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for old heroes party"
+              "title": "Backlinks for sessions"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "slay the demon lord/old heroes party.md",
+                "file": "seal the demon lord/sessions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from old heroes party"
+              "title": "Outgoing links from sessions"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "slay the demon lord/old heroes party.md",
+                "file": "seal the demon lord/sessions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of old heroes party"
+              "title": "Outline of sessions"
             }
           },
           {
@@ -194,11 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6053033b2dc1cc6b",
+  "active": "437e4d1695c47a74",
   "lastOpenFiles": [
+    "seal the demon lord/overall story.md",
+    "seal the demon lord/sessions.md",
+    "seal the demon lord/old heroes party.md",
     "Untitled.base",
-    "slay the demon lord/overall story.md",
-    "slay the demon lord/old heroes party.md",
-    "slay the demon lord"
+    "seal the demon lord"
   ]
 }
