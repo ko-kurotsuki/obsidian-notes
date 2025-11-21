@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "ed6ecb338f34793b",
+    "id": "d0fd6c23f76b41ee",
     "type": "split",
     "children": [
       {
-        "id": "22904a46a73aa6d0",
+        "id": "ec5a91246f706d72",
         "type": "tabs",
         "children": [
           {
-            "id": "583befe4179a7fe1",
+            "id": "437e4d1695c47a74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian notes/Night in the backstreets/Enemies.md",
+                "file": "slay the demon lord/old heroes party.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Enemies"
-            }
-          },
-          {
-            "id": "2d215b641195ef8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "old heroes party"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "edc5ea05e9506691",
+    "id": "3ac9412ecd8d67ba",
     "type": "split",
     "children": [
       {
-        "id": "5a90597bbfdc7398",
+        "id": "01d9bc6bef7676e9",
         "type": "tabs",
         "children": [
           {
-            "id": "756d6df2b566fe94",
+            "id": "6053033b2dc1cc6b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "07052139fe16037c",
+            "id": "0f67af4d23fde270",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "596c4a335bdf19c5",
+            "id": "48ed8f8e03a620ed",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "81cafdf88ca26015",
+    "id": "344d07bcc830cb2e",
     "type": "split",
     "children": [
       {
-        "id": "65c9c543a33dcac8",
+        "id": "c5c9869a607cbda9",
         "type": "tabs",
         "children": [
           {
-            "id": "b63cba06f40629b6",
+            "id": "fef57161ae36515b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "slay the demon lord/old heroes party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for old heroes party"
             }
           },
           {
-            "id": "be73c46e7c6775f6",
+            "id": "0627a50cc9bd3c6c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "slay the demon lord/old heroes party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from old heroes party"
             }
           },
           {
-            "id": "598ccfd25dfe2220",
+            "id": "11e8c74f4945dcd9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,22 +137,36 @@
             }
           },
           {
-            "id": "b2eedafef898693f",
+            "id": "e73593ab021b6ac8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9c258c89e69f836c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "slay the demon lord/old heroes party.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of old heroes party"
             }
           },
           {
-            "id": "6dee39c5bbd25dc0",
+            "id": "37b0e5f55c6a75a2",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -177,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -195,51 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "756d6df2b566fe94",
+  "active": "6053033b2dc1cc6b",
   "lastOpenFiles": [
-    "obsidian notes/campains",
-    "files.base",
-    "earthrealm",
-    "Welcome.md",
-    "obsidian notes/earthrealm/harold war/Earthrelm_hearold war.md",
-    "obsidian notes/earthrealm/harold war",
-    "earthrealm/Untitled",
-    "obsidian notes/earthrealm/odyssey/Earthrealm Odyssey.md",
-    "obsidian notes/earthrealm/odyssey",
-    "obsidian notes/earthrealm/nar makai/Earthrealm_ Nar Makai.md",
-    "obsidian notes/earthrealm/nar makai",
-    "obsidian notes/earthrealm/Untitled.base",
-    "earthrealm/obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey 1.png.md",
-    "earthrealm/obsidian notes/earthrealm/Attachments",
-    "earthrealm/obsidian notes/earthrealm",
-    "earthrealm/obsidian notes",
-    "obsidian notes/earthrealm/Aela's Timeline.md",
-    "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey.png",
-    "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey.jpeg",
-    "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey 9.png",
-    "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey 8.png",
-    "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey 7.png",
-    "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey 6.png",
-    "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey 5.png",
-    "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey 4.png",
-    "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey 3.png",
-    "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey 2.png",
-    "earthrealm/Earthrelm_hearold war.md",
-    "earthrealm/Earthrealm_ Nar Makai.md",
-    "earthrealm/Earthrealm Odyssey.md",
-    "obsidian notes/earthrealm/Welcome.md",
-    "obsidian notes/earthrealm/Earthrelm_hearold war.md",
-    "obsidian notes/earthrealm/Earthrealm Odyssey.md",
-    "obsidian notes/earthrealm/Aela's Timeline.md",
-    "obsidian notes/Night in the backstreets/NPC.md",
-    "obsidian notes/Night in the backstreets/Enemies.md",
-    "obsidian notes/Night in the backstreets/Kovethe's notes in the backstreets.md",
-    "obsidian notes/pestilnce of the isle/pestilance of the isle notes.md",
-    "obsidian notes/world of kinisis/World of Kinisis notes.md",
-    "obsidian notes/earthrealm/Earthrealm_ Nar Makai.md",
-    "obsidian notes/earthrealm/Welcome.md",
-    "Untitled.md",
-    "obsidian notes/Night in the backstreets/Session notes.md",
-    "test/testing.md"
+    "Untitled.base",
+    "slay the demon lord/overall story.md",
+    "slay the demon lord/old heroes party.md",
+    "slay the demon lord"
   ]
 }
