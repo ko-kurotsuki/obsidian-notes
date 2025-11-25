@@ -661,6 +661,34 @@ We will devour your vile light and reduce your existence to nothing but the sten
 - After we see them, we meditate, and astral project into the domain of the sin of envy, and speak with harvester. We learn that orphus was the old sin of envy and he got the power by making a deal with sinji to try and break the curse on his people. He was supposed to give his soul.but ran before he did, and now the sin in trying to take his son instead.
 - The harvester says his name is xercxis. He serves a master that existed before kinesis, he says that he wants to set things in motion, and says that xerciss’s genocide started all this and now he works to fix it.
 
+### Session 39
+-  we hear an expulsion and run through the tunnal,s running through amalgums
+- looked for danny and found him building a mech out of achinet stones. and there is someone trying to break through the wall trying to break in 
+- its earamier the white and captian fire showed up believeing us to be umbra and they brought a bunch of solders with them 
+- haxxus is here too, and wants to speak with us, and he has a bunch of inquisiton reinforcements out here too. 
+- they explain what happened to us, but we learn that he already knows most of it because earamier's bird has been watching us the whole time. 
+- haxxus told us about xerxiss and how he is the one to introduce sin to the umbra
+- due to umbral time dilation magic, 4 weeks have passed in the time we were in the cave.
+- haxxus has met lex's dad and has him in jail
+- the inquisiston now has a way to the umbra through the caves. and says that they will go to genocide the underdark, lex has a brand on his soul that forces him to protect his people, so he cant act, so haxxus has kicked all of us out of inqsiton and if we stand in his way, he will need to kill us too
+### Session 40
+- the new plan is 
+	- get an air ship 
+	- go to the terralands and ask noah for permission to enter for the underfolk
+	- go back to hydroland get the underfolk and transport them to the terra lands
+- olivar has a friend that is a black market trader, and he can get us a air ship but he is a scam artist. the man's name is alistar
+- belvek told us tat he was the one to told haxus about lex's dad and the reason he got arrested 
+- we need to kainet in order to learn about alister's location. 
+- on the way, we enounter a shackwith a tall man inside. he seems magical as he turns the whole forsnst inot the dark of night instantly when he starts to speak
+- he starts handing out cards, jhnonny  gets 8 of hearts and i get 7 of clubs
+- the mountain stants tall and strong but is halted by the sparrows song, wind and tree stops along wall and debree, chedcks light burns but his followers fall, flesh de this riddle is supposed to tell us one of the members of our party, we guess jhonny, but its acutally teach 
+- he gives teach a "boon" of 8 needles 1 for each heart of 8ofhearts. its a compus pointing somehwere
+- he tells esuon the 7 of clubs is bound to his soul , and gives the deak of meny things to olivars
+- he gives an unlimited bag of holding to kuro.
+- olivear has to draw from the deck of many things once a day. first was 38
+-  we go to kainet and meet the trader alister who happend to be in town directly. he only speaks with kuro because he has teegani in debit
+- offers a 6 class airship, forgin, bilt by areos and upgreaded by electros and strong. but its curently in possion of oblivion trading company, so we will have to go and get it. we can keep the ship, but he keeps the cargo thats on it. the only cacth is that he can't provide fual for it, so we will need to get some from his friend
+- apparntly alilstar and danny know eachotehr. apperntly danny is alistar is his
 ## Encountered enemies
 
 ### Thrag spiders:
@@ -973,8 +1001,8 @@ Sam Beech: Hydro Cleric
 - Arch Priestess of otchure the hydro god. Looking up books for making electro machinas and other things that are helpful for burning
 
 Alchemist Runes  
-![World of Kinisis notes](<obsidian%20notes/world%20of%20kinisis/Attachments/World%20of%20Kinisis%20notes.png>)first is replicate, second is lock
-
+![[World of Kinisis notes.png]]![World of Kinisis notes](<obsidian%20notes/world%20of%20kinisis/Attachments/World%20of%20Kinisis%20notes.png>)first is replicate, second is lock
+![[World of Kinisis notes 1.png]]
 ![World of Kinisis notes](<obsidian%20notes/world%20of%20kinisis/Attachments/World%20of%20Kinisis%20notes%201.png>)
 
 Unlock
@@ -994,11 +1022,15 @@ Flame
 ![World of Kinisis notes](<obsidian%20notes/world%20of%20kinisis/Attachments/World%20of%20Kinisis%20notes%205.png>)
 
 seal
-
+![[Pasted image 20251125002044.png]]
+void
 ### Non alchemist runes  
 ![World of Kinisis notes](<obsidian%20notes/world%20of%20kinisis/Attachments/World%20of%20Kinisis%20notes%206.png>)
 
 Runes on sunglasses of blocking
+
+
+
 
 ## Recipes
 
@@ -1059,3 +1091,5 @@ Air
 ![World of Kinisis notes](<obsidian%20notes/world%20of%20kinisis/Attachments/World%20of%20Kinisis%20notes%2013.png>)
 
 withstand
+
+void
