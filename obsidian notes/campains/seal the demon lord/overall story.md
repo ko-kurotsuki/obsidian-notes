@@ -8,6 +8,7 @@ this shrine is headed by priestess maraka.  maraka tells them that to complete t
 
 * the famed hero can get discounts at stores, and free nights at inns 
 * the nameless hero is less likely to be targeted by random target npcs if they are chosen filp a coin, if its heads they will roll for a different target.
+* for the shrine of renown, implement  1 clock for the whole party, 12 sections. enemies will just try and reduce them to 0 hp.
 
 when they leave, they will be attacked by  sunshi hua. she will fight them, realize they are actually heroes when they bring her to half. she will escape, and report to the demon lord that she has found the new heroes. the demon lord will order her to watch them closely and gain all the info she can about them. 
 
