@@ -1,0 +1,4 @@
+- kerion used a fabula point to alter the story:  he once healed the prophet king and that's why he was recognized to get the invite. 
+- to crusader therion, I had forseen your magic is quite powerful, and this should help  you contorl it. 
+- they spend 2 days traveling to the cave and 2 back (16)
+- they spend 6 days travelling twards the lone tree

@@ -150,16 +150,27 @@
               "icon": "lucide-list",
               "title": "Outline of NPC"
             }
+          },
+          {
+            "id": "979ece0d52ddcf18",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -169,10 +180,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "7cf9428fe78ffb4d",
+  "active": "be1e5536bfe5be0f",
   "lastOpenFiles": [
-    "Session notes.md",
+    "Enemies.md",
+    "NPC.md",
     "Kovethe's notes in the backstreets.md",
-    "Enemies.md"
+    "Session notes.md"
   ]
 }

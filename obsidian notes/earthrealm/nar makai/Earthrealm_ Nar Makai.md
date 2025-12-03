@@ -176,6 +176,14 @@ The sword says to call him “white”. Claims to be a necromancer, and tempted 
 - The shadow demon then transforms in the levi, and we come to learn that when she revived kor and him, she was able to change levi’s pact with zaedrus into a pact with her.
 - Atropine encounters korvax the dread, and Atropine talks with him. Atropine says that in persuit of establishing an afterlife, they will need to do a ot of things that go against human morality and contions and xavius has shaved a lot of his own away, and become a monster. She still believes that evil people can do good, and this will be the best way to restore her family to its prime.
 
+### Session 12
+- we fight atropine, and she says "foolish all of you xavious will be waitng"
+- we had the option to bring sister kaya back as a vampire, or to mercy kill her
+- Anaya chooses to mercy kill her. and we decide to burry her in the field of roses
+- bophoment tells us that beyond the field of roses, there is a tower called the tower of joy, if we pass the trials in the tower,
+- before we leave, bophemnet speaks with gimbly privately: he says the tower of joy is treacherous, paralis, and takes time. he says we may not have the time to make it before the ritual. he gives gimbly a black bell, and tells him if we change our minds, he can dig up sister kaya's body ring the bell, and bophoment will bring him back.
+- the shadowbeast (blaidds shadow beast that with warlock power) and this field is where bliadd is buried
+- ![[Pasted image 20251128132005.png]] the rose field, these
 ## Encountered enemies
 
 ### Zombies:
