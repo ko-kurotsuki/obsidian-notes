@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NPC.md",
+                "file": "Session notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NPC"
+              "title": "Session notes"
             }
           }
         ]
@@ -180,11 +180,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "be1e5536bfe5be0f",
+  "active": "7cf9428fe78ffb4d",
   "lastOpenFiles": [
-    "Enemies.md",
-    "NPC.md",
     "Kovethe's notes in the backstreets.md",
-    "Session notes.md"
+    "Session notes.md",
+    "NPC.md",
+    "Enemies.md"
   ]
 }
