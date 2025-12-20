@@ -143,12 +143,18 @@
 -  menchol grabs his phone with the recoding, but the cops discover the cultists and seven
 - we go back to mayia, and hand over the evidence. we get paid.
 - seven asks if she has info on the true dragons, and she takes him aside and tells him that yalena may take killing the true dragons *personally* and warns me to be careful in my search as people worship the dragons. 
+### Session 13
+-  a women wearing rags and covered in scars, and we learn she his here to join the school 
+- the headmaster and seven scan her, and learn she is an elemental sprit with fire element, and traces of other elements 
+- seven is tasked with giving her the intro test., her name is potentia, and speaks little but seems driven to gain power, after the test, she is accepted into the sect, and seven gives her the tour. 
+- after a tall women in the priestess robes of the church of borial city comes to the sect, called guri. she has come to request aid from some cultivators, so jia, menchol potenita and seven get put on the mission. 
 # NPCs
 
 - Jes hua- doctor at the hospital in boreal city. She was the childhood best friend of the yalenea, and lost all the blood
 - Jon xi na: some fighter from the mishima clan. Has demi human slaves called king and armor king.
 - maiya- someone that menchol knows. is fighting against the black star cult but is lying about the reason (she says its because she loves the city, and wants to protect people.)
 - michal wulong- a cop with the justice.
+- guri- preistess from the church of broial city
 
 # Encountered enemies
 
