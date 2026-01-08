@@ -256,4 +256,14 @@
 - he also tells me that the common thead bettween all of kovethes old group is that they all work for syndicates, because if they can control theem, they control the darkness they can encounter the grater number of dissortons and abnormalityies. they are doing this to gain power to learn the truoth of the city.
 - the finger of boubell is a meeting between all 5 finger sydicates where they discuss how to rule the backstreets. 
 - this guy backs the ring because this year's boubell is different because they will decide who will be the syndicate to lead attakcing the coperations to take over their nests and singularities in order to learn the truth of the city. 
-- 
+
+### session 19 mumei island arc
+- mumei had met his sister, and she gets gets aquaited with rebecca (vasyals)
+- mumei's sister has the  "stench of mara"
+- they go back up the mountain where mumei tokumei is, and talk to her. she doesnt like mumi's sister being on the moutian and throws her off.
+- kurogane ryuman is someone who can stand against mumei tokumei's ambiton.
+- they fight the monkeys and beat them, and learn some monkey dance and techniuqes
+- they go to dual a necromancer, and during the dual they have a mental battle. 
+- for mumi, he sees his father, inside his doman.
+- kurogane ryumen is mumei's father. also says that mumeis real name is ryuto 
+- mf vysel's  engages in the mental battle, he goes to a grass planewith a man with long red hair, and a southern accent with rebbeca. his name is reed fisher and he is vasyels father. miss nari song is vasyals mom maybe. also reed is from the jade sprit realms and not from the world, also vasyel is half shikigami yokai.

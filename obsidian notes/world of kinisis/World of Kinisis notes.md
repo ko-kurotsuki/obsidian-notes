@@ -689,6 +689,15 @@ We will devour your vile light and reduce your existence to nothing but the sten
 -  we go to kainet and meet the trader alister who happend to be in town directly. he only speaks with kuro because he has teegani in debit
 - offers a 6 class airship, forgin, bilt by areos and upgreaded by electros and strong. but its curently in possion of oblivion trading company, so we will have to go and get it. we can keep the ship, but he keeps the cargo thats on it. the only cacth is that he can't provide fual for it, so we will need to get some from his friend
 - apparntly alilstar and danny know eachotehr. apperntly danny is alistar is his
+### Session 41
+- we go to get fuel from alistars friend. he is in a huge mantion as big as haxus, the gards seem tariffed of the master
+- oliver pulls from the deck of many things and gets a 11(any thing he touches turns to rust)
+- after, a battered old man walks in, he has missing teeth, a missing eye, and he as been hobbled (had his ankles have been internally broken and healed incorrectly)
+- after healing his wounds he tells us that his son has died a week ago, he was crying at the funeral and he upset the mistress. because he made her feel bad he was beaten. 
+- this family is the arrowsmith family, and they are assoicated with the hammerfell  family
+- we meet the master, and he is cold and ruletess ariscrat, he says he will give us the fuel, but it we must speak of the "dark marks of the soul" .  he talks about esuons torture, jhonny's fire body, and lexes voidheart. olivar kills him, and we kill the solders. 
+- the girl here is "fake" and when we check her kinisis, she has thousnds of kinisis patternes squished into her form. 
+- we free all the broken body hydros underground, then take all the notes tens we smash up the room to make it look like abreak in then head into the secret tunnels to go to the quartermasters wile avoidting the guards in the hall
 ## Encountered enemies
 
 ### Thrag spiders:
