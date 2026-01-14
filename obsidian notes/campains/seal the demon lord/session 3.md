@@ -1,0 +1,2 @@
+- they try the trial, and they all lost. 
+- darinan lost his armor given to him by the 

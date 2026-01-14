@@ -267,3 +267,6 @@
 - for mumi, he sees his father, inside his doman.
 - kurogane ryumen is mumei's father. also says that mumeis real name is ryuto 
 - mf vysel's  engages in the mental battle, he goes to a grass planewith a man with long red hair, and a southern accent with rebbeca. his name is reed fisher and he is vasyels father. miss nari song is vasyals mom maybe. also reed is from the jade sprit realms and not from the world, also vasyel is half shikigami yokai.
+### session 20 
+- its the day before the party at A corp. and everyone from mumei island is back. they brought gient lobster. 
+-  we all get ready, then go 

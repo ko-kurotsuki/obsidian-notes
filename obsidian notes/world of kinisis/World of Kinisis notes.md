@@ -698,6 +698,14 @@ We will devour your vile light and reduce your existence to nothing but the sten
 - we meet the master, and he is cold and ruletess ariscrat, he says he will give us the fuel, but it we must speak of the "dark marks of the soul" .  he talks about esuons torture, jhonny's fire body, and lexes voidheart. olivar kills him, and we kill the solders. 
 - the girl here is "fake" and when we check her kinisis, she has thousnds of kinisis patternes squished into her form. 
 - we free all the broken body hydros underground, then take all the notes tens we smash up the room to make it look like abreak in then head into the secret tunnels to go to the quartermasters wile avoidting the guards in the hall
+### Session 42
+- when talking about the girl, oliver says that her ammulate has living umbra in it because its umbra with a living host, with living kinesis. 
+- looking deeper at the amulate, its a pure sterling silver, it doesnt react with my typical checmicals, when in water it moves like water but when pulled out it it re solitified. this metel was only found with serune castal in his world class item. it seems to be what is containing the umbra pro
+- eros is the name of the fragment. it tells us that its holidng the body and the girl together. 
+- we make our way to the warehouse get some fuel, then leave
+- when we leave we have eros take the butlers body so that she can keep herself stable 
+- when we leave, we see the guy who killed cayde (electo) walk into the shadows and disapear,. 
+- we also see that we have a boundty on us by they hydrolands government, and the hammerfell family. 
 ## Encountered enemies
 
 ### Thrag spiders:
