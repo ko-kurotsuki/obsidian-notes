@@ -1222,7 +1222,22 @@ Vast: 24 hp
 - the fort is in rubble,  and the inside, is a bloodbath, siniew, and fire is all that remains, along with henric, he cut off his haroldry to servive.
 - koncoem will be released do to vespers action. 
 - henric says that vycera did things to vesper too. but vesper brushes her off. she probably there.
-- 
+
+### Session 80
+- after reviving  henry, he get iratall and thinks we are attacking him 
+-  we get sent to the bog for the untheorized spell casting. we meet blaidds shadow mastiff, and he tells us that rycards soul is not in the soul sphere. 
+- we move through the bog, and a souless talks to us when we get in deeper. we see a mass of soul tenenticles, that were made sort of like a cross between orion, and the soul chains that argon made to contain gurturde. its made of soul elergy. 
+- the souless tells us that we aren't marked for replacement, and we are instead coconspirators 
+- this souless is called Dove, and she is the caretaker of these soul energy creatures. 
+- dove says that she has learned about romaius' goals is to become imortal by basiclly making everyone into romanius or atype of romanius. there is also a hall deeper in side the bog that onlt romanius perl and one time, argon we allowed to go into. 
+- for the notes tommrow is the courting ceramonay, and in a week, the betrothal ceramony.
+- the betrothal list has changed from maria and vesper, to rycard and fiona.
+- henry has a pilgrim haroldry that just appeared.
+- blaidd went into the future,  then came back. aethusa got the goop parasite from Dove off fate, and we go to bed
+-  in the morning, gizo comes and says that henry is leaveing tommrow and that he has access to all of gizos weapons and hearold killer robot that has accesss to heavenly frost. 
+- fate gets some new drip, then meets with his father. he meets suphrine his step mom, and his father.
+- growing up axel didnt know he was a harbenger untill later. it wasnt want long ago that people thought that beeding with strong housesd will allow for stronger offspring, and its true, but they got strong powers but it wore down their cardiovasculer system. my fathers powers are killing him rn and needs a pill to suppress his magic. it seems that the true history of our family is behind the valt and even my father doest know what the previous heads of the family were like.
+- my father said that
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer

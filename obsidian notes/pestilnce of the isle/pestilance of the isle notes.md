@@ -143,18 +143,35 @@
 -  menchol grabs his phone with the recoding, but the cops discover the cultists and seven
 - we go back to mayia, and hand over the evidence. we get paid.
 - seven asks if she has info on the true dragons, and she takes him aside and tells him that yalena may take killing the true dragons *personally* and warns me to be careful in my search as people worship the dragons. 
-### Session 13
+### Session 14
 -  a women wearing rags and covered in scars, and we learn she his here to join the school 
 - the headmaster and seven scan her, and learn she is an elemental sprit with fire element, and traces of other elements 
 - seven is tasked with giving her the intro test., her name is potentia, and speaks little but seems driven to gain power, after the test, she is accepted into the sect, and seven gives her the tour. 
 - after a tall women in the priestess robes of the church of borial city comes to the sect, called guri. she has come to request aid from some cultivators, so jia, menchol potenita and seven get put on the mission. 
+### Session 15
+- we follow guri west of the city. due to the spiritual disperbance, we dont know the exact location.
+- when walking demonic cultivations and 2 lesser demons and one greater demons.
+- we kill them, but dont find anyhting about them. 
+- as we walk forward, we ask guri about yalina. she knew her but doesnt know where she is now. 
+- talks about Nilas, a student at mt high, and a creature of the fog.
+- when we get the place we felt the disperbance, we see its a camp with a lot of dead bodies, both of cultists and the church acolites have died, but there is also a demon, and a merconary group we dont know about. 
+- all the bodies were killed with the same weapon, a blade that has an incredible amount of death qi 
+- the demon cores are not here so the person that was here
+- minchol deduced that whoever has this weapon would be driven insane by the ammount of death qi that the weapon would have.
+- the logo of the merchnary group has been defaced.
+- even the souls are not present in the area, so the person who killed them may have stolen their power.
+- when searching the camp from inside the tent there comes out somene in armor and a white mask. they seem to think we are demons.
+- calls us the servents of shuda. says the the devine hair must pay.
+- we beat and capture him. but guri got injuered so we take her back to the church. 
+- we talk with archbishop  zerin and tell him the results.
+- we get compinsation for completeing 
 # NPCs
 
 - Jes hua- doctor at the hospital in boreal city. She was the childhood best friend of the yalenea, and lost all the blood
 - Jon xi na: some fighter from the mishima clan. Has demi human slaves called king and armor king.
 - maiya- someone that menchol knows. is fighting against the black star cult but is lying about the reason (she says its because she loves the city, and wants to protect people.)
 - michal wulong- a cop with the justice.
-- guri- preistess from the church of broial city
+- guri- preistess from the church of broial city. used to be a student at mount high, and after she graduated she joined the church. she is a Whispered, a creature of the fog. 
 
 # Encountered enemies
 
