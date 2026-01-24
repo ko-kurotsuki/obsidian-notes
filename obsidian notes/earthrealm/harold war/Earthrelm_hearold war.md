@@ -1238,6 +1238,19 @@ Vast: 24 hp
 - fate gets some new drip, then meets with his father. he meets suphrine his step mom, and his father.
 - growing up axel didnt know he was a harbenger untill later. it wasnt want long ago that people thought that beeding with strong housesd will allow for stronger offspring, and its true, but they got strong powers but it wore down their cardiovasculer system. my fathers powers are killing him rn and needs a pill to suppress his magic. it seems that the true history of our family is behind the valt and even my father doest know what the previous heads of the family were like.
 - my father said that
+### Session 81
+- lilithina severs fate's warlock pact, and leaves. 
+- they go to the courting ball, and they see a bunch of people, including cornilious, and rycard
+- ancan gives a toast, and says that after the meal the suitors will be make their way to the back rooms 
+- fate uses the yellow shard of amon to brand the singer that blaidd is based off of, blaidd and aethusa.
+- we go to the back, fate uses his pill to use magic again. 
+- he sees that fiona is suppressing his magic, rycard has no magicel energy in him, but he as trace of animate dead and turn thrall, and fiona is the one 
+- fiona is withdrawn, hiding her magical power. fate talks to her mad manages to convince her to meet tonight for 'bedtime stories'. she tries to charm him but he reisits. he then plays it off like he is charmed, and uses yellow shard of amon to spy on here.
+- cortado k'afe is aware of the souless and knows about romanius magic (the magic of the shards.), but doesnt know about who is in the the ploting.
+- fiona is a goliath woman, but her arm is discolored like it belongs to someone else. and on the side of her neck has a tattoo that is the branding of rycard that the goliaath at kahaat had.
+- Fate and Fiona sign their names together for the betrothal bucket.
+- most of the consivertorium will be closed for the coming week, so we will need to have dates off campus 
+- 
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer

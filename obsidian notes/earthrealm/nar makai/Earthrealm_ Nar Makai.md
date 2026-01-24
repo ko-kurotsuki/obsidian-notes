@@ -184,6 +184,18 @@ The sword says to call him “white”. Claims to be a necromancer, and tempted 
 - before we leave, bophemnet speaks with gimbly privately: he says the tower of joy is treacherous, paralis, and takes time. he says we may not have the time to make it before the ritual. he gives gimbly a black bell, and tells him if we change our minds, he can dig up sister kaya's body ring the bell, and bophoment will bring him back.
 - the shadowbeast (blaidds shadow beast that with warlock power) and this field is where bliadd is buried
 - ![[Pasted image 20251128132005.png]] the rose field, these
+### Session 13
+- we go to gimbly's home town kuakua, and try  to go to his mom.
+- she is in the sewers so we enter there. there are blood runes that alert the caster to our presance. 
+- we find a shrine dedicated to lucionas for protection, and we take the offeries that are there. 
+- the statue then gets an evil vampiric look, a shadow beast is summoned. we beat it, destroying the statue in the process, and a ring drops. 
+- its a ring of water walking, gimbly equips it
+- we reach the mannor, and we meet an orc with pale skin and vampic fangs. he says he is a fellow member of the order.
+- he tells us that gimbly's mom will look diffrent then what he remember.
+- gimbly meets with his mother alone. she looks elderly, very contrary to the fact that she is a vampire. she seems sick, and is apologizeing for everything she done. she says that she is sorry that she made her son a vampire. for a long time she has been deciving gimbly into thinking she was a vampire when she isnt. she used illusion magic to hide her age, and brought about. she killed his father in a blood frenzy. she got offered the cure to vampiresm for gimbly, but refused it because she wants him to be eternal. 
+- gimbly's mom says they have someone who could replace lucionis. xavious and gimbly's family will may be rallying around him to accomplish their goals. she has dedicated all her magic to him. she tells us that xavious has made kuakua the center of his palace. 
+- anaya prays and speaks with sir borgrum, an former paliden of the jagren order. he fought in the bloodwars agaisnt lucions. he got turned during the war. 
+- we go to rest, and while we do sir gorgrom notices something outside, and goes to check it out. he then sees a mob  of people , some are old wisened wizards, and all have their eyes glowing purple eyes..  
 ## Encountered enemies
 
 ### Zombies:
@@ -238,8 +250,9 @@ The sword says to call him “white”. Claims to be a necromancer, and tempted 
 
 ### Shadow beast
 
-- Immune to and bludgeoning, piercing damage
-- +9 to str saves, +7 to wis saves
+- Immune to slashing bludgeoning, piercing damage,  necrotic.
+- vulrable to radient.
+- +9 to str saves, +7 to wis saves, +9 to con saves
 - Has magic resistance
 
 ### Fire Hellion
@@ -279,8 +292,7 @@ The sword says to call him “white”. Claims to be a necromancer, and tempted 
 
 Old school Forefather worshiper, kinda senile , offering 10,000 gold coins for help removing the curse of the mad mage
 
-###   
-Barkeep:
+### Barkeep:
 
   
 Broke, only has apple juice left.

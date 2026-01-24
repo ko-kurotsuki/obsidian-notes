@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "seal the demon lord/session 3.md",
+                "file": "seal the demon lord/overall story.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "session 3"
+              "title": "overall story"
+            }
+          },
+          {
+            "id": "f7da0d3d64deca25",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
             }
           }
         ]
@@ -196,8 +208,8 @@
   },
   "active": "437e4d1695c47a74",
   "lastOpenFiles": [
-    "seal the demon lord/session 2.md",
     "seal the demon lord/session 3.md",
+    "seal the demon lord/session 2.md",
     "seal the demon lord/sessions.md",
     "seal the demon lord/overall story.md",
     "seal the demon lord/demon lords plan.md",
