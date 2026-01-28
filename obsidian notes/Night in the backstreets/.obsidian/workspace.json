@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7cf9428fe78ffb4d",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "obsidian notes/pestilnce of the isle/pestilance of the isle notes.md",
-                "bFile": "obsidian notes/pestilnce of the isle/pestilance of the isle notes.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: pestilance of the isle notes"
-            }
-          },
-          {
             "id": "6f8a2684df55ab77",
             "type": "leaf",
             "state": {
@@ -194,7 +180,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "7cf9428fe78ffb4d",
+  "active": "6f8a2684df55ab77",
   "lastOpenFiles": [
     "Session notes.md",
     "Kovethe's notes in the backstreets.md",
