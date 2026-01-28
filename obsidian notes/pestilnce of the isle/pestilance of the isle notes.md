@@ -165,6 +165,17 @@
 - we beat and capture him. but guri got injuered so we take her back to the church. 
 - we talk with archbishop  zerin and tell him the results.
 - we get compinsation for completeing 
+### Session 16
+- we are clutivating when seven recives a call from maya. she has a nother job for me, and she wants me to bring potienta. i agree to meet and bring nyx and misty along with me because they may be the best suited to her types of jobs. 
+- the job involves "community service"(a lie), a man named tam lin is a procacuter in the city. maya says he is curroupt, he takes bribes,  but they dont have any proof. she wants us to find some.  we get a map and ablurpints of his house. 
+- misty keeps giving potentia prolinged glares.
+- we buy some glass cutters and graple hooks 
+- 1/23/2054 is the curtrent date, we find some wire transfers going out deacades back, but nothing recent.
+- he was 24 when he got to borial city. when checking his wedding photo, we find 5 pictures of him marrying 5 different women earliest was 1987, he also has several ids with bith years being 2030, 2000, 1980
+- birth year is not 1980
+- we find birthdat to be 1940 and use it to open his the vault. we see defucnt cuncery, gold bars
+- misty seems to be attracted hevely to potentia.
+- misty gives me a gold bar, and seven takes it and says if she ever needs a favor or needs a job done to call him.
 # NPCs
 
 - Jes hua- doctor at the hospital in boreal city. She was the childhood best friend of the yalenea, and lost all the blood
@@ -172,6 +183,9 @@
 - maiya- someone that menchol knows. is fighting against the black star cult but is lying about the reason (she says its because she loves the city, and wants to protect people.)
 - michal wulong- a cop with the justice.
 - guri- preistess from the church of broial city. used to be a student at mount high, and after she graduated she joined the church. she is a Whispered, a creature of the fog. 
+- nyx
+	- rp1
+		- _seven and nyx go to the shrine, look at all the changes yuan-shi made, and find a staff that helps her summon skeletons_
 
 # Encountered enemies
 
