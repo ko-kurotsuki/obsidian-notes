@@ -270,3 +270,20 @@
 ### session 20 
 - its the day before the party at A corp. and everyone from mumei island is back. they brought gient lobster. 
 -  we all get ready, then go 
+- at A corp we do dancing, and we meet the people we invited. buscatti and luigi get a glow up and have a lot of aura
+### session 20 
+- we open with faith learning that tennoheiro is actually mumei's brother. faith decides that yari and anyone else who stands in the way of the prescript will 
+- cain is a taboo hunter for N corp because the cecilia library was valued by N corp because its an old fasthined . I used to work together with yuukio as a taboo hunter and know tha tthe 5 fingers wanted to train 
+- menerva talks with her uncle Azui who is her plus one. 
+- azui know scrimby, and is looking for one the one of the origen of bloodfiends the duchass. 
+- Big E large comes in, and wants to speak with kovethe.  he says he can use a fairy to unseal my memories. when I say that im under contract with D corp.
+- kurogane ryomen has a bunch of leaches ong the hongwan and has a bunch of leachs of the haishao packs
+- minchol is also in the running.
+- mumei talks about faith and goes to apoligize to the index members for yari killing faust. they talk and reveila that gesslshaft if a relic that chooses its weilder, and it only picks foust.
+- faoust took both both faith and emmuna but form the outside it seems like foust played favoriates and only
+- after a while the knight of the white moon comes to the party, and peyll goes to greet him. 
+	- peyll remembers the knight as women, but sees him as  a man here. part of it feels natural it also feels partly incongruit.
+	- the kight talks about the riviers underneeth the city,. the river is comprised not just of water, but 3 other things. he says they have the power to end the world.
+	- the knight is not of this world, so he can see things that others can not. he spoke with someone on the outskirts, but could not get the answer
+	- pyelll discusses the golden boughs with the knight.
+- faith vents to her aunt about the death of her father, and how she feels like everything is unstable in life. she doesnt want to press on if this current group dies.

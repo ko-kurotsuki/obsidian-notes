@@ -1250,7 +1250,20 @@ Vast: 24 hp
 - fiona is a goliath woman, but her arm is discolored like it belongs to someone else. and on the side of her neck has a tattoo that is the branding of rycard that the goliaath at kahaat had.
 - Fate and Fiona sign their names together for the betrothal bucket.
 - most of the consivertorium will be closed for the coming week, so we will need to have dates off campus 
-- 
+
+### Session 82
+- Aethusa and blaidd are socialing at the party, they speak to many people including chuck thimble.
+- blaidd kickes chuck thimble becuase he called aethusa a whore, then got banished to the bog. 
+- aethusa follows latte kafe and learns he is lactose intornt. 
+- in the bog, blaidds deathknights are ready. while inside with the white soulmass creature, the tendrails make mouths and apoligze to him. blaidd feels an overwelmng hate for the creature. 
+- while talking with dove, we learn that bliadd had been granted perssion as acting doctor by romanius when he was a child, along with umbron. 
+- dove also says that this creatuee was made to preform a plan called the great replacement. this creature is not fully mature yet for that though. 
+- the creature is acutally romnius' mom who was transformed into this for the 'crime' of birthing romanios
+- romanius's mom was transformed by him into this creature, and hated her because she had 'no potential.'  its main function is to to incubate some sort of creature that will become a new acting doctor.
+- corniuos is under a heavy charm, and does eactly as she says now.
+- blaidd replaces cantos in the bog.
+- fate goes to the fallstaff house. fiona's hand is rotting and has blistes and rot on it thats sprit
+- cornilios is fiona's father, vesper is in fionas body. vesper was forced by vycera to kill her mother fiona. 
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
