@@ -176,6 +176,8 @@
 - we find birthdat to be 1940 and use it to open his the vault. we see defucnt cuncery, gold bars
 - misty seems to be attracted hevely to potentia.
 - misty gives me a gold bar, and seven takes it and says if she ever needs a favor or needs a job done to call him.
+### Session 17
+- 
 # NPCs
 
 - Jes hua- doctor at the hospital in boreal city. She was the childhood best friend of the yalenea, and lost all the blood

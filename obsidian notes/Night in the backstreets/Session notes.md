@@ -287,3 +287,12 @@
 	- the knight is not of this world, so he can see things that others can not. he spoke with someone on the outskirts, but could not get the answer
 	- pyelll discusses the golden boughs with the knight.
 - faith vents to her aunt about the death of her father, and how she feels like everything is unstable in life. she doesnt want to press on if this current group dies.
+next session: the fight that will happen will take place in the library. I am the libariaon fighting the party. I will have 3 phases ill pick an abnomality and base myself off of them. there will not be emotion levels, but instead. 
+abnoramities i picked.
+scorched girl
+firebird
+Il Pianto della Luna
+
+I will be fighting agianst the party, and the libarians 
+
+the flow goes  against faithxpyell because the flow goes ageist stagnation.  i have the book to tommary 
