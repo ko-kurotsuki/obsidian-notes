@@ -177,7 +177,10 @@
 - misty seems to be attracted hevely to potentia.
 - misty gives me a gold bar, and seven takes it and says if she ever needs a favor or needs a job done to call him.
 ### Session 17
-- 
+- cultivate and do practice for the king of iron fist torniment 
+- jack fights hiroshi, and hiroshi wins
+- mon-rontsu fights mizuki, and mizuki wins
+- seven fights ryota and ryota wins
 # NPCs
 
 - Jes hua- doctor at the hospital in boreal city. She was the childhood best friend of the yalenea, and lost all the blood
@@ -236,19 +239,20 @@ Black Ink Suppression: world of condamnation,
 - While in effectL target is blinded and deafened for the duration
 - Spell lasts for 1 minute and at the end of each of the target's turns they make a wisdom saving throw and if they succeed the effect is dispelled.
 
-# Fight
+# Seven's Fights against the MT. High students.
 
-Wins:0
+Wins:1
 
 Ties:1
 
-Loss:3
+Loss:4
 
-Total fights: 4
+Total fights: 6
 
 Individual fights:
 
 takeshi: 1 tie  
 Black Rose: 1 loss
-
+ryota: 1 loss
+potentia: 1 win
 Reid, Xuna, and Shénmì: 1 loss with reid getting the final
