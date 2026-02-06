@@ -762,8 +762,6 @@ Driamuid says: the jagrin order is under attack by the forces of romnius. Soules
 
 - I wasn't there for this session,
 
-### 
-
 ### Session 50
 
 - Radaon fights malthion, but he gets overpowered by his candle flame control.
@@ -1264,6 +1262,18 @@ Vast: 24 hp
 - blaidd replaces cantos in the bog.
 - fate goes to the fallstaff house. fiona's hand is rotting and has blistes and rot on it thats sprit
 - cornilios is fiona's father, vesper is in fionas body. vesper was forced by vycera to kill her mother fiona. 
+### Session 83
+- blaidd is going to join a hist with the the wood elf that we met before (sonesta)to get items that are being moved during the renovations.
+- fate reconciled with lilithina, and agreed to retire with her after this mission. 
+- after talking with aethusa and fate, bliadd goes out to speak with henry. henry says he wants to kill rycard, and doesnt want to kill people. the world tree see is no longer in henry. 
+- blaidd meets the heist crew, the fey twins dee and duim , chech and ketch, and sonesta.
+- cornilius comes to speak with fate and aethusa. he tells us that when we come to fight vycera her control will be so strong he will be forced to fight us. he tells us that that since he has helped us get a lot of info, and wants us to help vycera. he waants us to make a blood oath that we wont kill vesper. 
+- vycera could not sense the  the shards of Amon, 
+### Session 84
+- we go to the party tillwink threw, it seems that vesper is here too. 
+- tillywink locks in and has an honest conversation with bill about his sexual oritation and decide they will still get married for their potlical ties. 
+- vesper and aethusa have a heart to heart. they talk about allying to go against vycera. she wants to go agiast her and is trying to gain power by turning people with her blood. aethusa decided to give her a chance and vesper agrees to go along with some rules. 
+- we get to the dorm room, and while talking we find a bat that is scrying for vesper. the bats seem to be made by a person drinking her blood, it also seems we may have known that person. this was also one of her bomb bats and when we try to learn the name of the bat, it explodes.  inside is fates pill box, and we get a cliff hanger when we look inside.
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer

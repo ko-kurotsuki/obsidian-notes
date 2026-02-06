@@ -271,7 +271,7 @@
 - its the day before the party at A corp. and everyone from mumei island is back. they brought gient lobster. 
 -  we all get ready, then go 
 - at A corp we do dancing, and we meet the people we invited. buscatti and luigi get a glow up and have a lot of aura
-### session 20 
+### session 21
 - we open with faith learning that tennoheiro is actually mumei's brother. faith decides that yari and anyone else who stands in the way of the prescript will 
 - cain is a taboo hunter for N corp because the cecilia library was valued by N corp because its an old fasthined . I used to work together with yuukio as a taboo hunter and know tha tthe 5 fingers wanted to train 
 - menerva talks with her uncle Azui who is her plus one. 
@@ -287,6 +287,7 @@
 	- the knight is not of this world, so he can see things that others can not. he spoke with someone on the outskirts, but could not get the answer
 	- pyelll discusses the golden boughs with the knight.
 - faith vents to her aunt about the death of her father, and how she feels like everything is unstable in life. she doesnt want to press on if this current group dies.
+
 next session: the fight that will happen will take place in the library. I am the libariaon fighting the party. I will have 3 phases ill pick an abnomality and base myself off of them. there will not be emotion levels, but instead. 
 abnoramities i picked.
 scorched girl
@@ -296,3 +297,19 @@ Il Pianto della Luna
 I will be fighting agianst the party, and the libarians 
 
 the flow goes  against faithxpyell because the flow goes ageist stagnation.  i have the book to tommary 
+
+### session 21
+- at the end of the night, a hooded figure approcehes mumei, and gives him a sealed letter. he gets invited by the 9 litratures to a party nearby A corp.
+- N corp is also in A corp nest at a diffrent building celebrateing their current wins.
+- they have 3 golden boughs
+- black shadow is with them, and is reporting them. he was in disguised as claudio, and got info about what warren was building (the building of 1.74hz's body). they also wanteed to give him a "gift" whitch is prob a genetic mutation. he as installed a black box into hertz so they can keep monitiering, and had gotten codes for something aswell. claudio was impersonated during the mumei island arc,
+- black shadow has a weapon called kokiri that can transform into a person (cute beastwomen girl)
+- blashadow tells yari that D corp has gathered his combat data, and faith is training to kill him. this makes him mad, and he storms out
+- mumei shows up to this party, invited by yari. he speaks a little with herman and the others then goes to talk with yari outside. 
+- yari is feeling a little extental crisis because herman seems like the lesser of two evil to help the city's make better decisions. he doesnt actually want to kill us though, and is feeling conflicted.
+- hermen gives ken a job offer to work as a double agent. he turns it down.
+- muemi also gets a hint about memory altrations due to atom dragon flare.  he launchs an investigation.
+- faith uses the sword gesllsaff, and recives an offer to declare herself a foust. she puts it off 
+- the next day, duval comes to tells us that the next bough is in the library. says that we need to use kovethes invitation to get there now that its in the ofskirts.  we know that we can come back and
+- we sign the invitation, and go to the libary. we meet angela and kovethe remembers something. angela remembers me and gives me a look of worry and fear. 
+- then roland comes by and yells wondering why i came back to the libary and calls me Argalia(the blue reverberation)
