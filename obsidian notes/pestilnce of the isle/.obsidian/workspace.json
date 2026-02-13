@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "pestilance of the isle notes"
             }
+          },
+          {
+            "id": "9d0318bf4beaf08e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ]
       }

@@ -1274,6 +1274,9 @@ Vast: 24 hp
 - tillywink locks in and has an honest conversation with bill about his sexual oritation and decide they will still get married for their potlical ties. 
 - vesper and aethusa have a heart to heart. they talk about allying to go against vycera. she wants to go agiast her and is trying to gain power by turning people with her blood. aethusa decided to give her a chance and vesper agrees to go along with some rules. 
 - we get to the dorm room, and while talking we find a bat that is scrying for vesper. the bats seem to be made by a person drinking her blood, it also seems we may have known that person. this was also one of her bomb bats and when we try to learn the name of the bat, it explodes.  inside is fates pill box, and we get a cliff hanger when we look inside.
+### Session 85
+- blaidd is with sonesta and is going for his first round of thiveing
+- first
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
