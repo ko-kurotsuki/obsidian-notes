@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "harold war/Earthrelm_hearold war.md",
+                "file": "nar makai/Earthrealm_ Nar Makai.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Earthrelm_hearold war"
+              "title": "Earthrealm_ Nar Makai"
+            }
+          },
+          {
+            "id": "6ae73a5cbe01d746",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,12 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d347e39b19b0bea6",
+  "active": "6ae73a5cbe01d746",
   "lastOpenFiles": [
+    "nar makai/Earthrealm_ Nar Makai.md",
+    "Pasted image 20260213160833.png",
+    "harold war/Earthrelm_hearold war.md",
     "PC and NPC list.md",
     "odyssey/Earthrealm Odyssey.md",
-    "nar makai/Earthrealm_ Nar Makai.md",
-    "harold war/Earthrelm_hearold war.md",
     "Aela's Timeline.md",
     "Untitled.base",
     "[Earthrealm Odyssey.md",

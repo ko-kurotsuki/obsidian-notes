@@ -196,6 +196,12 @@ The sword says to call him “white”. Claims to be a necromancer, and tempted 
 - gimbly's mom says they have someone who could replace lucionis. xavious and gimbly's family will may be rallying around him to accomplish their goals. she has dedicated all her magic to him. she tells us that xavious has made kuakua the center of his palace. 
 - anaya prays and speaks with sir borgrum, an former paliden of the jagren order. he fought in the bloodwars agaisnt lucions. he got turned during the war. 
 - we go to rest, and while we do sir gorgrom notices something outside, and goes to check it out. he then sees a mob  of people , some are old wisened wizards, and all have their eyes glowing purple eyes..  
+### Session 14
+- we fight agaisnt a bunch of charmed comminers and guards,. most of them die except the guard captian because anaya uses remove curse. 
+- the guard captain says she was in the barricks when she heard the voice of an angel that said "its time for us to take part in the arival of a new god, time to vanquish wayward children." she felt like all the weight on her sholderers and then she blacked out.
+- there are two ways out of gimbly's home, the way we came in that will take us to the center of town. there is also a back exit that leads to the graveyard then cut theough the city commons to get to the palace.  xavious is most likely at the palace so that he has a view of the town, and can control people easier.
+-![[Pasted image 20260213160833.png]]
+- when we get the grave yard we hear a voice say "wayward childrentake your place among the"
 ## Encountered enemies
 
 ### Zombies:

@@ -181,6 +181,16 @@
 - jack fights hiroshi, and hiroshi wins
 - mon-rontsu fights mizuki, and mizuki wins
 - seven fights ryota and ryota wins
+### Session 18
+- seven goes to the cave where he fought the demons when retraving the sprit stones for the headmaster to cutivate.  potienta is with him
+- we fight a demon scorpian that was nesting there, and while tis tough nyx comes by to help us finesh it.
+- he cutivates and reaches level 4
+### Session 19
+- today is the red and black festival.
+- today is to celebrate love not just romantic but all forms including companions and simbleings
+- everyone makes red and black packets, and are encouraged to give them out. red is for lighthearted friendship and love. where black is for deep intmate love(for waifu and ) 
+- we give out pack
+- we recive a package  with a note s
 # NPCs
 
 - Jes hua- doctor at the hospital in boreal city. She was the childhood best friend of the yalenea, and lost all the blood
