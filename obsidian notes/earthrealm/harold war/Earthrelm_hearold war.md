@@ -1277,6 +1277,13 @@ Vast: 24 hp
 ### Session 85
 - blaidd is with sonesta and is going for his first round of thiveing
 - first
+### Session 86
+- fate goes to his father to ask him about impossible choices and if he had to make some. he ends up staying for dinner and having areally awkward time 
+- Aethusa is fighting henry, she managed to clear most of the bots but henery is provideing a little bit of trouble.
+-  blaidd is in the archive
+### Session 87
+- henry decides to wait for blaidd to come before they resume the battle. it he resets his heraldry 
+- henry made his gizo clone by making a deal with dove, and feeding the creature gizo he got a soulless clone.
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer

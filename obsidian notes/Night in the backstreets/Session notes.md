@@ -298,7 +298,7 @@ I will be fighting agianst the party, and the libarians
 
 the flow goes  against faithxpyell because the flow goes ageist stagnation.  i have the book to tommary 
 
-### session 21
+### session 22
 - at the end of the night, a hooded figure approcehes mumei, and gives him a sealed letter. he gets invited by the 9 litratures to a party nearby A corp.
 - N corp is also in A corp nest at a diffrent building celebrateing their current wins.
 - they have 3 golden boughs
@@ -313,3 +313,17 @@ the flow goes  against faithxpyell because the flow goes ageist stagnation.  i h
 - the next day, duval comes to tells us that the next bough is in the library. says that we need to use kovethes invitation to get there now that its in the ofskirts.  we know that we can come back and
 - we sign the invitation, and go to the libary. we meet angela and kovethe remembers something. angela remembers me and gives me a look of worry and fear. 
 - then roland comes by and yells wondering why i came back to the libary and calls me Argalia(the blue reverberation)
+### session 23
+- kovethe is at sword point by rolend as he points his sword at him 
+- kovethe remembers this blade, and realizes it was the one that was shown to him into the smoke. he must of fought rolend for those days and nights
+- we have a talk, and discuss how I dont remember my time as argalia, so we arnt here to fight instead we are here to obtain the golden bough. angelia says that because we dont want a book, its dificult to use an invitaton because it requires having a reception for a book. 
+- we descuss thigns like resonance with the bough, and decide to take kovethe closer to it to see if he can unlock it, meanwhile the other people go out throught the library to see if we can get enough of a trade in info to get the bough and go.
+- warren goes to the tech floor 
+	- he trade info about the smoke wars, and is asked about a creater that he can't quite rem,ember how it was made. he also  talks about mephastoplies
+- pwyell goes to the langqage floor 
+- claudio goes to the history floor 
+- blaidd goes to teh pholosphy floor
+	- bina is with balidd on the floor, and he seems to have a lot of status effects.
+- faith goes to the religon floor.
+- mumei goes to the social sciences 
+- kovethe is with angela and rolend as they bring out the bough. when its revelied there is an intese light, and I feel resonance  it.  i have a memory, i see fighting between all the floors, and I am going twards an intese piller of light  and angela is there. she is hesitating  about what to do, but someone, very familer says "this is what we decided to do, and it was an honor to work with you" the purson has kovethes dark skin and curlly hair, so the perspective, but it seems like instead of argelia 
