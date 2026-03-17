@@ -11,14 +11,14 @@
             "id": "4922375b654503a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "pestilance of the isle notes.md",
-                "mode": "source",
-                "source": false
+                "aFile": "obsidian notes/campains/seal the demon lord/session 4.md",
+                "bFile": "obsidian notes/campains/seal the demon lord/session 4.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "pestilance of the isle notes"
+              "icon": "diff",
+              "title": "Diff: session 4"
             }
           },
           {

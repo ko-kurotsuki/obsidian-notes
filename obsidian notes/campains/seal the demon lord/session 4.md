@@ -1,0 +1,2 @@
+- they wander arround for 7 days got 2 discoveries and 5 battles
+- did 1 discovery and 3 battles, so far
