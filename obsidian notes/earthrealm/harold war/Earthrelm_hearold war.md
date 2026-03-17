@@ -1284,6 +1284,19 @@ Vast: 24 hp
 ### Session 87
 - henry decides to wait for blaidd to come before they resume the battle. it he resets his heraldry 
 - henry made his gizo clone by making a deal with dove, and feeding the creature gizo he got a soulless clone.
+### Session 88
+- we fight henry and win
+- henrry dies bein choked out the by seed of the world ttree that alabaster had. 
+- bliadd takes over henry's teratory in castle high rock, but is having some trouble stablizing the region.
+### Session 89
+- fate is on sufurine's estate outside the conservatorium the socran estate.
+- i train with suffrages uncle, challa socran. he gives me notes on how notes fight in my magicless state. 
+- he gives me some options to train in, and he teaches me siliaceing shot, that allows me to learn silanceing shot 
+- bliadd and aethusa go to to a lesson with souless romanius. and take an alchemy class. this time they need to make a fire resisitance potion
+- there is a comation in class, whoever makes the best and fastest potion, will get two vials of golden abrosia (gives 3 insperations)
+- aethusa wins 
+- when we all get back to the dorm, we are met with Moaka ka'fe. she asks for a drink,
+- she is worried about the betrothal ceremony and the pilgrim hunt. she is a warlock, and her patron is intrested in the hunt. she says that our plan must be stopped, she says that opening the fallstaff vault isnt the end of the plan. they want to replace the top brass of the conserivtorium including Ancan. infact what is byond the gate dove is guarding is the soulless that Ancan was going to be replaced by. people have discovered that the soulless are the perfect vessels for choss lords and scions to poesses and incarnate into. moaka wanted to use the ancan soulless for her patron, but now cant get to it so anyone could incarnate there. she wants to cut a deal with us to get access to ancan's soulless for her patron. when she is walking out after thinking we will contact her later, bliadd rips out her heart.
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer

@@ -202,6 +202,8 @@ The sword says to call him “white”. Claims to be a necromancer, and tempted 
 - there are two ways out of gimbly's home, the way we came in that will take us to the center of town. there is also a back exit that leads to the graveyard then cut theough the city commons to get to the palace.  xavious is most likely at the palace so that he has a view of the town, and can control people easier.
 -![[Pasted image 20260213160833.png]]
 - when we get the grave yard we hear a voice say "wayward childrentake your place among the"
+### Session 15
+- we beat the zombies in the graveyard, after a crow arocrka, and a vimpire decen
 ## Encountered enemies
 
 ### Zombies:

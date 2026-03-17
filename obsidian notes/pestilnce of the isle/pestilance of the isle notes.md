@@ -189,8 +189,27 @@
 - today is the red and black festival.
 - today is to celebrate love not just romantic but all forms including companions and simbleings
 - everyone makes red and black packets, and are encouraged to give them out. red is for lighthearted friendship and love. where black is for deep intmate love(for waifu and ) 
-- we give out pack
-- we recive a package  with a note s
+- we give out packets
+- we recive a package  with a note saying these are the things we missed(these are items from before seven joined the game)
+### Session 20
+- wei shen has gathered everyone in the arena to go over the practice to deterine the reprientives for the king of iron fist torny.
+- saya, mizuki and menchol were picked to fight in the ternoy
+- however they also take seven, jia, menchol, leinhua, misty, daiki
+- the tounment is double elemenation, there will be 2 preliminary matches. three are 18 partipants
+- partipants: king, armor king, brick bronson, albert fury (united sects of america), lilian, haowarng, feng wei inheriter of the dragon, nina, li chaolan, martial law, wei wulong (former head of justice pratrol), minchol, saya, mizuki, jon xi na, stone cold, ji edge, reiya,
+- the tourniment is hosted by the wok
+- the first palmiary match is bick vs albert and the second is sayo vs, mizuki
+- albert wins the first, and mizuki wins the second
+- after the fight, wei shen says mount high has been deceived. this tounriment is full of foundation level cultivators, and we were not informed. in order to get ahead, we will need to look around the arena, speak with the other contenstants and envoys and see if there is anything we can use.
+- we speak with brick, and he gives us a qi enchancement pill, and tells us to send one of the fighters to learn the branser buner(one of their attacks deall 1d10 fire damage to it)
+- we speak to lilian, and she tells us that stone cold, nina,  and albert are in the underworld or shady, and martial law is a good teacher.
+### Session 21
+- we  speak with martial law, and ask for some help. they agree, training with law will increase the accucy by +4, and add an extra damage dice. training with lei he will give you one of his stance.
+- we speak to nina, she offers a suppkinet to ether poisen our opponent, or use it to auto win initinave and an extra reaction per turn.
+- nina isnt cursed, just mean. lee is the same. lilian, is selfish. albert is pretty bad and not completly human. stone cold is defininly looking around and is suspicious of others. raiya has a lot  of curse and trasces mincoledd curse sense
+- minchol then speaks with stone cold to get an idea of what he knows. he says raiya is an unknown fighter and has never heard of her before
+- minchol does his trainging wit lei and gets the crane stance 
+- minchol goes to fight armor king. minchol wins.
 # NPCs
 
 - Jes hua- doctor at the hospital in boreal city. She was the childhood best friend of the yalenea, and lost all the blood
