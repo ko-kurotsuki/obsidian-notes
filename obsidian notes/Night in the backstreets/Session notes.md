@@ -333,3 +333,6 @@ the flow goes  against faithxpyell because the flow goes ageist stagnation.  i h
 - i should not live. i should to be. there is no reason to go on. im not at at the precipice, but the peak i will fall from. that is what what a femine voice tells me. I reject it, and she says I will take from you as you are fuel to be feed to a fire
 - my heart falls out and a blue glowing  they bein attacking me, and i start fighting back 
 - in the real world, I start transforming into a combo with scorched girl and distoritng, and now need to fight agaisnt everyone.
+### session 25
+- they fight kovethe, and claudio efforecess his ego and they manage to win. 
+- in the final cutscene. I go back to the first drem with the water and the piano. instead of the pianist, argelia is there.  he says he is me. he wants for me to be his vessel, and continue his plans to better the world. the corpse at the piano is his sister. i try to fight him, but he wears me down, and takes over. then after, argelia then manifests in the real world and begins the battle agai
