@@ -1297,6 +1297,16 @@ Vast: 24 hp
 - aethusa wins 
 - when we all get back to the dorm, we are met with Moaka ka'fe. she asks for a drink,
 - she is worried about the betrothal ceremony and the pilgrim hunt. she is a warlock, and her patron is intrested in the hunt. she says that our plan must be stopped, she says that opening the fallstaff vault isnt the end of the plan. they want to replace the top brass of the conserivtorium including Ancan. infact what is byond the gate dove is guarding is the soulless that Ancan was going to be replaced by. people have discovered that the soulless are the perfect vessels for choss lords and scions to poesses and incarnate into. moaka wanted to use the ancan soulless for her patron, but now cant get to it so anyone could incarnate there. she wants to cut a deal with us to get access to ancan's soulless for her patron. when she is walking out after thinking we will contact her later, bliadd rips out her heart.
+### Session 90
+- we go to the bog, talk to dove a bit, then decide to go past the locked gate now that we have moak ka'fes body posseed by fenriier
+- we go past the gate and find 3 romanius minis working on some tentrils, they regaurd us as the acting doctor, and say they are putting the finishing touches. 
+- the 3 bodies then get absorbed by the tentiles, and the souless of ancon comes out. 
+- he says that he is ancan but is also composed of more including gizzo's intelect. he as an exploreation of emotion, without the blind obidnce that normal souless have. i asked inf shale was assimulated too but he says that she managed to dissapear and left a simulactum in her place. he says that he wants to assmilate us, gain the power to replace ancan, then take over the school. 
+- we start fighting, we beat souless ancan, and destroy his body completely. 
+- we discuss what to do with the souless broodmother and decide to leave it for now, 
+- dove is being re assmilated into the broodmother because all her directives have been fufuiled.
+- fate and aethusa go to visit fiona, she isnt there, but rycard tittleywink thimble, and terry the agrious. 
+- rycared says that he is ok, but he is resurected twice now, and its taking a toll on his soul. he askes if 
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
