@@ -210,6 +210,19 @@
 - minchol then speaks with stone cold to get an idea of what he knows. he says raiya is an unknown fighter and has never heard of her before
 - minchol does his trainging wit lei and gets the crane stance 
 - minchol goes to fight armor king. minchol wins.
+### Session 22
+- yuan shi need help, so he calls up minchol because his prestess jing shi (the slave girl yaogai that minchol and mon ronsu saved.) has his number 
+- he tells him that there is a problem with making a dicition and need help. so seven monronsu go to the shrine. 
+- we get there and explain: back during with there was the spiritual disturbance that gave us nightmares. we believe that it was caused by the black star cult. one group thinks we need to get the immortal heart before the cult gets it. or we should take the on the other prophet while they are weak. 
+- they say that the fire martial Akashi works for the ash prophet, and he is also at the fortress of morning. 
+- minchol realises that the yuan shi is diffrent from the one he knew, aside from being stronger, it may not be 100% yuan shi's spirit. no malace or evil coming off him thoough.
+- yuan shi works for yanlao wang, the god of the underworld burocy. 
+- we take a visit to the underworld burocucy
+- we decide to go for the fire martal akashi who is at the fort of morning,
+- we get there, do some stelth for the first half, but get discovered and start fighting in full.
+- we beat fire martial akashi and the cultist s start going to thebase ment, we get most, but 1 gets in 
+- the cultist is standing next to a door,
+
 # NPCs
 
 - Jes hua- doctor at the hospital in boreal city. She was the childhood best friend of the yalenea, and lost all the blood
@@ -220,6 +233,7 @@
 - nyx
 	- rp1
 		- _seven and nyx go to the shrine, look at all the changes yuan-shi made, and find a staff that helps her summon skeletons_
+- yuan shi- little god serving yaoluo wang
 
 # Encountered enemies
 
@@ -242,6 +256,13 @@
 - demon lawyer that is making deals with the death cults
 - it seems that he is making illigal deals and they are dangerous in hell.
 - can use demonic energy with words in the demon language to force specall clauses upon people
+
+### black star cultists
+- blood cultist
+- ash culltis
+	- use fire attacks
+- fire martial a
+
 # Spells:
 
 ### Ideas

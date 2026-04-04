@@ -1,0 +1,5 @@
+- fight a talisman/spell user to get a feel for how seven compares and contrasts with more traditionally methods 
+- go on another hunting trip, maybe even fight the full yaoguai whose child he killed before. 
+- fight one of his brothers, another bow Daoist to compare how a pure fighting style is to seven's hybrid style. 
+- attend a 4 arts Dao conference (4 arts being music board games calligraphy and painting)
+- attend an auction for some strong magic items, or maybe rob an auction house.

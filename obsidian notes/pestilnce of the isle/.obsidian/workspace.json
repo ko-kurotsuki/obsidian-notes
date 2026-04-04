@@ -11,29 +11,32 @@
             "id": "4922375b654503a2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "obsidian notes/campains/seal the demon lord/session 4.md",
-                "bFile": "obsidian notes/campains/seal the demon lord/session 4.md",
-                "aRef": ""
+                "file": "pestilance of the isle notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: session 4"
+              "icon": "lucide-file",
+              "title": "pestilance of the isle notes"
             }
           },
           {
-            "id": "9d0318bf4beaf08e",
+            "id": "89f03ca11a7a10ea",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "pestilance of the isle notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file",
+              "title": "pestilance of the isle notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,8 +192,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "4922375b654503a2",
+  "active": "89f03ca11a7a10ea",
   "lastOpenFiles": [
+    "things I want seven to encounter doing the campaign at some point.md",
     "pestilance of the isle notes.md",
     "Untitled.base"
   ]

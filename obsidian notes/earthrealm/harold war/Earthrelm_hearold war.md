@@ -1307,6 +1307,28 @@ Vast: 24 hp
 - dove is being re assmilated into the broodmother because all her directives have been fufuiled.
 - fate and aethusa go to visit fiona, she isnt there, but rycard tittleywink thimble, and terry the agrious. 
 - rycared says that he is ok, but he is resurected twice now, and its taking a toll on his soul. he askes if 
+### Session 91
+- its the betrothal ceramony 
+- aethusa and ancan are sending simulatcurm because they are having a discussion about breaking the fate of the conservatorium
+-  balidd is using his aura to outshine the other archmages interms of magic power, he mogs everyone but the cosmic dragon ansetorer
+- fate sees schale and his dad and his wife. 
+- i also see that the kafe family head is sad bwecause both his kids have died.
+- ittly wink looks really good dolled up for her wedding.
+- we do the ceramony, where vesper and fate's soul are tethered to gether, and a black ring tatto appears on both our hands. 
+- they solve a puzzle(gavin and I really did that shit fr)  then open the volt. 
+- inside they find bottles of fairy soul juice, ancans spell book, and some gold.
+-  sublimate romanius tricks tweedle dee and tweedle dum into drinking some fey jucie (they are both fey so its extra fucked up) then stashs one takes the book, and starts getting ready to liveave
+- aethusa and ancan are in a demiplane in chaos realm set up to hide his fate viewing machine. he wants ancan to find the nexus point that leads to the downfall of the conseritonum, or him going mad and trapping people in a dream and destoy it. one of them causes the other so if she gets the right one both will be destoryed.
+- aethusa swims through the time stream, a sea of stars. seaching for the nexus
+- while looking, aethusa sees end of time pilgrm. they start talking.
+- pilgirm says that his meeting was fated and is their final one.  he says that the hearolds he sent to fight aethusa were gifts to empower her. the present being the greatest one. he says that the perpuse of henry's hearoldry was to allow aethusa to make a nexus point of her own creation to solve her own time slipping once the end of time piligrm disapiers.
+- the pilgrem says that the nexus points that ancan wants to break can not be broken. if they are, it will be the end of the realms. the conservaiootm disaperes to chaos realm to funnel exess soul energy from the soul sphere to prevent anliaton
+- if she breaks the nexus point for the dresuction of shundia it could become the seat of power for bliadd and aethusa. 
+- the conseritorius is powered by the magic soul fariey jucie. ancan was breeding and jucieing them to power the foundations of the conservatorium.
+- the pilgrem gives some advice for the piligrm hunt, like using the coin as soon as it stime, and that she wound have her fullpowers ready.
+- when she emerges she notices that the "demiplane" she is in is actually in earth realm.
+- when she is out, aetusa starts to use the pilgrem coin to start the hunt. 
+- when she does, K and  Zed the apostilles come and start fighting ancan so aethusa has time to escape.
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
