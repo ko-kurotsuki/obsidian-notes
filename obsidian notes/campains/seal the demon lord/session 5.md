@@ -1,0 +1,4 @@
+-  they fight bunch of briinged to save guards.
+- during the trial, darina gets the admeration of the dark elementals he does this twice.
+- kyrion and Darion complete the trial of renown, and earned 2 levels from it.
+- the demon lord is bringing their Asselt of the the prophet king, and searching for the heros

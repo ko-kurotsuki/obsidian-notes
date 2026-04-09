@@ -335,4 +335,11 @@ the flow goes  against faithxpyell because the flow goes ageist stagnation.  i h
 - in the real world, I start transforming into a combo with scorched girl and distoritng, and now need to fight agaisnt everyone.
 ### session 25
 - they fight kovethe, and claudio efforecess his ego and they manage to win. 
-- in the final cutscene. I go back to the first drem with the water and the piano. instead of the pianist, argelia is there.  he says he is me. he wants for me to be his vessel, and continue his plans to better the world. the corpse at the piano is his sister. i try to fight him, but he wears me down, and takes over. then after, argelia then manifests in the real world and begins the battle agai
+- in the final cutscene. I go back to the first drem with the water and the piano. instead of the pianist, argelia is there.  he says he is me. he wants for me to be his vessel, and continue his plans to better the world. the corpse at the piano is his sister. i try to fight him, but he wears me down, and takes over. then after, argelia then manifests in the real world and begins the battle agaiN
+### session 26
+- they fight blue reverberation kovethe and win.
+- kovethe and argellina talk again in their soul realm, but this time argeliia is too weak to resisint kovethe so he loses. 
+- argelia asks him to listen to his final song and kovethe agrees. 
+- mumei leans about the truth about pwyll turing when fight  black shadow. pwylll  doesnt know still.
+- mumei  reveals that he has a curse eating him up making him more and more blood lusted
+- 
