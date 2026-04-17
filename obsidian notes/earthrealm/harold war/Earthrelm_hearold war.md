@@ -1329,6 +1329,23 @@ Vast: 24 hp
 - when she emerges she notices that the "demiplane" she is in is actually in earth realm.
 - when she is out, aetusa starts to use the pilgrem coin to start the hunt. 
 - when she does, K and  Zed the apostilles come and start fighting ancan so aethusa has time to escape.
+### Session 92
+- in the volt, the twins were  crying, sonesta was stuffing her bag but ketch spazems, then out of his stomch, hexaroth bursts out of his stomach.
+- hexaroth wants to consume people to increase  his own genius and intelect. 
+- in the room outside the volt, cornius says he must reconer bringing terry but vesper declines and brings vesper instead
+- tiddlywink and rycard go to the fallstaff vault, and fate and vesper 
+- the harpinger vault contians the harpnigers fist coin, it has the power to duplicate, basicllh eing infinte gold. the siginls
+- fates dad puts on a fake country accent to match with fate, and doesnt accutally speak like that naturally
+- in the fallstaff vault, vesper and terry dont want to show us what is inside, so fate and bllaidd protent to leave, plant a seed onto terry's pocket so that we can leave and trick them into opening the way. 
+- we teleport to them when they are in the elevator. 
+- they debate kiling us but we we just ride the elvator down. 
+- at the bottom, we see tiddlywink and rycared in circle of fire, being interrogated by souless assaisones looking for what's deeper in. 
+- blaidd takes command of them and we ask vesper to lead us down to the basement where the object that romanius is looking for is. 
+- before we learn how, two of the soules transform into pilgrum hunters, aquilla and ashura.
+- we start fighting them. i get ashura to half hp then he uses his prime ablity to shead his mortal form and become a soul
+- aethusa is outside in the garden, watching 3 godly figures fighting. we see malthon meet her in the garden, his new form with white wings and swords he is the champian of anthiro lord of stagnation. 
+- malthon says its pointless to explain, and that he needs to do what he was made to do.
+- mathion stabs himself to reduse his hp, then uses his prime ablity to cause a time loop
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
