@@ -222,7 +222,23 @@
 - we get there, do some stelth for the first half, but get discovered and start fighting in full.
 - we beat fire martial akashi and the cultist s start going to thebase ment, we get most, but 1 gets in 
 - the cultist is standing next to a door,
-
+### Session 23
+- we intergate fire martial akashi. 
+- resurection is not the only power of the immortal heart. he says that the ablity to die, see the black star.
+- says the ash prophet holy fire will clense us. 
+- the blood prophets people were always scheming, seeding himself into business, get traficers to bring sacrifices. someone shut all that down (it was menchol and all of them).
+- last he heard they they were making deals with devils. so the ash prohets doesnt know.
+- says that the followers of each prhoest serves the black star in different ways. says the blood prohets schemes.
+- says that the fort used to belong to eindrid strigander. blood prophet took it first. 
+- the blood prohets duty was to weaken the vail betweeen worlds so that devils could cross over easter to this world. he did this during his death. the blood prohets group 
+-  spectere is eindrid's son and a student at mount high. he was presumed dead. said to have died 20 years ago, and didnt have a good relationship with his father.
+- he says even the blood prohet could not figure out who was the manipuliator behind eindried.
+- we kill fire martial after we finesh integratiiong
+- mon ronsu speaks with the head master. he says they were doing work with maya, and says that she used to attend the old mount high, and was a bandit. he tells him about beating the blood prophet and ash prohet 
+- the head master says that spectere lied about his linage and who he was because once they found out he was kicked out. 
+- mon ronsu asks about rena. her full name is rana sefiya. she was an outworlder from the lost realms. she infltrated mount high to get favor in politcs. she wanted to basiclly terraform the realm to be more like her, and got hunted by outworlder hunters. she fought them, and duing the fight there was a massive explotion. says thast was several miles north east of the city, hard to miss the create.
+- taowu refers the celectial demon sect is a sect that uses raident energy to hunt other demons. and baolang was a part of that.
+- mon ronsu asks the head masater about eindridds goal. he wanted dominations.
 # NPCs
 
 - Jes hua- doctor at the hospital in boreal city. She was the childhood best friend of the yalenea, and lost all the blood
