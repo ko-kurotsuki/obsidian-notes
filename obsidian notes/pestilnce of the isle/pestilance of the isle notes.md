@@ -239,6 +239,18 @@
 - mon ronsu asks about rena. her full name is rana sefiya. she was an outworlder from the lost realms. she infltrated mount high to get favor in politcs. she wanted to basiclly terraform the realm to be more like her, and got hunted by outworlder hunters. she fought them, and duing the fight there was a massive explotion. says thast was several miles north east of the city, hard to miss the create.
 - taowu refers the celectial demon sect is a sect that uses raident energy to hunt other demons. and baolang was a part of that.
 - mon ronsu asks the head masater about eindridds goal. he wanted dominations.
+### Session 24
+- we continue the fight. 
+- vesper brought down aqullina but instead of dying she seems to become possesed by something, and then activates her prime ablity sending us to the tourniment realm.
+- fate wakes up, finds the rusted spear, saves tiddlywink, finds the ring  of gaia, then gets blaidd.
+- fate and blaidd decide to go find vesper to stop her from getting too much of an army. when we cut trough the middle we find the master aura farming there, so we decide to avoid the mddle for now.
+-  aethusa is fighting asura, so she calls over blaidd telepathically and he comes and beats the asura.
+- afterword's, the master moves and starts fighting blaidd, saysing that because we we beat his deciples he wants to test us to see if we are worthy, and to leave this place we will have to beat him.
+- we bring the master owl down to half helth and he says we have proven outselves, and in another life would have loved to fight us in the tounriment. 
+- when we get back, we have a convo with vester out in the open, discussing how she felt threated by us saying we will kill her, and we felt threated by her makeing an army. we decide not to scheme anything and she wont scheme anything ether. fate asks vesper if what the blood was for, and while she says she forgot, terry says it was to be one of them asssuming it ment turn fate into a vampire. 
+- in the garden aethusa is still in the time loop and gained one exasutoin from 13 loops. aethusa realizes that malthion is aware of the time loop has been ignoring her pleas. 
+- aethusa asks what kafe showed malthion to make him lose faith in aethusa. malthjon says someone else has found the pilgrim, so he wants to finish quickly, so he will explain what he learned from kafe and from anthero, and show the truth of this realm.
+- in the basement we see a coffin with a plack. the plak reads here lies the forefather, the last dragna  and survivor of the the realm-eater.
 # NPCs
 
 - Jes hua- doctor at the hospital in boreal city. She was the childhood best friend of the yalenea, and lost all the blood
