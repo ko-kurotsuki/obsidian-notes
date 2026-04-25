@@ -1,0 +1,1 @@
+world is basiclly  a huge battle royal dimiention of a bunch of past campains. the game master made copies of a bunch of diffrent characters have ben thrown in

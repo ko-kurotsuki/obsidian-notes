@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "warlock coven.md",
+                "file": "age of weaving/character creation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "warlock coven"
+              "title": "character creation"
             }
           },
           {
@@ -208,9 +208,10 @@
   },
   "active": "437e4d1695c47a74",
   "lastOpenFiles": [
-    "Untitled.base",
+    "marcy's thing.md",
     "warlock coven.md",
     "age of weaving/character creation.md",
+    "Untitled.base",
     "seal the demon lord/session 5.md",
     "age of weaving",
     "seal the demon lord/session 2.md",
