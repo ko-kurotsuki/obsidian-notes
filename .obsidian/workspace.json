@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "obsidian notes/coya fill outs/valkarke squadmaster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "valkarke squadmaster"
             }
           }
         ],
@@ -195,12 +195,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "756d6df2b566fe94",
+  "active": "2d215b641195ef8f",
   "lastOpenFiles": [
-    "obsidian notes/campains",
+    "obsidian notes/coya fill outs/binder.md",
+    "obsidian notes/coya fill outs/valkarke squadmaster.md",
+    "obsidian notes/coya fill outs/computer program cyoa.md",
+    "obsidian notes/coya fill outs/warlock coven.md",
     "files.base",
-    "earthrealm",
+    "obsidian notes/Night in the backstreets/Enemies.md",
+    "2026-04-25.md",
     "Welcome.md",
+    "obsidian notes/coya fill outs",
+    "obsidian notes/campains",
+    "earthrealm",
     "obsidian notes/earthrealm/harold war/Earthrelm_hearold war.md",
     "obsidian notes/earthrealm/harold war",
     "earthrealm/Untitled",
@@ -211,8 +218,6 @@
     "obsidian notes/earthrealm/Untitled.base",
     "earthrealm/obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey 1.png.md",
     "earthrealm/obsidian notes/earthrealm/Attachments",
-    "earthrealm/obsidian notes/earthrealm",
-    "earthrealm/obsidian notes",
     "obsidian notes/earthrealm/Aela's Timeline.md",
     "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey.png",
     "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey.jpeg",
@@ -232,14 +237,11 @@
     "obsidian notes/earthrealm/Earthrealm Odyssey.md",
     "obsidian notes/earthrealm/Aela's Timeline.md",
     "obsidian notes/Night in the backstreets/NPC.md",
-    "obsidian notes/Night in the backstreets/Enemies.md",
     "obsidian notes/Night in the backstreets/Kovethe's notes in the backstreets.md",
     "obsidian notes/pestilnce of the isle/pestilance of the isle notes.md",
     "obsidian notes/world of kinisis/World of Kinisis notes.md",
     "obsidian notes/earthrealm/Earthrealm_ Nar Makai.md",
     "obsidian notes/earthrealm/Welcome.md",
-    "Untitled.md",
-    "obsidian notes/Night in the backstreets/Session notes.md",
-    "test/testing.md"
+    "Untitled.md"
   ]
 }

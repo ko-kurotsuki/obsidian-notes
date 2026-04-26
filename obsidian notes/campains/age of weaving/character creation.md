@@ -50,3 +50,20 @@ you can ask other creatures to transfer their spell thread to you to fill up to 
 
 feature: ritual weaving
 - rituals are a method to reduce the amount of spell threat needed to weave a spell by incorporating a bunch of closely associated objects together, for instance fire is known to burn well on wood, chol and stuff, so by providing a bunch of of fuel you can lower the cost spell thread of all your fire related weaving. usually this will reduce the spells  down a level, and if its a first level spell, it becomes free.
+
+# capacity growth rate
+this determines how quickly your spell thread capacity grows. depending on your capacity, you could unlcok additnal features
+
+## full weaver
+- you get the full caster  ammount f spell threat
+## half weaver
+- you get the half caster ammount of spell threat
+- you get body weaving feature 
+	-  body weaveing: you have an extra degree of control when it comes to weaving with your own body, once every other level you can create a magical effect that affects your body, these can ether be passive, requreing no spell thread, or active where the spell thread to activate the ablity
+## third weaver
+- you get the half caster ammount of spell  thread 
+- you get the body weaving feature
+	-   body weaveing: you have an extra degree of control when it comes to weaving with your own body, once every other level you can create a magical effect that affects your body, these can ether be passive, requreing no spell thread, or active where the spell thread to activate the ablity/
+	- you my add additnal ablities every other level (1,3,5,7,9,11,13,15,17,19)
+- you get the instument weaveing feature
+	- starting at level 2 you can form a unique connection with 1 item you own, 
