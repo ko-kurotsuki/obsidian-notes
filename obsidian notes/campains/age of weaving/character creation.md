@@ -66,4 +66,19 @@ this determines how quickly your spell thread capacity grows. depending on your 
 	-   body weaveing: you have an extra degree of control when it comes to weaving with your own body, once every other level you can create a magical effect that affects your body, these can ether be passive, requreing no spell thread, or active where the spell thread to activate the ablity/
 	- you my add additnal ablities every other level (1,3,5,7,9,11,13,15,17,19)
 - you get the instument weaveing feature
-	- starting at level 2 you can form a unique connection with 1 item you own, 
+	- starting at level 2 you can form a unique connection with 1 item you own, allowing you to preform spells or use magical effects you imbue into it. it will gain charges based on how many times you imbue this item, (3 charges per imbuement), and will recharge to full naturally when you long rest. you may also charge it using your own spell thread using a bonus action, with 1 thread being 1 charge. 
+	- you can preform imbuements at every even level (2,4,6,8,10,12,14,16,18,20). also at these levels you may change 1 item you have imbued to another item instead.
+## school sacrifice
+by sacrificing a one or both of your schools you know, you will be able to improve your capacity 
+to the next stage, third>half and half>full.  you may also sacrifice your schools as a full weaver to boost yourself to these next capacities
+
+### double weaver
+- you get double the amount of spell thread per level.
+
+## triple weaver
+- you get triple the amount of spell thread per level.
+- you gain the fetaure: alchemical weaving
+	- alchemical weaving: you gain the ablity to liqufy and mix your spell thread into objects allowing you to create alchemical substances and objects. by mixing objects with ceritan assoications, and applying the proper princables, you can create potions or other alchemical items and affects.
+
+# Why do you weave?
+in this world, no one is lacking in magical talent. weavers are often looked at with fear and tripaditon from societies, or as tools to further someone elses ends, and weaving itself is dangerous work that will endanger your life and limb with every spell woven. that means most defining feature of any mage of this era is their resolve to continue down the path of weaving. why do *you* weave?
