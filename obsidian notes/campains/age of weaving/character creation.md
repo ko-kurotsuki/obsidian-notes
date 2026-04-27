@@ -19,7 +19,7 @@ in this world no one is without talent for magic, and everyone can create and le
 • [Transmutation]
 
 # Spell thread source 
-in this age, weavers use spell thread to manipulate the weave, and create magical effects. the weave is basiclly a gient matrix that shows the relationship between physical objects and concepts. think of a fire, its assoicated with things like heat, light, but also purification and transformation. using spell thread you could increase a fire's association with light to increase its brightness, or with purification to make a poisen removing flame. all things generate spell threads to some amount, but to become a more powerful weaver you will need to pull some from a source in order to increase your power. spell thread works like spell points
+in this age, weavers use spell thread to manipulate the weave, and create magical effects. the weave is basically a gient matrix that shows the relationship between physical objects and concepts. think of a fire, its associated with things like heat, light, but also purification and transformation. using spell thread you could increase a fire's association with light to increase its brightness, or with purification to make a poisen removing flame. all things generate spell threads to some amount, but to become a more powerful weaver you will need to pull some from a source in order to increase your power. spell thread works like spell points
 
 ## Arcane weaving
 these weavers pull extra spell thread from the principles of magic. they understand that everything is connected in the weave and lightly pull thread in by deepening their understanding of principles, they can understand the weave itself. 
@@ -78,7 +78,22 @@ to the next stage, third>half and half>full.  you may also sacrifice your school
 ## triple weaver
 - you get triple the amount of spell thread per level.
 - you gain the fetaure: alchemical weaving
-	- alchemical weaving: you gain the ablity to liqufy and mix your spell thread into objects allowing you to create alchemical substances and objects. by mixing objects with ceritan assoications, and applying the proper princables, you can create potions or other alchemical items and affects.
+	- alchemical weaving: you gain the ablity to liquefy and mix your spell thread into objects allowing you to create alchemical substances and objects. by mixing objects with ceritan assoications, and applying the proper principles, you can create potions or other alchemical items and affects.
+
+# weaving test
+- pick an ablity score to use for your weaving test 
+- whenever you use  weave a spell, or activate a magical effect or take magical action you must make a weaving test 
+- for spells the dc is 10+ the level of your spell
+- for magical actions that use spell thread, it will simply round down to the nearest equivalent  spell level 
+- for actions that do not use spell thread, a DC will be established on creation. 
+- if you fail the weaving test, your spell or magical effect will fail to take place and any spell thread or resources used will be consumed. 
+- on a nat 20, a wild magic surge will occur, and the player gets to choose the effect of the surge, you also learn a principle of magic 
+- on a Nat 1, a wild magic surge will occur and the DM gets to choose the effect of the surge. the player also learns a principle of magic. staring at 6th level spells, the critical fail range will increase by 1 for each spell level.
+
+# magical acumen improvement
+- at levels you get an asi, you also gain a magical acumen improvement (4,8,12,16,19) point that can be spent one of two things 
+	- weaving test crit rage increase, lowering the caracal roll range by 1 per point 
+	- weaving test bypass, allowing you to change a pass to a fail. if used to negate a crit fail, you do not get a wild magic surge, or learn the principle of magic. 
 
 # Why do you weave?
 in this world, no one is lacking in magical talent. weavers are often looked at with fear and tripaditon from societies, or as tools to further someone elses ends, and weaving itself is dangerous work that will endanger your life and limb with every spell woven. that means most defining feature of any mage of this era is their resolve to continue down the path of weaving. why do *you* weave?
