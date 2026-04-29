@@ -6,6 +6,8 @@ the only races available are human, dwarf or halfling or tabaxi, collectively kn
 all things have a planer alignment, this represents the home plane that something comes from, or the plane that something has been attuned to. your characters start will the material 
 planer alignment 
 
+having spesfic planer alignments can be helpful or hurtful depending on the situation. it could be used to for targeting spells or magical effects,  and it could help you reduce your spell thread cost for spells based on how closely they align with your plane (ie, if you are aligned with the plane of fire, your fire spells will cost less for you.)
+
 # schools of magic
 in this world no one is without talent for magic, and everyone can create and learn spells that align with their schools. pick 1 school of magic, and I the DM will pick another for your character. you will start the game aware of your chosen school of magic, but will be unaware of their second school until they try to learn or create a spell in that school. 
 
@@ -49,7 +51,7 @@ these weavers spend more time studying the associations that the weave maps rath
 you can ask other creatures to transfer their spell thread to you to fill up to your maximum capacity. every long rest, your spell thread resets to half your maximum capacity. you may also transfer your own spell thread to other weavers.
 
 feature: ritual weaving
-- rituals are a method to reduce the amount of spell threat needed to weave a spell by incorporating a bunch of closely associated objects together, for instance fire is known to burn well on wood, chol and stuff, so by providing a bunch of of fuel you can lower the cost spell thread of all your fire related weaving. usually this will reduce the spells  down a level, and if its a first level spell, it becomes free.
+- rituals are a method to reduce the amount of spell threat needed to weave a spell by incorporating associations items and actions that have farther associations. for instance, salamanders are said to be fire attributed monsters from the plane of fire, so you could use a salamander or its parts to change the planer alignment of other items to the plane of fire.
 
 # capacity growth rate
 this determines how quickly your spell thread capacity grows. depending on your capacity, you could unlock additnal features
@@ -59,14 +61,15 @@ this determines how quickly your spell thread capacity grows. depending on your 
 ## half weaver
 - you get the half caster amount of spell threat
 - you get body weaving feature 
-	-  body weaveing: you have an extra degree of control when it comes to weaving with your own body, once every other level you can create a magical effect that affects your body, these can ether be passive, requreing no spell thread, or active where the spell thread to activate the ablity
-	- you my add additnal ablities every other level (1,3,5,7,9,11,13,15,17,19)
+	-  body weaving: you have an extra degree of control when it comes to weaving with your own body, once every other level you can create a magical effect that affects your body, these can ether be passive, requiring no spell thread, or active where the spell thread to activate the ablity
+	- you my add addental abilities every other level (1,3,5,7,9,11,13,15,17,19)
 ## third weaver
-- you get the half caster ammount of spell  thread 
+- you get the half caster amount of spell  thread 
 - you get the body weaving feature
-	-   body weaveing: you have an extra degree of control when it comes to weaving with your own body, once every other level you can create a magical effect that affects your body, these can ether be passive, requreing no spell thread, or active where the spell thread to activate the ablity/
+	-   body weaving: you have an extra degree of control when it comes to weaving with your own body, once every other level you can create a magical effect that affects your body, these can ether be passive, requiring no spell thread, or active where the spell thread to activate the ablity
+	- you my add addental abilities every other level (1,3,5,7,9,11,13,15,17,19)
 	
-- you get the instument weaveing feature
+- you get the instrument weaving feature
 	- starting at level 2 you can form a unique connection with 1 item you own, allowing you to preform spells or use magical effects you imbue into it. it will gain charges based on how many times you imbue this item, (3 charges per imbuement), and will recharge to full naturally when you long rest. you may also charge it using your own spell thread using a bonus action, with 1 thread being 1 charge. 
 	- you can preform imbuements at every even level (2,4,6,8,10,12,14,16,18,20). also at these levels you may change 1 item you have imbued to another item instead.
 ## school sacrifice
@@ -108,7 +111,7 @@ principals of magic represent study and insight into the workings of magical eff
 # magical acumen improvement
 - at levels you get an asi (4,8,12,16,19) , you also gain a magical acumen improvement point that can be spent one of two things 
 	- weaving test crit range increase, lowering the critical roll range by 1 per point 
-	- wild magic suppression, allowing you to suppress a wild magic surge happening within 30 feat of you once for each point put in. if used suppress your own wild magic surge, you do not  learn the principle of magic that comes with it.. 
+	- wild magic suppression, allowing you to suppress your own wild magic surge once per per point spent, every long rest. if used, you do not  learn the principle of magic that comes with it.. 
 
 # Why do you weave?
 in this world, no one is lacking in magical talent. weavers are often looked at with fear and tripaditon from societies, or as tools to further someone elses ends, and weaving itself is dangerous work that will endanger your life and limb with every spell woven. that means most defining feature of any mage of this era is their resolve to continue down the path of weaving. why do *you* weave?
