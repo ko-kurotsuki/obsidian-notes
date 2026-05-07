@@ -12,6 +12,7 @@ having spesfic planer alignments can be helpful or hurtful depending on the situ
 in this world no one is without talent for magic, and everyone can create and learn spells that align with their schools. pick 1 school of magic, and I the DM will pick another for your character. you will start the game aware of your chosen school of magic, but will be unaware of their second school until they try to learn or create a spell in that school. 
 
 • [Abjuration]  
+-  these are spells that are defenseive or 
 • [Conjuration]  
 • [Divination]  
 • [Enchantment]  
@@ -61,10 +62,10 @@ this determines how quickly your spell thread capacity grows. depending on your 
 ## half weaver
 - you get the half caster amount of spell threat
 - you get body weaving feature 
-	-  body weaving: you have an extra degree of control when it comes to weaving with your own body, once every other level you can create a magical effect that affects your body, these can ether be passive, requiring no spell thread, or active where the spell thread to activate the ablity
+	-  body weaving: you have an extra degree of control when it comes to weaving with your own body, once every other level you can create a magical effect that affects your body, these can ether be passive, requiring no spell thread, or active where the spell thread to activate the ablity. its the same as making a spell but you do not have to have the school requirements.
 	- you my add addental abilities every other level (1,3,5,7,9,11,13,15,17,19)
 ## third weaver
-- you get the half caster amount of spell  thread 
+- you get third caster caster amount of spell  thread 
 - you get the body weaving feature
 	-   body weaving: you have an extra degree of control when it comes to weaving with your own body, once every other level you can create a magical effect that affects your body, these can ether be passive, requiring no spell thread, or active where the spell thread to activate the ablity
 	- you my add addental abilities every other level (1,3,5,7,9,11,13,15,17,19)
@@ -104,7 +105,7 @@ principals of magic represent study and insight into the workings of magical eff
 - for magical actions that use spell thread, it will simply round down to the nearest equivalent  spell level 
 - for actions that do not use spell thread, a DC will be established on creation. 
 - if you fail the weaving test, your spell or magical effect will fail to take place and any spell thread or resources used will be consumed. 
-- on a nat 20, a wild magic surge will occur, and the player gets to choose the effect of the surge, you also learn a principle of magic 
+- on a nat 20, a wild magic surge will occur, and the player gets to choose the effect of the surge from the wild magic table, you also learn a principle of magic 
 - on a Nat 1, a wild magic surge will occur and the DM gets to choose the effect of the surge. the player also learns a principle of magic. staring at 6th level spells, the critical fail range will increase by 1 for each spell level.
 - note that a critical success does not grantee a pass on the test, only triggering the surge and learning the magical principle. in the dame way, a critical fail does not mean the spell fails automatically. 
 
@@ -115,3 +116,8 @@ principals of magic represent study and insight into the workings of magical eff
 
 # Why do you weave?
 in this world, no one is lacking in magical talent. weavers are often looked at with fear and tripaditon from societies, or as tools to further someone elses ends, and weaving itself is dangerous work that will endanger your life and limb with every spell woven. that means most defining feature of any mage of this era is their resolve to continue down the path of weaving. why do *you* weave?
+
+# basic ideas
+the basic idea is that this setting takes place just a little bit after the weave was connected to the matrial plane, like 60 or so years, and modern 5e spellcasting has not been invented yet
+instead we have a more unstable and laborus spellweaving. a powerful skill that allows people to derectly acess the weave to preform magic, but with the chance of setting off wild magic sugres at every turn.
+mages are often reviled and expelled from communities or worse becasuse of the sugres, leading to the prosecution of magic users everywhere.

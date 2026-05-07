@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian notes/campains/age of weaving/character creation.md",
+                "file": "obsidian notes/coya fill outs/hentai nemisis v2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "character creation"
+              "title": "hentai nemisis v2"
             }
           }
         ],
@@ -192,17 +192,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "markdown-importer:Open format converter": false
     }
   },
   "active": "2d215b641195ef8f",
   "lastOpenFiles": [
+    "obsidian notes/campains/age of weaving/character creation.md",
+    "obsidian notes/coya fill outs/hentai nemisis v2.md",
     "obsidian notes/coya fill outs/valkarke squadmaster.md",
     "obsidian notes/coya fill outs/computer program cyoa.md",
     "obsidian notes/coya fill outs/warlock coven.md",
     "obsidian notes/coya fill outs/binder.md",
     "obsidian notes/campains/marcy's thing.md",
-    "obsidian notes/campains/age of weaving/character creation.md",
     "obsidian notes/coya fill outs/vajra on saturn.md",
     "files.base",
     "obsidian notes/Night in the backstreets/Enemies.md",
@@ -241,7 +243,6 @@
     "obsidian notes/earthrealm/Aela's Timeline.md",
     "obsidian notes/Night in the backstreets/NPC.md",
     "obsidian notes/Night in the backstreets/Kovethe's notes in the backstreets.md",
-    "obsidian notes/pestilnce of the isle/pestilance of the isle notes.md",
-    "obsidian notes/world of kinisis/World of Kinisis notes.md"
+    "obsidian notes/pestilnce of the isle/pestilance of the isle notes.md"
   ]
 }
