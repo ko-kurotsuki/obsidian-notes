@@ -1346,6 +1346,27 @@ Vast: 24 hp
 - aethusa is outside in the garden, watching 3 godly figures fighting. we see malthon meet her in the garden, his new form with white wings and swords he is the champian of anthiro lord of stagnation. 
 - malthon says its pointless to explain, and that he needs to do what he was made to do.
 - mathion stabs himself to reduse his hp, then uses his prime ablity to cause a time loop
+### Session 93
+- malthion and aethusa are still together looking over the the scene fate and blaidd are in
+- malthion says that antihero and the chaos clords are refugees from those who escaped the world eater 
+- earth realm is inside of chaos realm, so chaos realm is bigger 
+- we earthrealm is inside the stomech of a god.
+-  blaidd uses his all seeing eyes to look into the coffien to check on it. inside is a tall humanid creature, limbs too loong anf face sligtly not human. several daggermarks are on him, and concentrated power. past that, however is the fact that its an illusion, and the true foarm is a young boy with sandy red hair. the forefather does not resemble luciones in the slightest.
+- the forefather resmbles a younger version of the chaos lord of time, hiron
+- cornilius fallstaff is replaced terry and killed him with a stake. 
+- we start to fight. aethusa trys to stall him with maze, but he breaks out. 
+- bliadd gets pulled by fenrer calling him. in the bog, the pilgrem has appiered, and he needs blaidd to dealth with it. 
+- the pilgrim then wites saying that he doesnt want to fight bliadd because he is aetusa's friend. instead he is running from corrun and trying to collect soul energy to continue running.
+- corrun brings out vampire radoan and a bunch of kahat refugees.
+- in the garden malthion says that he wasnt trying to poisen chaos realm, but rather, poisen the realmeaster to slay it so that we can escape 
+- malthion then says that the pilgrem is in the bog with blaidd, and she needs to get herself sent there now. 
+- K and zed pull up and attack malthon while aethusa escapses. the flowers in the garden are a veriaty that only grow there, and after this battle they will never grow again.
+- corrun says that everyone wants the pilgrim because they need him to extract something from the forefather that will be untaiented by vamperism. they want resonance.
+- resonace is a life force that the realm either was un able to absorb, and only thenn can they can trasend outside the realm eater this is called acendance.
+- corron tries to say that jun attained acendance, but we know that he actually died.
+- during the fight vesper opens the coffen of the forefather, aethusa used metear swarm to blast a lot of the knights corniulos summoned.
+- vesper managed to feed and transform her bat into something that may be bloodbarer like.
+- corrun tried to use rehadan and the remints of kahat againsst blaidd but rhadan managed to train with mary
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
