@@ -1367,6 +1367,22 @@ Vast: 24 hp
 - during the fight vesper opens the coffen of the forefather, aethusa used metear swarm to blast a lot of the knights corniulos summoned.
 - vesper managed to feed and transform her bat into something that may be bloodbarer like.
 - corrun tried to use rehadan and the remints of kahat againsst blaidd but rhadan managed to train with mary
+### Session 94
+- corron decides to change locale for the the fight, and they all decide to fight inside corron's
+- corron brings himself to half, then uses his prime ablity to bring them all to yutanti's shadow garden
+- during the fight in the fallstaff vault, rykard falls to the ground uncontious, apperly his soul bound ring is activated when tiddlywink died.
+- during the fighd cornilus looks into vesper's eyes and flashes back to the time before he was a vampire
+- at that time he was drinking with his devine kinght comrades, daemon harbenger (danceing death) , caldwyn godwyn (silignt sentianl), Caldwyn Godwyn "The Silent Sentinel", Daemon Harbinger "The Dancing Death" , Ser Harwyn "The Knight Husk", Sellen "the brokenn blade"
+- he was dinking with them and making jokes, but they get too vulger for him so he leaves (the knights pend time fighting of the creatures from chaos realm and expanding their teratoyr )
+- at home, he can't really be intemte with his waife for some reason (her back hurts) and vesper is crying because there was a bat in her room 
+- conrad goes to talk to her about it and cheer her up. he forces vesper to look at the bat that he cought, when she looks, it looks back, and her fear's get asuaged just a little. conrad then forces her to choose to let it live with her, or for him to kill it right now. 
+- when contiplatinig on wheather or not to drink the blood of the forefather, he flashes back again
+- he remebers confessing to the forefather that he is greteful for his life, but wants to have a harem. the forefather got really mad about this  because part of his oath is being loyal to his wife, and if he can betray his wife he can betay the forefather. the forefather seems really strict. 
+- conrad questions the forefather on why they keep pushing deeper and deepr into chaos realm, and the the forefather says that chaos realm has an end, and that the chaos lords are pretenderes wearing the faces of the forefather's friends face, protecting zendofal
+- the corenials decides that he doesnt want to use the forefather's power and doesnt drink. he has a renewed drive to beat fate because he used the bloods power.
+- vesper goes in and tries to turn  him bat, but he beins resisting it, and decides to drink the forefather's blood tor resist it. he says im sorry to vesper before he explodes into a pile of guts. then the pile begins to move, can clump together, and vesper's pupa bat then joins, then all the other bats. corinlius has understood vesper's curse and with his new power can rewrite the control signature to be under him. rykards body also joins this mass of blood and flesh, combining into a gient creature that is a mass of flesh.
+- during the fight with corrun, radan chooses to turn back into a orc, and not be a vampe
+- they defeat corron and want to go get the pilgrem but before they leave yuutanti's domain vikar jun says he wants to talk.
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
