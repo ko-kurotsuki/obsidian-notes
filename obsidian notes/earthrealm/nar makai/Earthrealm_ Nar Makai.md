@@ -203,7 +203,14 @@ The sword says to call him “white”. Claims to be a necromancer, and tempted 
 -![[Pasted image 20260213160833.png]]
 - when we get the grave yard we hear a voice say "wayward childrentake your place among the"
 ### Session 15
-- we beat the zombies in the graveyard, after a crow arocrka, and a vimpire decen
+- we beat the zombies in the graveyard, after a crow arocrka, and a vimpire decend 
+### Session 16
+- the vampire says he is jeri the nefarious, and his companion genesis the first junior. jeri is part of a clan cloistered in the mountns, and gimbly had given the location of his clan when in limbo. genesis the first senior is the oversier of the aracora clan for the vampires, so junior is the prince.  they are here to fight xavious and take out kotali gimbly's mom. 
+- we try to explain that she didn't do that of her free will but he says that turning a kid is against vampire code, so crating gimbly was a crime for kotali and needs to be killed regardless. 
+- they are basically just mad she isn't a vampire and just want to killer that
+- we convince them to go after xavious first, and then go to the common area
+- in the common area, we see tenticles coming out of a black void, kor learns that these tenticles are xavious trying to go through chaos realm and then beyond it. kor uses his Devine sense, he feels
+- we get past the common area, and get to the palece. we see genisis and jeri fighting a bunch of commoners  to get inside. xavius then says that its too soon, and turns all the commoners into an almalgom of bodies acting as a single monster and it prepares to fight us.
 ## Encountered enemies
 
 ### Zombies:
