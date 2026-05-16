@@ -295,7 +295,7 @@ The sword says to call him “white”. Claims to be a necromancer, and tempted 
 ### Baphomet
 
 - Heartcleaver: has the power to kill when dropping to 0 hp instatly no deathsave
-
+### flesh hydra
 ## NPC
 
 ### Corvacks the the undread
@@ -327,6 +327,11 @@ Broke, only has apple juice left.
 ### Zaedrus:
 
 - The human half of xavius baxorum. He makes a pact with us to kill xavious
+### Shadow mastiff
+
+- Serves a heaorld of lucianus.
+- Gave us the silvered stake (liviticus has it.)
+
 
 ## Strats
 
@@ -347,7 +352,3 @@ Broke, only has apple juice left.
 
 - Read your sheet please
 
-### Shadow mastiff
-
-- Serves a heaorld of lucianus.
-- Gave us the silvered stake (liviticus has it.)
