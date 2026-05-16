@@ -1462,6 +1462,8 @@ for his barrier recovery, we can say that he either gets back 6, 12 or 18 mana p
 mana flow is the result of Fate now just constantly cycleing his spellslots sorc points and barioer charges, and starts to blur the line between bloodberer ablites and chaos relm magic.
 
 Agonizing blast
+## new stuff after taking in forefather's blood
+new title, Fate Harpenger, Amon Abaris
 
 # Fate combo guide
 
