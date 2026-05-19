@@ -1463,7 +1463,36 @@ mana flow is the result of Fate now just constantly cycleing his spellslots sorc
 
 Agonizing blast
 ## new stuff after taking in forefather's blood
-new title, Fate Harpenger, Amon Abaris
+new title, Fate harbinger, Amon Abaris/Abgal
+i
+dea: resonence arsonal
+give fate a 20 in evevery ablity score so all his stats are +5 modifir
+
+then let him give him 3 weapons 
+
+staff: while using this staff, all of Fates spell slots become 5th level spell slots
+versititle, range 5 ft, 1d8 damgae
+
+javalin: while using the javelin fate superiority  die goes from d6 to d12, and will automatically become the maximum when rolled.
+versitle, range 60:120,  1d12
+
+Bow: while using the bow, all of fates attacks with the bow auto hit
+twohanded, range 300/600, 1d8
+
+Fated Vows:
+	 conditons: that reduce hp to half, 
+	 or two attributes two 1, 
+	 not attaccking for a certain number of terms, 
+	 stand next to blaidd, 
+	 stand next to aethusa, certain enemy type, 
+	 or certen number of enemies in the turn order, 
+	 sacrifice bonus actions, 
+	 sacrifice reaction 
+	 sacrifice actions
+	 have a map of the area, make a circle using a certain amount of movement.
+	 
+	boons: increease in damage, change damage type, make all hits crits, spell charge, ricchet attack, gain evasion feature, barrier expantion, counter hit
+
 
 # Fate combo guide
 

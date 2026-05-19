@@ -25,18 +25,15 @@
             "id": "6ae73a5cbe01d746",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "harold war/Earthrelm_hearold war.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20260518184821.png"
               },
-              "icon": "lucide-file",
-              "title": "Earthrelm_hearold war"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260518184821"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,15 +192,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ae73a5cbe01d746",
+  "active": "d347e39b19b0bea6",
   "lastOpenFiles": [
-    "nar makai/Earthrealm_ Nar Makai.md",
-    "harold war/Earthrelm_hearold war.md",
-    "odyssey/Earthrealm Odyssey.md",
-    "Aela's Timeline.md",
+    "Pasted image 20260518184821.png",
+    "Pasted image 20260518184805.png",
     "Pasted image 20260213160833.png",
+    "Aysync search.md",
+    "Aela's Timeline.md",
     "PC and NPC list.md",
+    "harold war/Earthrelm_hearold war.md",
     "Untitled.base",
+    "nar makai/Earthrealm_ Nar Makai.md",
+    "Welcome.md",
+    "odyssey/Earthrealm Odyssey.md",
     "[Earthrealm Odyssey.md",
     "Attachments/Pasted image 20251128132005.png",
     "Attachments/notes for Earthrealm Odyssey 9.png",
@@ -212,7 +213,6 @@
     "Attachments/notes for Earthrealm Odyssey 3.png",
     "Attachments/notes for Earthrealm Odyssey 1.png",
     "Attachments/notes for Earthrealm Odyssey.jpeg",
-    "Welcome.md",
     "harold war",
     "odyssey",
     "nar makai",
