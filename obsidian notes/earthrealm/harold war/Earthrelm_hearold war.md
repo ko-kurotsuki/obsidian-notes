@@ -1462,11 +1462,12 @@ for his barrier recovery, we can say that he either gets back 6, 12 or 18 mana p
 mana flow is the result of Fate now just constantly cycleing his spellslots sorc points and barioer charges, and starts to blur the line between bloodberer ablites and chaos relm magic.
 
 Agonizing blast
+
+
 ## new stuff after taking in forefather's blood
-new title, Fate harbinger, Amon Abaris/Abgal
+new title, Fate harbinger, Amon Abgal
 i
 dea: resonence arsonal
-give fate a 20 in evevery ablity score so all his stats are +5 modifir
 
 then let him give him 3 weapons 
 
@@ -1492,6 +1493,7 @@ Fated Vows:
 	 have a map of the area, make a circle using a certain amount of movement.
 	 
 	boons: increease in damage, change damage type, make all hits crits, spell charge, ricchet attack, gain evasion feature, barrier expantion, counter hit
+blade
 
 
 # Fate combo guide
