@@ -1383,6 +1383,17 @@ Vast: 24 hp
 - vesper goes in and tries to turn  him bat, but he beins resisting it, and decides to drink the forefather's blood tor resist it. he says im sorry to vesper before he explodes into a pile of guts. then the pile begins to move, can clump together, and vesper's pupa bat then joins, then all the other bats. corinlius has understood vesper's curse and with his new power can rewrite the control signature to be under him. rykards body also joins this mass of blood and flesh, combining into a gient creature that is a mass of flesh.
 - during the fight with corrun, radan chooses to turn back into a orc, and not be a vampe
 - they defeat corron and want to go get the pilgrem but before they leave yuutanti's domain vikar jun says he wants to talk.
+### Session 95
+- we open with a flash back to pre vampire vesper and cornilius. vesper is in a pumpkin patch watering the pumpin, and trying to take care of her oldest pumpkin and keep it from dying. cornilius seems to be turning into a new vampire. he annouces he is getting married, and whenvesper wonders about her mom, he dodges the question, then introduces vycera. vycera has just drank fiona vesper dry, and fiona begs vesper to just do what they say. 
+- fate finds himself in a sunny marketplace, and he sees two horse riders, and one with a incandent face 
+- the godhusk is zendafall that has died but we still persisit in side him. it seems the forefathere wants us to servive and eventually escape.
+- fate decides to make a deal, and takies both the white and black horse. it seems the forefather wants me to help people servivie , remove the currution of his blood, and eventually leave the god husk 
+- fate accepts, and takes both horses to drive his soul makeing various vows to increase his power. 
+- he gets up and and beings fighting corniuls
+- with blaidd and aethusa, the talk to jun, he says he has been here studying, and now as a question that he can answer using his eyes. 
+- jun presents the souls of sabine and adoria, and says that he has enough fual to eather preform a reincaration, or an accention into the resonance.
+- blaidd picks accention. so jun beins the process, and blaidd manges to witness it beining to end with the help aethusa. 
+- blaidd sees a chous of countless souls swirling brightly. they sing a song in unison until it gets drowned out.  action means you merge with resonance and erasing your ego. its at peace but it means the end of the very definition for "yourself"
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
@@ -1472,13 +1483,13 @@ dea: resonence arsonal
 then let him give him 3 weapons 
 
 staff: while using this staff, all of Fates spell slots become 5th level spell slots
-versititle, range 5 ft, 1d8 damgae
+versatile, range 5 ft, 1d8 damage
 
 javalin: while using the javelin fate superiority  die goes from d6 to d12, and will automatically become the maximum when rolled.
-versitle, range 60:120,  1d12
+versatile, range 60:120,  1d12
 
 Bow: while using the bow, all of fates attacks with the bow auto hit
-twohanded, range 300/600, 1d8
+twohanded, range 300/600, 1d8 damage
 
 Fated Vows:
 	 conditons: that reduce hp to half, 
@@ -1493,8 +1504,11 @@ Fated Vows:
 	 have a map of the area, make a circle using a certain amount of movement.
 	 
 	boons: increease in damage, change damage type, make all hits crits, spell charge, ricchet attack, gain evasion feature, barrier expantion, counter hit
-blade
 
+resounding vow:
+	after activating 3 vows,  the power they provide begins to resonate with Fates arsenals, fusing all his weapons into 1, giving him access to all their abilities at the same time, and the addental ablity:
+	all damage done while holding the weapon is becomes the maximum value possible.
+two handed,  range 600, 1d12
 
 # Fate combo guide
 
