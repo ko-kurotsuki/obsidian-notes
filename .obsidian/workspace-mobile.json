@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "0114d605a7d00e6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "335d79d40168d119",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b46b00c22a9aea52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian notes/Night in the backstreets/Session notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session notes"
+            }
+          },
+          {
+            "id": "6408edf337e28c68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "in stars and time.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "in stars and time"
+            }
+          },
+          {
+            "id": "48dc4d7bcae14840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summer internship 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Summer internship 2026"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b168e6cc6a882bf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c94873c6661781ad",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "3de87cd675b3c58c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "f3dbbda366d2ff10",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "101e966f517b6308",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-ghost",
+          "title": "all-properties"
+        }
+      },
+      {
+        "id": "75ff59ee373bfe71",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e21ed4f9c6853bd3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3f3c0f549587c530",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "obsidian notes/Night in the backstreets/NPC.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "6a3df888243394bd",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "obsidian notes/Night in the backstreets/NPC.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "5ccc3505783a5274",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "in stars and time.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "d5cea2d52947bac2",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "48dc4d7bcae14840",
+  "lastOpenFiles": [
+    "Summer internship 2026.md",
+    "in stars and time.md",
+    "files.base",
+    "2026-04-25.md",
+    "obsidian notes/world of kinisis/Attachments/World of Kinisis notes.png",
+    "obsidian notes/world of kinisis/Attachments/World of Kinisis notes 9.png",
+    "obsidian notes/world of kinisis/Attachments/World of Kinisis notes 8.png",
+    "obsidian notes/world of kinisis/Attachments/World of Kinisis notes 7.png",
+    "obsidian notes/world of kinisis/Attachments/World of Kinisis notes 6.png",
+    "obsidian notes/world of kinisis/Attachments/World of Kinisis notes 5.png",
+    "obsidian notes/world of kinisis/Attachments/World of Kinisis notes 4.png",
+    "obsidian notes/world of kinisis/Attachments/World of Kinisis notes 3.png",
+    "obsidian notes/world of kinisis/Attachments/World of Kinisis notes 2.png",
+    "obsidian notes/world of kinisis/Attachments/World of Kinisis notes 13.png",
+    "obsidian notes/world of kinisis/World of Kinisis notes.md",
+    "obsidian notes/world of kinisis/Attachments",
+    "obsidian notes/world of kinisis",
+    "obsidian notes/pestilnce of the isle/things I want seven to encounter doing the campaign at some point.md",
+    "obsidian notes/pestilnce of the isle/pestilance of the isle notes.md",
+    "obsidian notes/pestilnce of the isle/Untitled.base",
+    "obsidian notes/pestilnce of the isle",
+    "obsidian notes/earthrealm/odyssey/Earthrealm Odyssey.md",
+    "obsidian notes/earthrealm/odyssey",
+    "obsidian notes/earthrealm/nar makai/Earthrealm_ Nar Makai.md",
+    "obsidian notes/earthrealm/nar makai",
+    "obsidian notes/earthrealm/harold war/Earthrelm_hearold war.md",
+    "obsidian notes/earthrealm/harold war",
+    "obsidian notes/earthrealm/Untitled.base",
+    "obsidian notes/earthrealm/PC and NPC list.md",
+    "obsidian notes/earthrealm/Aysync search.md",
+    "obsidian notes/earthrealm/Attachments",
+    "obsidian notes/earthrealm/Aela's Timeline.md",
+    "obsidian notes/coya fill outs/warlock coven.md",
+    "obsidian notes/coya fill outs/valkarke squadmaster.md",
+    "obsidian notes/coya fill outs/vajra on saturn.md",
+    "obsidian notes/coya fill outs/magical girl.md",
+    "obsidian notes/coya fill outs/hentai nemisis v2.md",
+    "obsidian notes/coya fill outs/deep space marines.md",
+    "obsidian notes/coya fill outs/computer program cyoa.md",
+    "obsidian notes/coya fill outs/binder.md",
+    "obsidian notes/coya fill outs/archdemon of corruption.md",
+    "obsidian notes/campains/seal the demon lord/sessions.md",
+    "obsidian notes/campains/seal the demon lord/session 5.md",
+    "obsidian notes/campains/seal the demon lord/session 4.md",
+    "obsidian notes/campains/seal the demon lord/session 3.md",
+    "obsidian notes/campains/seal the demon lord/session 2.md"
+  ]
+}
