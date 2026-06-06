@@ -39,14 +39,14 @@
             "id": "48dc4d7bcae14840",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Summer internship 2026.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Summer internship 2026.md",
+                "bFile": "Summer internship 2026.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Summer internship 2026"
+              "icon": "git-pull-request",
+              "title": "Diff: Summer internship 2026"
             }
           }
         ],
