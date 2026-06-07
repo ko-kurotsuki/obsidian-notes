@@ -1,6 +1,6 @@
 setting: 6 months after bloody banquet, and 2 months pass when fate and aethusa were training on paradisia.# Sessions
 
-
+  
 ### Session 1
 
 Start of a speech given by vikkar juun and his wife vikkar adoria, and vikkar forrest
