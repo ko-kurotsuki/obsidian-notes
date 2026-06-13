@@ -1394,6 +1394,25 @@ Vast: 24 hp
 - jun presents the souls of sabine and adoria, and says that he has enough fual to eather preform a reincaration, or an accention into the resonance.
 - blaidd picks accention. so jun beins the process, and blaidd manges to witness it beining to end with the help aethusa. 
 - blaidd sees a chous of countless souls swirling brightly. they sing a song in unison until it gets drowned out.  action means you merge with resonance and erasing your ego. its at peace but it means the end of the very definition for "yourself"
+### Session 96
+- we flash back to the bloody banquet, fate is in the conoer aurafarming when cornilis comes by and tries really hard to get him to indulge in his desires by going to dance with vastacores mom.
+- he tried to use his vampire charm but the cursemark resisted it for him
+- fate plays it like he was charmed an goes to find mrs rosevalor.
+- in reallity fate and vesper are fighting cornilious, he powers up, and starts to warp reality, causing a break that fate falls though 
+- fate wakes up naaked in a bath, he changes into his clothes and goes out.  its basiclly a hearm place with shapeshifting women. they try to get fate to join the orey, but he declidns 
+- conrad fallstaff and fiona harbinger, were married, and I find their wedding ring. its a magic item
+- fiona is a fucking harbinger, and that means im related to vesper
+- i go to the other door, and find a study. there is a locked door, and scolls and legers from the harbinger estates dragon houses and stuff purchaed with fallstaff gold. later turned into empty husks, warehouses. he also has plans for soul gem extraction in shundia, and a partion to sell half to the populace, and put the other into his personal collection to gind up and use
+- while looking, though the ledger, i find that they are real, and the most recent one is a verity of perchaes in the elven kingdom, it was then retrofitted to be suitted to vampires, with a network of tunnges to move bodies and blood. there is also iron and steel being mined and sminthed, and using it to make a labritory,and there is the M logo used by romanius  on the .
+- i got to another room. there is a pit with a portal in  it, and chest. though the portal it goes to another room. fate opens the chest, and hears the voice of vycera asking cornious if their tale ends with this, she then says the next time he wants to take a shot at her, do it like a man. Fate then gets the poisen called the slow death. 
+- fate then goes through the portal, picks up corniuls's jounral, and opens the chest.
+- in the chest cornilus says that vycera has started reading his jounal so he coded and discarded it. vycera starts infucingin his mind so he gets the mind sharpener to protot his mind a little longer. in the chest is the mind sharpner. 
+- when fate sees the the flower, he sees a vison about how Cornelius will throw away everythign else and help vycera with whatever she wishes, as long as she protects his daughter. vycera takes that as a challange to see how long it takes him to stop careing about her. the flower that vesper is trapped in is one of the most well protected things in this world. fate steels himself, then goes toward where cornilus is 
+- bliadd takes up malthion soul and accends with it disappearing the both of them.
+- aethusa assmilates with the pilgrem. she has hundreds of flies embud with resoonece that then bonds fully with the aethusa. part of her is the pilgrem and part of her is aethusa as a hive mind.
+- after assimilation, the aethsua makes a new body for the piligm as a blight, and allows him to go out with his own path. they care very deeply for eachother and tell him if hee needs to go somplace, avirel and sillric will take care of him. 
+- later ancan comes to see aethusa 
+- blaidd and malthion are in a temple somewhere, then they hear sabieens voice and she says they failed to accend, and are stuck between earthrelm and the Resonance called the gate of resoncne.
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer

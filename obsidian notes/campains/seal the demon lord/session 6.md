@@ -1,0 +1,2 @@
+- crusaders set out to white faing, tavel 6 days to the border
+- 
