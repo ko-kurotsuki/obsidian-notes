@@ -1413,6 +1413,12 @@ Vast: 24 hp
 - after assimilation, the aethsua makes a new body for the piligm as a blight, and allows him to go out with his own path. they care very deeply for eachother and tell him if hee needs to go somplace, avirel and sillric will take care of him. 
 - later ancan comes to see aethusa 
 - blaidd and malthion are in a temple somewhere, then they hear sabieens voice and she says they failed to accend, and are stuck between earthrelm and the Resonance called the gate of resoncne.
+### Session 97
+- as fate goes throuth the door, the resonace speaks to Fate, and says "you arnt strong enough to fight conrad by yourself, we will be gathering comrads for you, some old, and some new" it teleports aethusa,
+- it then says that "blaid is outside the god husk and can not be retrived, so we are getting someone else and it will take some time."
+- while fighting cornilus cornilius, the resonance summons a time travler from the future to help us fight
+- Cornelius goes down, but then he goes to the center, and gets woshiped as sin, then transforms into his second phase.
+- sin is pretty strong and he is using his world creating power to protect himself from both fire and magical percing dmage.
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
