@@ -1237,11 +1237,13 @@ The ability to convert any of your resource pools (such as mana, ki, charka...) 
 
 For 2 Point you can get -
 A Perk-Voucher which will increase your count of waifus of a given franchise by one for the perk section of future installments without actually purchasing a waifu. (can be purchased up to 15 times), get 6 of them for 12 points
-
+spent 1
+spend 4 on part 19 for waifu 10 rosario vampire perk
 For 10 Points you can get -
 The ability to summon a large variety of parasites that could have come out of any hentai featuring such creatures. You can also control these parasites once you summoned them to the extend of telling them who to target, or when to exit the host.
 
 For 3 Points you can get - One waifu in a future release. (does not count towards perks) (can be purchased up to 5 times) purchase 3 times  for 9 points
+spent 1
 
 1 point extra waifu, not listed in one of the privious framchises
 karin kurotsaki from bleach.
@@ -1354,12 +1356,12 @@ Melina
 Malenia
 Fia
 Marika
-
+elden ring universe
 
 2
 Samus Aran
 Dark Samus
-
+metroid uiverse
 5
 Kagome Higurashi
 Sango
@@ -1367,23 +1369,23 @@ Moroha
 Setsuna
 Kikyo
 Towa Higurashi
-
+inuyasha
 4
 Winry Rockbell
 Lust
 Riza Hawkeye
 Trisha Elric
-
+FMA
 4
 Angewomon
 LadyDevimon
 Lillymon
 Renamon
-
+digimon 
 2
 Anette
 Liliana
-
+anette say to liiana san
 1
 Rouge the Bat
 
@@ -1391,6 +1393,7 @@ Rouge the Bat
 Deedlit
 Pirotess
 Shiris
+record of lotsu war
 
 2
 Bonnie Rockwaller
@@ -1406,6 +1409,7 @@ Nanako Shichigusa
 
 1
 Mari Setogaya
+itadeki saiki (vampire  vixen)
 
 # part 17 48
 
@@ -1574,3 +1578,1146 @@ Perk for 1 Waifu - Devils can't affect you in any way with their powers.
 Perk for 3 Waifus - You gain Quanxi as an additional waifu.
 
 # part 19 48
+
+15+1
+zelda 
+impa
+hilda
+tetra
+riju
+din
+nayru
+fi
+great fairy
+midna
+nabooru
+cia
+telma
+urbosa
+marin
+Perk for I Waifu - You are now proficient at bard magic.
+Perk for 3 Waifus - Societies that normally shun your kind, will now welcome you.
+Perk for 5 Waifus - You gain another reincarnation of Zelda.
+Perk for 7 Waifus - You gain a single piece of the Triforce, you may choose which one (courage, wisdom or power). triforce of power, skyword sword zelda
+Perk for 10 Waifus - You can recover from a lethal blow quickly once a day.
+Perk for 15 Waifus - You can summon and fire arrows of light that can one-shot any create of darkness (if you hit).
+
+3
+maya mahabala
+meena mahabala
+patty
+Perk for 1 Waifu - You gain one "small fry" monster as a friend and familiar, that will slowly grow more powerful.
+Perk for 3 Waifus - You gain the ability to freely pass your mana on to others.
+
+10
+Ikaros
+Mitsuki Sohara
+Mikako Satsikitane
+Astraea
+Nymph
+Harpy 1
+Harpy #2
+Hiyori Kazane
+Chaos
+Daedalus
+Perk for 1 Waifu - All Angeloids in this list have not yet imprinted themselves onto anyone.
+Perk for 2 Waifus - You gain one additional waifu listed in Part 18 (not counting towards perks).
+Perk for 4 Waifus - All Angeloids are naturally attracted to you.
+Perk for 6 Waifus - You can share the sexual pleasure you feel with any and all of your waifus.
+Perk for 8 Waifus - All Angeloids you gain from this universe will imprint on you right away, when meeting you.
+Perk for 10 Waifus - You gain 2 additional Angeloids of your specifications as your waifus.
+
+10
+Su Yan
+Xia Ning Chang
+MAKR
+S
+Shan Qin Luo
+Xue Yue
+Zhu Qing
+Ji Yao
+Yang Yan
+Qu Hua Chang
+Tao Ling Wan
+Yu Ru Meng
+Perk for 1 Waifu - Gain a scripture with a cultivation technique. You & your waifus can now cultivate.
+Perk for 2 Waifus - You gain Chi Yue as an additional waifu.
+Perk for 4 Waifus - The technique can now also be dual cultivated via sex.
+Perk for 6 Waifus - You gain great proficiency in either blacksmithing, beast taming or as a physician.
+Perk for 8 Waifus - You spiritual root improves to heaven grade & gain proficiency in I chosen element.
+Perk for 10 Waifus - You gain great proficiency in either alchemy or array mastery.
+
+5
+Chifusa Manyuu
+oiso
+Kagefusa
+mizuki
+Ouka Sayama
+Kyouka Manyuu
+
+6
+kahlua shuzen
+gyokuro shuzen
+aspera
+Moka Akashiya
+Kurumu Kurono
+Mizore Shirayuki
+Ruby Toujou
+Perk for 1 Waifu - You can summon a golden washtub above an enemies head to knock them out (no mana needed).
+Perk for 3 Waifus - When someone has a split personality, you can create a separate body housing each personality.
+Perk for 5 Waifus - You can enter and explore other peoples dreams.
+Perk for 7 Waifus - You can temporarilly hypnotize people of your prefered gender (similar to Kurumu's Allure).
+Perk for 10 Waifus - You gain control over the apparent/visual age of people (range between 18 and 80).
+
+# part 20
+
+page 1
+Miss Kobayashi's Dragon Maid Tohru
+-Miss Kobayashi's Dragon Maid Elma
+Beowulf (1999)
+Kyra
+Miss Kobayashis Dragon Mand Quetzalcoatl
+Star Fox Krystal
+Access to Dragon Maid Universe.
+Gain Kobayashi as a waifu.
+
+gohost busters 
+gozer
+dana bert
+lydia fadini
+dragon maid
+janie melniz
+access to the gohst busters universe, 
+kanna kamui
+
+page 2
+bleach 
+katori batsu'unsai
+
+final fatasiy quistis trepe
+hasshaku-sama japanese ghost
+sao stera
+rwby emerald sustrai
+pick a franchise in part 1 2 or 3, gain acess to the main universe of the franchise
+
+overlord entoma vasilissa zeta
+rwby jinn
+final fantasy beatrix
+sao lipina zancale
+pick one franchise form 14 16 or 17, gain access to that franchise main universe
+
+page 3
+future diary yuno gasai
+sao tieze shtolienon
+terminator cameron phillips
+rwby glinda goodwitch
+shield hero mirellia q melromarc
+when perchesing minor good i finnd the needed mony magiclly appering in your pocket
+
+undertale undyne
+ursula
+shield hero raphtalina
+shield hero bitch maly melromarc
+acess to shield herom universe
+melty melromarc
+
+gender bend section pick 18
+goku
+vagetia
+naruto
+kakashi 
+orochimaru 
+jariya
+saskue
+madara
+ichigo
+izuku midoriya (triggers one of my privious perk's granting me one for all)
+katsuki bakugo
+shoto todoroki
+patriisia star
+doomfist
+sonic
+shadow
+natsu dragneel
+atem
+
+good alignemnt
+
+# part 21 38
+
+
+3
+giovanna
+ramlethal valentine
+jam kuradoberi
+Perk for 1 Waifu - All your waifus become extremely flexible, able to do the Jack-0 pose amongst others.
+perk for 3 waifu- create a powerlies waifu myslef (think rashida)
+
+0
+yuuna yunohana
+perk for 1 waifu amle to see though any campoflage and invise
+
+5+1
+kanae kocho
+spider demon mother name her mamakumo
+sider demon older sister namer her kanakumo
+shinobu kocho
+kanno tsuuri
+nezuko kamodo
+daki
+Perk for 1 Waifu - Your skill with the sword is enhanced significantly.
+Perk for 3 Waifus - You gain Suma as an additional waifu.
+
+0
+tyrande whisperwind
+perk for 1 waifu you become profice3nt in the use of acane and fel magic
+
+15
+ghislane dedoldia
+therese latria
+roxy
+sylphiette
+kishirika kishirisu
+zenith grayrat
+lilia grayrat
+aisha greyrat
+norn grayratt
+christina grayrat
+lara grayrat
+liliy greayrat
+lucy grayrat
+nanahoshi shizuka
+Perk for 1 Waifu - Any magic of yours that needs an incantation can now be performed with a simple gesture.
+Perk for 3 Waifus - You gain 2 Demon Eyes of your choosing.
+Perk for 5 Waifus - You can slowly increase the power of any of your spells over time with hard training.
+Perk for 7 Waifus - You can slowly increase the size of your mana pool over time by training hard enough.
+Perk for 10 Waifus - Similar to Perugius Dola, you gain your own II female Ancient Spirits, with non-OP powers.
+Perk for 15 Waifus - Any magic of yours that needs a gesture can now be performed with a precise thought.
+
+5
+hildegard
+satura
+izabella
+satura
+shizuka nanami
+Perk for 1 Waifu - Gain a contract with one of the demons of this franchise of your choosing.
+Perk for 3 Waifus - You gain one of the listed demon waifus from the Demon Slayer franchise (counts for perks).
+Perk for 5 Waifus - You can form temporary contracts with demons, even several at the same time.
+
+10
+Masane Amaha
+Reina Sohou
+Maria
+Nora
+Naomi
+Satomi
+Nanako
+Miki
+Kyouko Sasaki
+Aoi
+Perk for 1 Waifu - Uniting the 13 artifacts will no longer cause the end of the world.
+Perk for 3 Waifus - You gain a female version of the witchblade that will be yours to wield.
+Perk for 5 Waifus - The witchblade will be submissive in nature and won't try to impose its will onto you.
+Perk for 7 Waifus - The witchblade can take a human shape that stays by your side as your assistant.
+Perk for 10 Waifus - You gain all 13 artifacts (they don't need hosts anymore and are subservient to you).
+# part 22 38
+
+8+2
+Louise Françoise le Blanc de la Valliere
+Siesta
+Kirche Augusta Frederica von Anhalt Zerbst
+Charlotte Helene Orleans de Gallia
+Henrietta de Tristain
+Cattleva Yvette la Baume le Blanc de la Fontaine
+Eleonore Albertine le Blanc de la Blois de la Valliere
+Karin Désirée de la Valliere
+Beatrice Yvonne von Guldenhorf
+Duchess of Orleans
+Perk for 1 Waifu - Only once, you can summon a powerless random human as your familiar.
+Perk for 3 Waifus - The summoned familiar will be of your preferred gender.
+Perk for 5 Waifus - The summoned familiar will be highly compatible with you.
+Perk for 7 Waifus - All your waifus can each summon one non-human familiar that becomes their loyal servant.
+Perk for 10 Waifus - Your familiars will obey all your orders unless it puts them in harms way.
+
+0
+najica hiiragi
+lila
+Perk for 1 Waifu - Panty Flashing will occur a lot more around you, and you seem to be the only one that notices it.
+Perk for 2 Waifus - Your skills at detailed observations, and reading clues shoot through the roof.
+
+12
+C.C.
+Kallen Kouzuki
+Euphemia li
+Britannia
+Cornelia li Britannia
+Viletta Nu
+Rakshata Chawla
+Shirley Fenette
+Marianne vi Britannia
+Guinevere de Britannia
+Marrybell mel Britannia
+Perk for 1 Waifu - You gain 12 mass-produced Knightmare Frames for you and your waifus.
+Perk for 3 Waifus - Wearing a mask will make it impossible for even the most powerful beings to identify you.
+Perk for 5 Waifus - Obtain a Geass of your choice based on those seen on the franchise.
+Perk for 7 Waifus - Obtain the Geass Canceler (same as Jeremiah Gottwald has).
+Perk for 10 Waifus - Any territory under your rule will have its inhabitants happy enough. No Revolution will occur.
+
+9
+Kirara Hoshino
+Momoka
+Momozono
+Maihime
+Shirayuki
+Sora Tenkuuji
+Chacha
+Shiko Murasame
+Moena
+Wakakusa
+Minyarin
+Perk for 1 Waifu - You can pick one area on the bodies of your waifus that becomes universally sensitive/erogenous.
+Perk for 2 Waifus - You may pick a secondary body part to become very sensitive/erogenous.
+Perk for 3 Waifus - You release a pheromone that triggers sexual arousal and increases skin sensitivity (togglable).
+Perk for 4 Waifus - You can consciously alter the strength of the pheromone mentioned above.
+Perk for 6 Waifus - People under the influence of your pheromone are incredibly quick to follow your commands.
+Perk for 8 Waifus - Using a large amount of your energy & mana, you can turn bugs into more humanlike creatures.
+
+5
+shiraoi
+ariel
+sariel
+Perk for 1 Waifu - You can excrete spider silk from your fingertips.
+Perk for 3 Waifus - Creating super complex spider webs and other web structures is very easy for you.
+
+4
+Mai Tokiha
+Natsuki Kuga
+Mikoto Minagi
+Midori Sugiura
+Perk for 1 Waifu - You gain one 1-waifu-perk from this Part
+Perk for 1 Waifu - Pick 1 male character from a franchise you have access to; you gain a female version.  famale 9s
+Perk for 2 Waifus - You gain the power to form a specific weapon/object of your design from photons around you.
+Perk for 4 Waifus - You gain a second specific weapon/object of your design, to form out of photons.
+
+# part 24 38
+
+9
+Bloodberry
+Cherry
+Lime
+Luchs
+Panther
+Tiger
+Baiko
+Tamasaburou
+Marine
+Fan Fan
+Perk for 1 Waifu - Realistic looking artificial beings will now also always feel as good as the originals.
+Perk for 2 Waifus - You gain the knowledge and skill to repair any artificial beings.
+Perk for 4 Waifus - You gain Apple as an additional waifu. (does not count towards perks)
+Perk for 6 Waifus - You own a small & beautiful planet that only you and those you chosen can portal to.
+Perk for 8 Waifus - That planet will have enough housing for everybody you gave access.
+Perk for 10 Waifus - The planet can grow in size with the population, up to 5 times the size of Earth.
+
+
+3
+vanessa diodati
+cagliostro
+micha jawkan
+Perk for 1 Waifu - By singing a part of a song, you can summon a unique and powerful armor onto your body.
+Perk for 3 Waifus - All your waifus can also summon armors via singing.
+
+6
+Naru Narusegawa
+Shinobu Maehara
+Motoko Aoyama
+Kaolla Su
+Mitsune Konno
+Mutsumi Otohime
+Haruka Urashima
+Perk for 1 Waifu - You now own a very large dormitory in a beautiful and tranquil place.
+Perk for 2 Waifus - You don't need to pay taxes on any of your buildings and properties.
+Perk for 4 Waifus - The residents of the dormitory will all be of your preferred gender.
+Perk for 6 Waifus - You decide on ANY rules within the dormitory, they will be followed happily by everyone.
+Perk for 7 Waifus - Anybody living in a building you own stops aging as long as they are residents there.
+
+20
+Enterprise
+Akagi
+Belfast
+Javelin
+Cleveland
+Prince of Wales
+Zuikaku
+Illustrious
+723
+Kaga
+San Diego
+Arizona
+Helena
+Northampton
+Edinburgh
+south dakota
+atago
+massachusetts
+sirius
+kashino
+Perk for 3 Waifus - Gain one additional Waifu from this franchise, who is not listed (does not count for perks).
+Perk for 5 Waifus - Any vehicles you deploy in battle become autonomous and sentient. (togglable)
+Perk for 10 Waifus - Once a vehicle has made a significant contribution towards a victory in battle, you may permanently transform it into a waifu.
+Perk for 15 Waifus - Any waifu picks you spent on this franchise after the first 15, gets divided by 2 and the result (rounded down) is the amount of free additional waifus you can grab from other franchises in this installment.
+
+0
+Yukari Shinomiya
+Perk for 1 Waifu - The power of your wind magic is doubled.
+
+0
+Tillfur Lilmit
+Saniya Lemiste
+Perk for 1 Waifu - Your physical strength is doubled.
+Perk for 2 Waifus - You can enhance your vision in one meaningful way (e.g. x-ray vision). heat vision
+
+# part 24 38
+
+15
+Nanoha Takamachi
+Fate Testarossa
+Hayate Yagami
+Vivio Takamachi
+Vita Yagami
+Shamal Yagami
+Signum Yagami
+Teana Lanster
+Subaru Nakajima
+Caro Ru Lushe
+Einhart Stratos
+Lindy Harlaown
+Amy Limietta
+Alicia Testarossa
+Lotte Liese & Aria Liese
+Perk for 1 Waifu - Every waifu selected from this franchise comes with their devices.
+Perk for 3 Waifus - You gain your own non-overpowered device.
+Perk for 5 Waifus - You gain a Familiar with a humanoid and an animal form.
+Perk for 7 Waifus - You gain a magitech workshop, and the expertise to design and craft new intelligent devices.
+Perk for 10 Waifus - You gain one waifu of your choice from this franchise not listed here (not counting for perks).
+Perk for 15 Waifus - You may remove the alignment of one waifu per future release.
+
+5
+Roxanne
+Sherry
+Miria
+Vesta
+Rutina
+Perk for 1 Waifu - You gain an "Abstinence attack", which grows in power the longer it's been since your last orgasm.
+Resets when used.
+Perk for 3 Waifus - You can form a party with up to 5 waifus. All members of your party share experience, gaining powers and abilities when the others are in combat.
+Perk for 5 Waifus - Whenever you purchase something, you will legally be it's rightful owner, even when purchasing stuff such as stolen goods or slaves.
+
+4
+Lina Inverse
+Amelia Wil Tesla
+Saillune
+Syphiel Nels
+Lahda
+Ozel
+Naga
+Perk for 1 Waifu - You become adept at using shamanistic magic (power is drawn from the elements, not the caster).
+Perk for 3 Waifus - You gain the ability to cast fusion magic, which combines holy magic and black magic.
+Perk for 5 Waifus - You can cast the Giga Slave spell.
+
+14
+Eco
+Silvia Lautreamont
+Anya
+Angela Cornwall
+Rebecca Randall
+Veronica Lautreamont
+Navi
+Cassandra Lautreamont
+Jessica Valentine
+Alicia Blake
+Primrose Shelly
+Cosette Shelly
+Mirabel Lautreamont
+Perk for 1 Waifu - Gain access to the Dragweiss, the encyclopedic knowledge of all dragonkind.
+Perk for 3 Waifus - Become a Breeder and gain your own dragon with great battle capabilities.
+Perk for 5 Waifus - Your dragon gains a secondary much more humanoid form.
+Perk for 7 Waifus - You gain your own Ark with a non-overpowered ability.
+Perk for 10 Waifus - You gain your own Ark Weapon with an elemental power.
+Perk for 13 Waifus - Each of your human waifus will also gain the 3, 7 and 10-waifu perk.
+
+
+0
+mizuho kazami
+Perk for 1 Waifu - Seeing alien technology first hand will speed up your learning rate for said technology drastically.
+
+# part 25
+13568
+1 Menchi, Neon Nostrade, Biscuit Krueger & Shizuku Murasaki from Hunter x Hunter
+3 Eve Neuschwanstein, Aruka Schild, Riru Roukakuji & Setsuna from Needless
+5 Unlock the Universe of each franchise of which you gain waifus from this grid.
+6 Hayase Nagatoro, Maki Gamo, Yoshi & Sana Sunomiya from Don't Toy with me Miss Nagatoro
+8 Myucel Foaran, Petralka Anne Eldant III & Elbia Hanaiman from Outbreak Company
+
+14368
+1 Sara Mudo, Alexiel & Kurai from Angel Sanctuary
+3 Galko, Otako, Ojou, Okako, Nikuko & Galko's Sister from Galko Chan
+in
+4 Gain I field from the Evil alignment section of this grid.
+8 Yukana Yame, Yui Kashii, Ranko Honjou & Nene Fujinoki from My First Girlfriend is a Gal
+Ozen, Lyza & Faputa from Made in Abyss
+
+13468
+1 Zephyrmon, Kuzuhamon, D'Arcmon, Ranamon, Kinkakumon & Laylamon from Digimon
+3 Ajisai, Kaguya Ootsutsuki, Karin Uzumaki, Fuu & Rin Nohara from Naruto
+4 Geeta, Iono, Rika, Bianca, Alexa & Leaf from Pokemon
+6 Venusmon, Mervamon, Rosemon, Bastemon, Ceresmon Medium & BelleStarmon from Digimon
+8 Gain 1 field from the Evil alignment section of this grid.
+	Gain access to three franchises featured within this installment. one piece,, yugioh, fairy tail
+
+# part 26 38
+tiamat from highschool dxd
+
+15
+Hana Katsuragi
+Miyuri Tsujidou
+Fumika Mitarai
+Urara Oikawa
+Mutsumi Sendou
+Lulu Shiizaki
+Eva Silver
+Eva-R
+Eva-Q
+Nikuma
+Ayame Satsuki
+Miyuki Seta
+Jita Phrygianos
+Yumie Hiiragi
+Tsubasa Amano
+Perk for 1 Waifu - You may trigger lactation of female breasts within your sight with a simple spell.
+Perk for 3 Waifus - Breast milk from breasts that you made lactate now has a healing property when consumed.
+Perk for 5 Waifus - You can make the lactation via the spell a permanent feature.
+Perk for 7 Waifus - You can adjust the amount of breast milk produced via your spell.
+Perk for 10 Waifus - You can stop the lactation of breasts even after having initially made it permanent.
+Perk for 15 Waifus - If people outside of your harem drink breast milk created with the spell, they may develop
+minor superpowers.
+
+10
+index librorum prohibitorum
+mikoto misaka
+sherry cromwell
+komoe tsukuyomi
+agnese sancits
+ryouko kuriba doppelganger
+Junko Hokaze
+Orsola Aquinas
+Maaya Awatsuki
+Tsuzuri Tessou
+Perk for I Waifu - You gain one canon esper power that is ranked at level 4 or below.
+Perk for 3 Waifus - You can cause a sensation of your choice that is being experienced by a nearby waifu to be felt by any number of other waifus within a to meter range.
+Perk for 7 Waifus - You gain the Windowless Building and all of its labs and contents.
+Perk for 10 Waifus - You can plug any number of your waifus into a "network" where they can share thoughts and sensations. You may change which waifus are in this network at will.
+
+10
+Tio Klarus
+Cattleya
+Liliana S.B.
+Heiligh
+Eri Nakamura
+Nia
+Noint
+Shizuku Yaegashi
+Shea Haulia
+Mona Haulia
+Perk for 1 Waifu - When you enter a new geographical region, the first person you meet will be a cute girl that needs your help with something.
+Perk for 3 Waifus - Women are turned on when you abuse them. The more abuse, the better. Toggleable.
+Perk for 5 Waifus - People outside your harem will never act on romantic feelings they may harbor towards your waifus. Toggleable for each waifu.
+Perk for 7 waifus - You gain Aiko Hatayama as an additional waifu (not counting for perks).
+Perk for 10 Waifus - You gain a form of alchemy, capable of transmuting physical materials into other materials. Useful on its own, this can also enhance any of your other crafting skills.
+
+3
+Yoko Littner
+Nia Teppelin
+Adiane the Elegant use once per part to unalign
+Perk for 1 Waifu - You obtain 200 Gunmen and 200 Grapearl.
+Perk for 2 Waifus - You gain the first form of Gurren Lagann.
+
+# part 26.5
+If you allow the world of "A Nightmare on Elm Street" including the charming Freddy Krueger to enter your world...
+I will give you...
+A beautiful and all female version of Jason Voorhees from "Friday the 13th" and the power to change a currently occuring dream of anybody you can see to a very sexual and wet dream.
+As soon as the wet dream has started you are in full control of when they wake up.
+Jason Voorhees
+If you allow the world of "Friday the 13th" including the original and shy Jason Voorhees to enter your world...
+I will give you...
+A stunning and all female version of Michael Myers from "Halloween" as well as making your skin absolutely impenetrable against any cutting with the intent of harm. Don't worry surgery will still be possible on you.
+Michael Myers
+If you allow the world of "Halloween" including the lonely and troubled Michael Myers to enter your world...
+I will give you...
+A magnificient and all female version of Chucky from "Child's Play" as well as Tiffany Valentine Ray from the same universe.
+And I will give also give you access to a small Pocket Dimension with a fully staffed asylum in it. Maybe there are some trouble makers you would want gone from your world?
+Chucky
+Tiffany Valentine Ray
+If you allow the world of "Child's Play" including the misunderstood Chucky to enter your world...
+I will give you...
+An astounding and all female version of Slender Man from "Slender Man" as well as giving you the power to bring live to any doll that you own. This will give them full consciousness and random personality traits within the normal bounds, but will not change their physical appearance.
+Slender Man
+If you allow the world of "Slender Man" including the untanned Slender Man himself to enter your world...
+I will give you...
+A well adjusted and all female version of Beetlejuice from "Beetlejuice" and Lydia Deetz from the same universe.
+And on top of that you will now have the power to distribute a recipe for a ritual, that when followed will summon you to the place where the ritual is held.
+Beetlejuice
+Lydia Deetz
+If you allow the world of "Beetlejuice" including the charismatic Beetlejuice himself to enter your world...
+I will give you...
+A funny and all female version of Pennywise from "It" and the power to teleport to anywhere in the multiverse as soon as someone says your name full name three times in a row. You will feel when somebody does say your name name three times in a row and gain a rough idea of the place you could then teleport to, to make the dicision easier for you.
+Pennywise
+
+If you allow the world of "Hellraiser" including the smart dressed Pinhead to enter your world...
+I will give you...
+A praiseworthy and all female version of Valak from "The Conjuring/The Nun/Annabelle" as well as Annabelle, Sister Irene and Lorraine Warren.
+Art Cor
+Valak
+Annabelle
+Sister Irene
+Lorraine Warren
+
+If you allow the world of "Event Horizon" including all the strangeness that inhabits the furthest reaches of its universe to enter your world...
+I will give you...
+A shy Carrie White from "Carrie" as well as the power to induce utter insanity in real enemies of yours.
+Carrie White
+If you allow the world of "Carrie" including gifted Carrie White to enter your world...
+I will give you...
+A tasty and all female version of Dracula from "Dracula" as well as Dracula's Brides. You will also never again experience regular bullying/mobbing and any damage that your psyche has because of bullying/mobbing will magically vanish.
+Dracula
+Dracula's Brides
+
+If you allow the world of "Texas Chainsaw Massacre" including the charming Leatherface to enter your world...
+I will give you...
+A beautiful and all female version of Ash Williams from "The Evil Dead/Army of Darkness" as well as Ruby Knowby, Kelly Maxwell and Brandy Barr.
+Ash Williams
+Ruby Knowby
+Kelly Maxwell
+Brandy Barr
+You also gain the ability to use any power tool on a professional level right from the first time you use it, as well as the knowledge on how to fix them.
+If you allow the world of "The Evil Dead/Army of Darkness" including all it's cute demons and deadites to enter your world...
+I will give you...
+A stunning Kayako Saeki from "The Grudge" as well being able to spontaneously change either one or both of your hands into power tools when needed. While the change has to be activated contiously, the power itself will automatically choose the perfect power tool for the job that needs to be done.
+Kayako Saeki
+
+If you allow the world of "The Grudge" including the lonely and troubled Kayako Saeki to enter your world...
+I will give you...
+The magnificient Meru.
+You will also gain the abilities to make ghosts fall deeply in love with you as well as resolving all their mental issues. You can also send them to heaven once those issues have been resolved, or keep them with you to give them a heaven-like experience with you.
+Meru
+If you allow the world of "Insidious" including the misunderstood Lipstick-Face Demon to enter your world...
+I will give you...
+An astounding and all female version of Ghostface from "Scream" as well as giving you the power to use astral projection, even between different dimensions.
+Ghostface
+
+If you allow the world of "Hollow Man" including the untanned Sebastian Caine himself to enter your world...
+I will give you...
+A well adjusted and all female version of Leatherface from "Texas Chainsaw Massacre".
+And on top of that you will now have the power to turn yourself as well as your waifus and things they or you are holding or wearing invisible at will.
+Leatherface
+If you allow the world of "The Exorcist" including the charismatic Pazuzu himself to enter your world...
+I will give you...
+A funny and all grown-up version of the Grady Sisters from "The Shining". You will also have the ability to recognize and name all the demons inhabiting a possessed individual instantly, upon seeing that possessed individual.
+COME AND PLAY
+Grady Sisters
+
+If you allow the world of "The Shining" including the variety of interesting individuals to enter your world...
+I will give you...
+A delicious and Clarice Starling from "The Silence of the Lambs" and the ability to stay calm and level-headed even in the most stressful situations.
+Clarice Starling
+If you allow the world of "The Silence of the Lambs" including the ever-hungry Hannibal Lecter to enter your world...
+I will give you...
+A all grown up and permanently possessed version of Regan MacNeil from "The Exorcist". This version of Pazuzu will also be all female, and Regan an Pazuzu get along and share all the experiences. You also gain the ability to change flavors of any food you touch to any other flavor you can think off.
+Regan MacNeil/Pazuzu
+
+If you allow the world of "Poltergeist" including their extraordinary ghosts to enter your world...
+I will give you...
+A praiseworthy Carly Ann Jones and Paige Marie Edwards from "House of Wax".
+You can also use television and visual communication as portals, even between different universes.
+Carly Ann Jones
+Paige Marie Edwards
+If you allow the world of "House of Wax" including the sweet sweet Bo Sinclair to enter your world...
+I will give you...
+A level-headed Jen from "Deliver Us From Evil". You will also become incredibly skilled at sculpting, easily able to create sculptures that anybody could mistake for the real thing.
+Jen
+
+If you allow the world of "Deliver Us From Evil" including the charming Jungler Demon himself to enter your world...
+I will give you...
+Angeline and Aunt Andria from "The Rite" as well as the power to feel any imbalances between the forces of good and evil for your surrounding. The size of this aura-like power can be freely adjusted by you.
+Angeline
+Aunt Andria
+If you allow the world of "The Rite" including the gentle Baal to enter your world...
+I will give you...
+An alluring Serafine Pigot from "American Werewolf/American Werewolf in Paris" as well as Amy Finch. You also gain the ability to exorcize spirits and demons from humans and humanoids via sexual interactions. During those interactions you can decide if they result in an exorcism or not.
+Serafine Pigot
+Amy Finch
+
+If you allow the world of "American Werewolf/American Werewolf in Paris" including all those innocent doggies to enter your world...
+I will give you...
+A lively Catherine Danforth from "Prince Of Darkness" as well as Susan Cabot. All the waifus in your harem can now also turn into werewolves at will, no full moon needed. They also keep their intelligence and personality when transformed.
+Catherine Danforth
+Susan Cabot
+If you allow the world of "Prince Of Darkness" including Satan's Ooze to enter your world...
+I will give you...
+A shy Jules Louden from "The Cabin In The Woods" as well as Dana Polk.
+Additionally you can t can temporarily give any of your bodily fluids an extremely strong effect that makes the recipient (touch is enough) extremely horny. You can also vary its effect on other brain functions, so as to have a sort of bimbofication effect or some sort of lust-zombie.
+The duration of these effects can be altered to last anywhere from an hour up to a week.
+Jules Louden
+Dana Polk
+
+If you allow the world of "The Cabin In The Woods" including the Ancient Ones and all it's other crazy creatures to enter your world...
+I will give you...
+The tasty Selena, Hanah, Scarlet Levy and Tammy Harris from "28 Days Later/28 Weeks Later".
+Selena
+Hannah
+Scarlet Levy
+Tammy Harris
+If you allow the world of "28 Days Later/28 Weeks Later" including the many cute zombies to enter your world...
+I will give you...
+A shapely Linda McKay from "Hollow Man" as well as Janice Walton and the neighbor that our lovely protagonist visited one night.
+Your living waifus can also no longer be turned into undead.
+Linda Mckay
+Janice Walton
+The Neighbord
+
+
+# part 27 38
+14
+Usagi Tsukino
+Ami Mizuno
+Rei Hino
+Minako Aino
+Makoto Kino
+Hotaru Tomoe
+Michiru Kaio
+Setsuna Meio
+Haruka Tenno
+Black Lady
+Kaolinite
+Queen Beryl
+Queen Nehelenia use once pper part unlignment
+Mistress 9
+Sailor Galaxia
+Perk for 1 Waifu - You get the powers of a Sailor Scout, your Transformation will boost all previous magical skills.
+Perk for 3 Waifus - Luna, a talking cat that can give Transformation Broochs to others, swears loyalty to you.
+Perk for 5 Waifus - You can purify or corrupt entire planets with your energy depending on your alignment.
+Perk for 7 Waifus - You gain one listed waifu from part 21-26 (not counting towards perks).
+Perk for to Waifus - You gain access to one other franchise of your choice with magical girls in it.
+Perk for 15 Waifus - You gain the Cosmos Crystal, and the ability to use it to create new Sailor Crystals.
+
+10
+Leia
+Freyja
+Skuld
+Aaliyah
+Hildegarde
+Loki
+Fafnir
+Fenrir
+Princess
+Alphoncine
+Princess Laura
+Perk for 1 Waifu - You gain 1 waifu from a franchise you already have a waifu from, that was not listed in the CYOA. (doesn't count for perks)
+Perk for 3 Waifus - You gain a large army of huge orcs that listen to any of your commands.
+Perk for 5 Waifus - You gain another 2 waifus; following the same rules as the perk for I waifu.
+Perk for 10 Waifus - Many major cities will now have convenants with nuns that care for nothing more than to serve all your (primarily sexual) needs.
+
+7
+Zee
+Sati
+Gwyn de Vere
+Bugs
+Echo
+Dojour
+Cas
+Perk for 1 Waifu - You are a master at creating any sort of artifcial intelligence. It will always end up just as envisioned.
+Perk for 3 Waifus - You own the hard- and software to create incredible virtual worlds, and know how to use it.
+Perk for 5 Waifus - You gain one listed waifu from part 1-10 (not counting towards perks).
+Perk for 7 waifus - You can create any sort of body, via your computer setup, to be inhabited by the Al you create.
+
+7
+Darli Dagger
+Mikoto
+Charlotte
+Christine De Colde
+Saya
+Angelica
+Shiki
+Wu-Ruixiang
+Perk for 1 Waifu - You may offer contracts to demonic beings. They can not harm you during this encounter nor until they accepted or declined the offer. They will naturally be more inclined to accept than to decline.
+The contract is enforced by extremely powerful magic.
+Perk for 3 Waifus - You can also offer these contracts to other supernatural beings. The same rules apply.
+Perk for 7 Waifus - You can now force the other being into accepting the contract, this will only cost you a large amount of your mana.
+
+# part 28 38
+seekvaira agares
+
+19
+Morgiana
+Yamraiha
+Paimon
+Arba
+Sheba
+Falan
+Kougyoku Ren
+Gyokuen Ren
+Hakuei Ren
+Pisti
+Scheherazade
+Myron Alexius
+Serendine Parthevia
+Dunya Musta'sim
+Professor Myers
+Gladiatrix Toto
+Madaura
+Leila
+Sahsa
+Perk for 1 Waifu - A piece of jewelry becomes your Household Vessel. You can bind a genie, djinn, or spirit waifu into it. You can call on her at will and the connection strengthens you both while you wear it.
+Perk for 5 Waifus - You gain a weak connection to Rukh, the source of life and magic. This allows you to feel the fates of others and sometimes influence them.
+Perk for 7 Waifus - You may choose your family. You may designate any number of current family members as unrelated, and/or make other people you know into siblings, cousins, or other relations of your choice. This does not change your past.
+Perk for 10 Waifus - For every waifu selected beyond 4, you can make an additional household vessel for another waifu. Waifus with these vessels are strengthened by your bound djinn.
+
+15
+Beli Lapran
+Lola Rembrite
+Sarah "Suki" Stevens
+Denise "Zoey" Greene
+Lailani Kealoha
+Jessie Maye
+Marlena
+Renee
+Kyanna Delrio
+Momo
+Kyu Sugardust
+Tiffany Maye
+Audrey Belrose
+Brooke Belrose
+Celeste Luvendass
+Perk for I Waifu - You gain a magic fairy companion who can tell you the interests, preferences, and kinks of people.
+Perk for 3 Waifus - Your wallet or bank account will slowly fill up with money via magic during sexual interactions.
+Perk for 5 Waifus - Your physical attributes will gain a small but permanent increase every time you have sex.
+Perk for 7 Waifus - You gain the Nymphojinns Moxie (pink) and Jewn (blue) as additional waifus.
+Perk for 10 Waifus - You gain two new Nymphojinns of your own design. They're even hornier and very submissive.
+Perk for 15 Waifus - You may at any point in time summon one additional Nymphojinn for every vessel you, or any of your waifus, own that is able to contain one.
+
+0
+arnice
+lilysse
+Perk for I Waifu - Select one of your waifus. She will gain five haremettes from this catalogue (of your choosing) of her own. While these haremettes are happy to have you watch and even touch, you are not allowed to have any
+
+3
+aoi asahina
+akane owari (use once per part unalignment)
+angi yonaga
+Perk for 1 Waifu - Your assassination skills are trebled.
+Perk for 3 Waifus - If someone around you feels a strong desire of any kind, you can exchange it for lust. This effect
+works for this occassion only, and is not permanent.
+
+0
+chie
+Perk for 1 Waifu - There is a 30% chance somebody of your preferred gender will fall in love with you after you help them out. Togglable.
+
+# part 29 38
+
+1
+hina farrow
+nana bassler
+Perk for 1 Waifu - You gain a PD with your own military school. Help your family/friends reach their true potential.
+
+15
+Yin
+Masaki Kirihara
+Mayu Otsuka
+April
+Amber
+Mai Kashiwagi
+Bai (unalign)
+Azusa Tsukimori
+Kanami Ishizaki
+Chiaki Shinoda
+Tanya Akulova
+Xiao Jie
+Mina
+Kandaswamy
+Mayuko
+Hanako Li
+Perk for 1 Waifu - You can toggle your emotions at will, making you cold and logical.
+Perk for 3 Waifus - A waifu of your choice loses the drawbacks to her powers.
+Perk for 5 Waifus - As long as you can see the sky, you can tell when people you know are using special or magical powers within this universe.
+Perk for 7 Waifus - You can toggle the emotions of your waifus at will. You may do this on a per-waifu,
+per-emotion basis if you want.
+Perk for 10 waifus - Choose 10 of your haremettes. They can now see and sense things remotely across the planet
+via a medium/element of your choosing.
+Perk for 15 Waifus - All of your waifus lose any drawbacks that their powers may have.
+
+10
+Zena Marienteil
+Liza
+Arisa
+Lulu
+Lilio
+Karina Muno
+Menea Lumork
+Sara Ougoch
+Ringrande Ougoch
+Sistina Shiga
+Perk for 1 Waifu - You gain a one-time-use meteor shower attack capable of obliterating nearly anything.
+Perk for 2 Waifus - You get the homunculus Nana as an additional waifu.
+Perk for 4 Waifus - You get the ability to map your surroundings, including sensing hostile intent, for up to a radius of five kilometers.
+Perk for 6 Waifus - You can alter any information about yourself that others can perceive without them being able to spot that they are fake.
+Perk for 8 Waifus - You can use your meteor shower attack two additional times.
+Perk for 10 Waifus - You gain the other six homonculous sisters as additional waifus.
+
+12
+Dianna Soreil
+Kihel Heim
+Lacus Clyne
+
+lalah sune
+suletta mercury
+raraiyua akuparl
+marbet fingerhat
+scecelia dote
+Kirara
+alias Mihoshi
+Ennil El
+Tiffa Adill
+Pala Sys
+Elle Vianno
+Marida Cruz
+Perk for I Waifu - You gain a Mobile Suit (Mecha), that is about 18 to 20 meters tall.
+Perk for 3 Waifus - You, your waifus, as well as all your descendants are completely immune to any disease.
+Perk for 5 Waifus - You gain one additional waifu from this franchise not listed here (doesn't count for perks).
+Perk for 7 Waifus - You hold a contract with a major weapon & military equipment producing company. You gain 1% of their products for free. You also have an influence in the decisions of what shall be produced in the future.
+Perk for 10 Waifus - You gain the blueprints and knowhow to create your own GN Drives.
+Perk for 15 Waifus - You gain the blueprints and knowledge to install advanced Psycho-Frames in all your mechas.
+
+Synergy Perks if you have waifus from the Plunderer & Death March to The Parallel World Rhapsody franchise.
+If you have at least 1 Waifu from each
+If you have a Count, you may sacrifice a certain number of points to trigger a powerful meteor shower attack. The power of the attack is equivalent to the points used to cast it.
+
+Lua
+Some additional info about Lua so you have an easier time with her...
+Lua is a fairy. She is about 8 centimeters tall. She is energetic and very friendly by nature.
+She has some magical abilities, amongst them are:
+- to make herself invisible
+- to increase her physical size to that of a normal human
+to retract her wings
+to give others the temporary ability to fly via magic dust that her wings produce
+to make herself extremely stretchy, as if she was made out of rubber
+Unless given orders to do otherwise, she will always be near you, either flying by your side or hiding in your clothes.
+As your familiar, she will also obey any commands you give her, and she does usually enjoy following commands unless they go against some of her core values. She has also totally fallen for you and finds you to be literally perfect.
+
+
+# part 30
+15 for my team
+yoruichi rook
+ordihime pawn
+sailor galaxia pawn premote to bishop
+velzard pawn
+kaguya knigt
+salem bishop
+tiamat queen
+tier haribell pawn
+senjumaru rook
+ichigo pawn premote to rook
+rias pawn
+millim nava kight
+erza pawn
+echina bishop
+naruko pawn
+
+- **Senran Kagura 3-waifu**: All waifus capable in martial arts
+- **Senran Kagura 10-waifu**: All waifus great at assassination
+- **Street Fighter 7-waifu**: Speed and strength doubled (kicking)
+- **Street Fighter 10-waifu**: Speed and strength doubled (punching)
+- **MHA 10-waifu**: Waifus can temporarily share their quirks with you
+- **Danmachi 15-waifu**: Waifus can "level up" through tough fights
+- **Darker Than Black 15-waifu**: All waifus lose power drawbacks
+- **Mushoku Tensei 10-waifu**: 11 female Ancient Spirits with powers
+
+**Magical/Abilities**
+
+- **Fairy Tail 5-waifu**: You can transfer MP to waifus at any location
+- **SAO 15-waifu**: Waifus can function without food/water/sleep/air
+- **SAO 10-waifu**: Your body can function without food/water/sleep/air
+- **Slayer (Part 21) 3-waifu**: Waifus gain teleportation within sight
+- **Zombie Desu ka 3-waifu**: All waifus can teleport to locations in their sight
+- **Nanoha 15-waifu**: May remove alignment of one waifu per future release
+- **Genshin 3-waifu**: May combine magic of different elements
+
+**Survival/Defensive**
+
+- **Overworld (10-waifu from Part 3)**: All waifus immune to diseases and poisons
+- **Overworld (8-waifu)**: Waifus will not age past their prime
+- **Gundam 3-waifu**: You, waifus, and descendants immune to any disease
+- **Senran Kagura 15-waifu**: Waifus able to revive you if needed
+- **Bleach Visored**: Waifus inherit benefits as you grow stronger (indirect)
+
+**Support/Utility**
+
+- **Senran Kagura 1-waifu**: Near-limitless wardrobe for all waifus
+- **RWBY 1-waifu**: Waifus can share semblances with you temporarily
+- **RWBY 3-waifu**: Waifus can share semblances with each other
+- **X-Men 10-waifu**: All X-Men waifus gain one additional superpower
+- **Sword Art Online 3-waifu**: Waifus can toggle the HUD in battle
+- **League of Legends 15-waifu**: Splitting waifus keep full battle strength
+- **League of Legends 10-waifu**: Waifus can split into all their "skins"
+- **Ikkitousen 3-waifu**: All waifus gain intricate knowledge of societal norms
+- **Maken-ki 3-waifu**: Can choose a waifu from the franchise above or below (cross-list)
+- **Seirei Tsukai (Part 6) 5-waifu**: Pick 3 universes you can travel to (shared access)
+
+vs knight milevia
+send in kaguya, who can use ice magic though jutsu
+win
+milevia
+yanhua form i became chif of  aprimitive vilage
+andariel fom diabo
+
+vs indura 
+send ordihime, she can block all her hits so she is worn down
+win
+inudra
+meme form ME ME ME
+elmenhilde karnstein from highschool DXD
+
+vs lumi
+send tier she can hit the soul directly becuse she is also a sprit
+win
+lumi
+dokuro mitsukai from bludguning angel dokuro chan
+ami kanan sama wa akumade choroi
+
+vs drusilla
+send milium her star magic is baasiclly high levlve highr
+
+drusilla
+jeanne kanan sama wa akumade chori
+tyjubg cheif of a primitive vilage
+
+vs tora
+send rias, she is a demon and has strong demonic magic
+win
+tora
+mai kawakami from myriad colors phandom world 
+hulie pwoers from  scott pigrem
+
+vs eleria
+ordihime , her defense is the best and can regenrate
+win
+eleia 
+Astarottes loy Elfreda "Effie"Mirjasdottir
+Scott Pilgrim Kim Line
+
+
+vs okimori
+send senjumaru, in bankai she can shake 3 realms just standing there
+win
+okimori
+Astarotte's Toy Porhelga "Helga" Svarthæd
+Miss Kuroitsu from the Monster Development Department Wolf Bete
+
+vs tolu, tora's twin
+send sailior galaxia she ahd dark ilighting to counter spells
+win
+tolu
+Myriad Colors Phantom World
+Koito Minase
+Miss Kuroitsu from the Monster Development Department
+Touka Kuroitsu
+
+vs ursula
+send echina, she knows every magic and has the athordity, so her magic resisatnce is hgih
+win
+ursula
+Miss Kuroitsu from the Monster Development Department Melty
+Misa Kurobane (Charlotte)
+
+vs heleya, eleia's daughter
+esend ordihime, shtill has best durablity and regen
+win
+heleya
+Myriad Colors Phantom World Reina Izumi
+Astarotte's Toy Mistrume Asgrim
+
+vs evileen
+send galixixa, and promote her to bishop. she has light beams so those work
+win 
+evileen
+He is My Master Anna Kurauchi
+Bioshock Eleanor Lamb
+
+vs dabladeya, inudra's older sister
+send ichigo premote to rook because she has rhigspped regen as a hollow and strong phsicals
+win
+dabladeya
+Miss Kuroitsu from the Monster Development Department Elbucky
+He is My Master Mitsuki Sawatari
+
+vs giur
+send naruko, she can use all elemnt types
+win
+giur
+The Maid I Hired Recently Is Mysterious Lilith
+(300) Oracle
+
+vs kiri
+send  velzard she has storng ice magic
+win
+kiri
+Dragonia Feeney
+X-Blades Ayumi
+
+vs thorna
+send promte ichigo to queen, and send her
+win
+thorna
+Elizabeth Comstock Bioshock
+The Fifth Element Leeloo
+
+winner prizees 30 picks
+
+For each battle won, you may take two additional waifus or perks from this selection...
+First, the perks:
+- Gain access to a franchise's universe of a waifu you gained as a prize from one of the previous battles. (can be taken multiple times
+- charlettee
+- dragonia
+- he is my master
+- Miss Kuroitsu from the Monster Development Department 
+- kanan sama wa akumade chori
+-  i became chif of  aprimitive vilage
+- 6 picks ued for franchises
+gawr gura 
+mori calliope
+ninomae ina'nis 
+takanashi kiara
+amelia watson
+inugami korone
+nekomata okayu
+usada pekora
+peko mama
+ironmouse
+shyliliy
+houshou marine
+oozora subaru
+snuffy
+aki haato
+kobo kanaeru
+shirogane noekl
+nerissa ravencroft
+shishiro botan
+shirakami fubuki
+minato aqua
+tsymomaki watame
+hoshimachi suisei
+monarch
+
+ill say i have 1 pick
+
+marcita from dragon ball
+

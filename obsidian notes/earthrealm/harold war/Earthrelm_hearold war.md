@@ -1419,6 +1419,22 @@ Vast: 24 hp
 - while fighting cornilus cornilius, the resonance summons a time travler from the future to help us fight
 - Cornelius goes down, but then he goes to the center, and gets woshiped as sin, then transforms into his second phase.
 - sin is pretty strong and he is using his world creating power to protect himself from both fire and magical percing dmage.
+### Session 98
+- concubines summoned by the lust sinful action only have 1 hp
+- apprently finona could cast atleast 4th level spells.
+- aethusaa uses time stop, and basicllying blitzes sin bringing him super low
+- the masterus timetravling man (the drink) heals fate and gets him up enough to win. 
+- Fate gets ready for the final shot, the resonance makes a final fated vow with him the sin breaker, to banish him without causing a revival. fate lands the shot with a crit, and he withstands the blowback, standing at 1 hp. 
+- he is pretty injurd though and his magic circutis are damaged so he will have to recover naturally
+- the reality breaks, and all 3 fall though a whole and will reppear somewhere in earthrealm
+- blaidd at the the gate of resonance talks with sabine and malthion. 
+- sabine says that she is able to forgive malthion for killing him. and he should be able to learn to be forgiving aswell. 
+- malthion is having none of it and calls forgiveness weakness. 
+- blaidd is sorting though his feelings.
+- within the temple, blaidd sees a gient statue with the face of the realmscar on it. it looks like the statuses face changes to reflects whoever is looking.
+- the statue is an effigy of the mortal body and you can use it to return to your own body if you still have one.
+- malthion uses it immdiately.
+- looking at the feagiy blaidd notices that the names of each soul that was lost in the blaidds kindom is writtien on his body.
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
