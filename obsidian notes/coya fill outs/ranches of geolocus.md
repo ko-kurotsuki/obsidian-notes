@@ -69,12 +69,14 @@ total:19
 total income: 179
 
 rewards and meta
-[saving for education](obsidian://open?vault=notes&file=obsidian%20notes%2Fcoya%20fill%20outs%2Fmagical%20girl):-45 (134)
+[saving for education](obsidian://open?vault=notes&file=obsidian%20notes%2Fcoya%20fill%20outs%2Fmagic%20academia%20v3)):-45 (134)
 faculty dev -10 (124) for a harvesitng parlor 
 land grab: add  2harpy, elf, dragon, holstaur. canid
 lcoal gal -10 (114)
 personal monster -20 (94)
 the church of edamiel -15 (79)
 new monster type(my personal monster) -10 (69)
+
+NoFirst,SurNP,Pain,Female,Eyes,Beautiful,White,rkps,Afrol,OFace,Pck2,c90n,zx6s,2Dknee,HLumos,OFNnStndFrks,m47b,4ezq,EnormousT,Thicc,NormalV,FleshDoll,Tail,Tattoo,Piercing,OWool,BFeathers,StrenghtImprov,SpeedImprov,IntelligenceImprov,StructureImprov,DeadlyTail,RegenProtoc,AutoCleaning,PerfectMemory,MagicShard,SilentPresence,ServituteKnowledge,WarKnowledge,GreatIntelligence,FireMagic,WaterMagic,EarthMagic,AirMagic,ManaManipulation,LightMagic,HealingMagic,ShadowMagic,HolyMagic,skt2,k8h9,p467,SFL
 excess wealth -15 (54)
 landded estate -15 (39)
