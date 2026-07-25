@@ -1435,6 +1435,34 @@ Vast: 24 hp
 - the statue is an effigy of the mortal body and you can use it to return to your own body if you still have one.
 - malthion uses it immdiately.
 - looking at the feagiy blaidd notices that the names of each soul that was lost in the blaidds kindom is writtien on his body.
+### Session 99
+- fate aethusa and the drink land into a gray cemetary with ancan standing there
+- he says its been 3 days since the pilgrem hunt. he spend a long time thinking on what to do when we returned, but realized there is no point in us fighting anymore, because there is a common enemy to fight. he says that the conservatorium is focusing on rebuilding so any help will be diminshed.
+- ancan doesnt want to fucking talk to aethusa and teleports out 
+- lilithina comes to support fate when he cant stand. 
+-  vesper is here and she is looking at the graves of corniluis tariyaki and tiddilywink. 
+- aethusa leaves a twig blight in the graveyard to carrry a message to ancan.
+- vesper says that viscera is terrified of us, and is planning to deliver a son imbued with her curse and the power of her blood realm, just so that she could eat it and recover her power. when she gives birth she will be weakest so we have to kill her then. 
+- the drink reveals himself as everet the chain severer, he is a Herold of aethusa. he comes from a time when magic has died down, and machines take over. everet signed up to help us because he wants to go his own origen, and needs aethusa's help to get there.  he needs bliadd's soul sight to see his origin.
+- aethusa tells fate that bliadd ascended into the resonisce 
+- fate hearing that tries to use his newfound connection to the resonance to contact blaidd, but instead he acts as a beacon for malathion to come out. malthion spawns  right on top of him, burning fate into ash in an instant he then takes fate soul hostage
+- lilithina comes to try and fight malthon, but she catches a fire spear to the chest and launched into the atmosphere.
+- bliadd rn is at a sect in the temple. he speaks to a member called darkip,  and learns that the light bender animeals bring out light thougt the realms, and creates the sun. 
+- he meets a dragon born called scarlet shadow, offering to buy peoples bodies for enlightment points
+- bliadd goes to the edge of heven's gate and sees the stream of resonance. at the bank, there people praying with their eyes completely white.
+- blaidd comes upon a pond that represents the entirety of chaos relam, with fish that represent the chaos chaos entities.
+- he meets prince alan  from gaia, they were apointed by the forfather to slay dragons became a nobel house.  he wants to monoshift into someone's body and become their armor so he can fight dragons again. 
+- blaidd goes to the temple and speaking to the head. he learns that time moves as fast as he does, and if he is ready he will teach him a ritual to learn how to converse with the resonanse and speak with the other asperants.
+### Session 100
+- malathion wants to make a deal to trade fate's soul for the pilgrim
+- malthion uses his ascended haroldry, oathbreaker's damnnation to bring them into his own realm. its a small island with a cocophany of souls swirling around it. 
+- aethusa and evert get malthin to let go of fates soul, and he gets picked up by fenrrir, saying that he must take him to the  "promised vessel" . fate goes with him, and aethusa sees it happen.
+- fate is in limbo, and his new body is the souless clone vessal fate had made back in the consiervatorium. 
+- fates new body has changes and such (i made a new sheet for fate, as a level 20 character starting completly fresh)
+- blaidd is meditaing infront of the resonance, and hears the voice of it. it takes on the form of the effagy of the realmscar. 
+- the resonance says that in order to bring back those who died in blaidds realm, he would have to grow more powerful, and use a wish from amon. 
+- after coniening with the resonance, bliadd is given the tools to reshape his vessal and all the time he needs to shape it. he decides to write the soul memories of all the names of his domain.
+- when fate tries to go to aethusa, time stops, and he is trransported to a a realm outside the godhusk whre 2 previus saints where. this is hollowed ground. fate also gets the prime ablity to go to this realm. he 
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
