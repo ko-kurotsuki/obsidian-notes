@@ -1463,6 +1463,52 @@ Vast: 24 hp
 - the resonance says that in order to bring back those who died in blaidds realm, he would have to grow more powerful, and use a wish from amon. 
 - after coniening with the resonance, bliadd is given the tools to reshape his vessal and all the time he needs to shape it. he decides to write the soul memories of all the names of his domain.
 - when fate tries to go to aethusa, time stops, and he is trransported to a a realm outside the godhusk whre 2 previus saints where. this is hollowed ground. fate also gets the prime ablity to go to this realm. he 
+### Session 101
+- vesper dies due to soul binding
+- we fight malthioon, and get him low so he summons sonnery in his doman
+- when sonnery comes he says he forgive our transgressions, because he realized he that rominaus is the one who set up his involement in the war with his ploy at the bloody banquet. 
+- ataxia says he wishes to make a truce.
+- he says that romanius wants the shard of amon most likely 
+- ronaius is on bad terms with sonnery because during child birth his mom died, and sonnery resents him for it, ad for being deformed
+- says that they will forgive the destruckin the killing of heralds so far, the taking  malthions retibution, we just have to cease any hostilities with him and his terrtories.
+- says that the ruins of the conseritorum and the forced alliance with Ancan. 
+- after accepting the truce sonnery leaves (he torures lady ataxia a little in front of us before he goes)
+- we turn back to malthion, and he is crying 
+- aethusa gets a flashback to kahat, before the battle with rykard. back then we were good friends with malthion, drinking with him, joking with him. playing games with him. he says he waas glad aethusa is his hearld at that time, that he was happy to be her bloodbearer. 
+- we cut back to aethusa, looing upon malthion as they both just relieved that memory due to temporal manipulation. 
+- aethusa comes over and kills malthion in a somber moment.
+### Session 102
+- we start with Everette's  pov as this may be in the past or his memory
+- he is walking into this whirlpool like place. the "water ripples" and a creatue comes and attacks him. 
+- everitee can n ot see its past or future with his abliites, and gets stabbed. he then falls into the vortex, then he hears a voice saying  "you have been summoned" 
+- the creature tries to reach its hand toward evverete but the flashback ends
+- in the fure wer are back in lilithina's sanctuary. we just get back, but when gizzo comes in, everate freaks out 
+- he knows the future where gizzo's machine's take over the world, and destoy the evriment, so he is really mad and chokes him. 
+- aethusa tallks him down, but he walks away. wanting to attain the truth about that, aethsa goes after him. 
+- when walking tward him, time stops, and everate and the shadow creature that attacked him in the flashback appears
+- they have a small scuffle, then it gives everatte an ulimatum to go meet him tormmow alone, or else he will start disappearing his friends. it then disapears and time resumes
+- aethusa speaks with everiite and learns that he got into a scuffle but desnt learn about the ultimatum.  they then talk about the future gizzo created. 
+- in the future everate is from, gizzo turens people in to half machine half person pupetts that he controls to attack people.  shrundia still exists, and knows nothing about what aethusa had saw in her vision where gizzo rose to power by destorying shunida and mining soul gems 
+- aethusa explains how he broke the nexus points and such 
+- aethusa speaks with gizzo and learns that just putitng a different starforged paracite into castora would not help, we need her spesfic one. also their curse has rewritten their bodies to keep them alive, but trainser their power to vycera so that she gains strength while she prepares to give birth. 
+- when amon made lilitina and her sisnters, but she could not understand love the way she understands. she is now a patchwork of herself and elisana so she can understand pain, and the pain  of romantic love, and all the pain that she has caused othersing thought her time. she also comes to realize that vycera has changed a lot and that the pain she cant understand has changed her into a monster. she morns the fact that she has to kill her sister hurts her 
+- she then says that she may have a memory that could help us, so fate witnesses the her memory 
+- we see the moment that vycera got the anuocement that she would be batrohed, vycera desnt want to betraothed but elsiana wanted it. when talking later elsiana tries to get her sisters to turn against amon but vycera refuses at first. when elsiana thretneds the people in vyceras domain to blackmail her she attacks Eliana and tells her to leave.  vycera then stages the coup and kills amon while lilitina watches.
+- lilithina says that she was strong enough to stop it but didnt. 
+- the next day, we hold a meeting for beating vycera. 
+- fate speaks with shale and learns that alex died, so he is now the head of the harpinger clan 
+- he speaks with radon and learns that there is a a vastacore rosevalor 
+- everate speaks with the shadow creatue and learns it was hired by gizzo in the futre to kill him. but he has become enamored with everoites strength, and says that even when he was born he was strong. he wants evroite to join him, to take over the nexus and control fate. 
+- to show his sinsercy he stabs gizzo with an attack that is time frozen so he can't be healed. 
+- when we see gizzo get stabed we all freak out and think that everatee may have killed him. but aethusa quetions him she learnes he didnt do it, but everyone is still tense because they cant see the killer. 
+- aethusa tells everiate to go kill him. then time stops 
+- the creatue tells tells everate to join him or fight. if they take aethusa's future sight eye and power they could even leave the god husk. 
+- everate decides go aainst him, and beins to fight.
+- the creature revals himself as Lizartho , a dragonborn.
+- lixstyho lets out an aoe and injuers everyone, then everete gets him to half health. he decides to leave and they will fight in a mor eisoclated place tommrow.
+- blaidd has fineshed his carving and training at heven's gate and is ready to return 
+- blaidd will not return to the recusents, he will instead be sent somewhere he is more needed
+- blaidd will be sent to stop  the skull lord, the one he fought back doing the invasion of the jagren order. 
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
