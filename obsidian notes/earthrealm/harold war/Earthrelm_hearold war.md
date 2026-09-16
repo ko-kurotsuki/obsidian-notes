@@ -1509,6 +1509,40 @@ Vast: 24 hp
 - blaidd has fineshed his carving and training at heven's gate and is ready to return 
 - blaidd will not return to the recusents, he will instead be sent somewhere he is more needed
 - blaidd will be sent to stop  the skull lord, the one he fought back doing the invasion of the jagren order. 
+### Session 103
+- bliadd is playing celestial uno with some of the people at heaven's gate.
+- blaidd is questioned on being sent to fight the skull lord, and about his childhood. blaidd said gave them the short answer talking about how his memoreis were tampered with so he doenst really know.
+- scarlet shadow gives blaidd advice, saying that when he gets send down, he will get a disguise, he should use that to act as a character and distance himself from his own childhood. 
+- BBLs are now in canon Borsian butt lifts
+- blaidd chooses to go in the vissage of scarlet shadow, a dragon born, and gets sent town to fight the skull lord 
+- back in the sactuary, we healed everyoen but gizzo. we convinced everte to try and heal him,
+- we he tries, he sees a timeline without gizzo, where takkata was not taken over, where the orcs are there, and they have their culture, there is nature in the place of factories, and nature in its place, but this is a paradox, and so everate consumes it and who
+- we talk to everte and learn that gizzo from everate;s time sent a time asssasion lizatho to kill him having the same powers. after meeting, lizartho decided he wanted to take over the  time line 
+- radon tells us about lizartho is the name of a trader in the refugee camp, and asks us to come talk to him.  when we go we are greeted of volstare
+- fate gets gets busy trying to quell questions and getting into a fight trying to calm them
+- radan leads them into the room with lizarto, but also introduces mariane fallstaff.  aethusa instantly clocks that maryane is not just a vampire, but a constuct made by vycera directly, a force of blood that we fought when we were going agaisnt malthion
+- while fighting, everatte sees into radon's past and learned that he was prohaized to die to a red heired woman, then sees the nexus point for his death. at that point lizartho stops time, and offeres everte a way to break the nexus points. by manipulating time, then consumeing the paradoxs that arise from it you can "widen yourslef" and become more immune to the effects of the timelines. 
+
+### Session 104
+- just after killing the substitutyion of maria, radan celebrates his win.  and while talking to us about wanting to stay with his people lizartho comes back. 
+- lizartho stops time, and gives everette a hint about how to store void. 
+- lizartho then starts telling him that to stop the flow of void from radon and the kahat survivors he has to kill them. everette tries to think of a way to stem the flow without killing them. 
+- everatte thinks about the time when he was born, with a void in his heart, and tries to reach out for a new power
+- everatte taps into his new power and makes one of the orcs into one of paradox. 
+- this sets off lizartho, he reveals that he wants to go the end of the godhusk. he doesnt have the power to shear through it to the outside.  but to gain more power he has to fight and eat other paradox people like everette.  seeing him makes a new one exites him because it
+- everette tells him that he has to find the timeline he came from, and if he can't everything he has been through would have been for nothing. 
+- after hearing that lizartho says that there is an alter where the skin of the godhusk meets the resonace. if everette changes his mind, he will wait for them  there and they will dual. 
+- afterwords, we get the coordints that lead to where blaidd is, then radan decides he wants him and his peaple to fight against lizartho when everette is ready. he asks aethusa to make a new blight to help him and fate goes back to help plan the war 
+- bliaddd is in one of the bone lords camps, and gathering info. they have armor that can control you if you wear it. the bone lord used to be part of the war dogs untill he had a disagreement with them then left to go to the fallstaff famly. he now has  a major army that as conquered all of bosia and now digging into central gaia. all the camps are around the elven empire to protect it form the attack.
+- the bone lord has captured the elven kingdom's captial
+- they are having the people in the cmaps fight in camps to determine if they are worthy to become bone warriors
+- Fate speaks with everyone planning for the war, feiyan says that the war dogs have a small resisiance with challa socran, we basiclly learn the same as what blaid learned, that
+- lost we also learn that the have the dragon kaffe, an arcane sigel blocking teleports.
+- we decid to send fate and gizzo to souless gizzo to convince him. and we are going to go capture konkcosm
+- we check in with soul scion romanius. and he is fightinthe scion of pestilince and he has him beatten.
+- SS romanius has acan's spell book
+- axel' fate's dad voice is heard, then we see lizartho walk in, having thrown it. lizarto offer's SS romanious freedom from blaidd's control for calling fenrior and opening a portal to limbo
+- lizartho wants to use dove to crate a clone of himself.
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
