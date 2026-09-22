@@ -1542,7 +1542,9 @@ Vast: 24 hp
 - we check in with soul scion romanius. and he is fightinthe scion of pestilince and he has him beatten.
 - SS romanius has acan's spell book
 - axel' fate's dad voice is heard, then we see lizartho walk in, having thrown it. lizarto offer's SS romanious freedom from blaidd's control for calling fenrior and opening a portal to limbo
-- lizartho wants to use dove to crate a clone of himself.
+- lizartho wants to use dove to crate a clone of himself
+### Session 105
+- 
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
