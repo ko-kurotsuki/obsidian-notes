@@ -1544,7 +1544,29 @@ Vast: 24 hp
 - axel' fate's dad voice is heard, then we see lizartho walk in, having thrown it. lizarto offer's SS romanious freedom from blaidd's control for calling fenrior and opening a portal to limbo
 - lizartho wants to use dove to crate a clone of himself
 ### Session 105
-- 
+- we start with fate, as he goes to get his new bow from  gizzo and lilithina he has a sense of foreboading going to see them
+- gizzo is on the floor knocked out
+- lilithina, tells fate that before she knew pain, she viewed love as transactional. she thought she could replace me with someone stronger. 
+- lilithina says that she needs to sacrifice her physical form to create the new bow. while taking to her fate realizes that she has already undergone the transformation, and is holding the bow in his new hand. 
+- gizzo explains that this bow has 2 forms, the nefmilim bow representing lilithina's form and the spear representing elisana's form
+- bliadd is invited to the tent of captian syvern reigal, the captian of the camp i think? he has
+- the captian is intrestied in bliadd' s strengthn then has his lutientieed test him in a fight. 
+- blaid oneshots the lutinet, but spares his life. syvern then offers 
+- captain syvern has the same stench about him as sybell, sugesssting he may be a vampire.
+- bliadd is now located as a nicer tent, with tea and ameniti
+- they are integrating the young boy bliadd was with before to get more info bliadd, but he didnt know much.
+- blaidd has one of the bone knights sent to him disguised as a wentch to serve him. blaidd manages to free him from armor.  blaidd then speaks with the man 
+- blaidd learned that the soul armor has souls in it and thats how they control the wearer.
+- blaidd tries to put the soul of the armor back to interogate it, but blaidd fucks up and the bone knight sends out a message to telll inform the other knights. blaidd retakes the soul, and tries to lie saying that he fucked the whore to death with his pants down . 
+- when trying to convince them, the boy the captain interogated pops out, and tells him about blaidd ripping out souls 
+- the captain decides there will be a trial.
+- we are with radon and aethusa at the roote tribe. radon explains that he has to go fight lizartho and go byond the god husk 
+- when aethusa comes back there is a time slip and averial thinks radon has died, and aethusa was tilling him about his death. 
+- everate is where blaidd is at, puts his hands around blaidds eyes and uses his resonace to sling shot himself to that place he always wants to go. 
+- everette is on a beatch, endlessly looping through multiple iterations of its start and end, trying to create the time when his village was on this beach shore. he sometimes tries to guide the indiguious people, but everytime the future diverts and no village is built. 
+- everette realizes that lizartho was right, and and everette crashes out, he throws himself crying and screaming, splashing into the waves wondering why he can't go home and he is nothing.
+- everettes eyes are green.
+- lizartho has ancan's spellbook
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
