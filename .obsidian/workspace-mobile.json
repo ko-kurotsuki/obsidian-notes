@@ -13,72 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian notes/Night in the backstreets/Session notes.md",
+                "file": "obsidian notes/Night in the backstreets/Enemies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session notes"
+              "title": "Enemies"
             }
           },
           {
             "id": "6408edf337e28c68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "in stars and time.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "in stars and time"
-            }
-          },
-          {
-            "id": "48dc4d7bcae14840",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summer internship 2026/Questions for Anthony.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Questions for Anthony"
-            }
-          },
-          {
-            "id": "c97e3fced3e4ddbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summer internship 2026/Week 2 update.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Week 2 update"
-            }
-          },
-          {
-            "id": "c83a95a551c67b16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Summer internship 2026/Next steps for Tuesday 9.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Next steps for Tuesday 9"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +47,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -142,8 +97,8 @@
             "showSearch": false,
             "searchQuery": ""
           },
-          "icon": "lucide-ghost",
-          "title": "all-properties"
+          "icon": "lucide-archive",
+          "title": "All properties"
         }
       },
       {
@@ -202,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "in stars and time.md",
+            "file": "obsidian notes/Night in the backstreets/NPC.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -226,30 +181,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Open format converter": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c83a95a551c67b16",
+  "active": "b46b00c22a9aea52",
   "lastOpenFiles": [
-    "/obsidian notes/earthrealm/harold war/Earthrelm_hearold war.md",
-    "/obsidian notes/earthrealm/harold war",
-    "/obsidian notes/earthrealm",
-    "/obsidian notes",
-    "Summer internship 2026/Next steps for Tuesday 9.md",
+    "Welcome.md",
+    "trails in the sky 1/orbment lap replace ment.md",
+    "trails in the sky 1",
     "Summer internship 2026/Week 2 update.md",
     "Summer internship 2026/Questions for Anthony.md",
+    "Summer internship 2026/Next steps for Tuesday 9.md",
     "Summer internship 2026",
-    "in stars and time.md",
-    "files.base",
-    "2026-04-25.md",
+    "Summer internship 2026.md",
+    "Pasted image 20260619004526.png",
+    "obsidian notes/wyrd winds/Pip.pdf",
+    "obsidian notes/wyrd winds/Augustus Venn CS.pdf",
+    "obsidian notes/wyrd winds",
     "obsidian notes/world of kinisis/Attachments/World of Kinisis notes.png",
     "obsidian notes/world of kinisis/Attachments/World of Kinisis notes 9.png",
     "obsidian notes/world of kinisis/Attachments/World of Kinisis notes 8.png",
@@ -259,31 +214,30 @@
     "obsidian notes/world of kinisis/Attachments/World of Kinisis notes 4.png",
     "obsidian notes/world of kinisis/Attachments/World of Kinisis notes 3.png",
     "obsidian notes/world of kinisis/Attachments/World of Kinisis notes 2.png",
-    "obsidian notes/world of kinisis/Attachments/World of Kinisis notes 13.png",
     "obsidian notes/world of kinisis/World of Kinisis notes.md",
     "obsidian notes/world of kinisis/Attachments",
     "obsidian notes/world of kinisis",
+    "obsidian notes/pestilnce of the isle/Untitled.base",
     "obsidian notes/pestilnce of the isle/things I want seven to encounter doing the campaign at some point.md",
     "obsidian notes/pestilnce of the isle/pestilance of the isle notes.md",
-    "obsidian notes/pestilnce of the isle/Untitled.base",
     "obsidian notes/pestilnce of the isle",
+    "obsidian notes/earthrealm/Untitled.base",
+    "obsidian notes/earthrealm/PC and NPC list.md",
     "obsidian notes/earthrealm/odyssey/Earthrealm Odyssey.md",
-    "obsidian notes/earthrealm/odyssey",
     "obsidian notes/earthrealm/nar makai/Earthrealm_ Nar Makai.md",
     "obsidian notes/earthrealm/harold war/Earthrelm_hearold war.md",
-    "obsidian notes/earthrealm/PC and NPC list.md",
     "obsidian notes/earthrealm/Aysync search.md",
     "obsidian notes/earthrealm/Aela's Timeline.md",
     "obsidian notes/coya fill outs/warlock coven.md",
     "obsidian notes/coya fill outs/valkarke squadmaster.md",
     "obsidian notes/coya fill outs/vajra on saturn.md",
+    "obsidian notes/coya fill outs/tiny hearm picker.md",
+    "obsidian notes/coya fill outs/thp part 15 scoring.md",
+    "obsidian notes/coya fill outs/ranches of geolocus.md",
     "obsidian notes/coya fill outs/magical girl.md",
+    "obsidian notes/coya fill outs/magic academia v3.md",
     "obsidian notes/coya fill outs/hentai nemisis v2.md",
     "obsidian notes/coya fill outs/deep space marines.md",
-    "obsidian notes/coya fill outs/computer program cyoa.md",
-    "obsidian notes/coya fill outs/binder.md",
-    "obsidian notes/coya fill outs/archdemon of corruption.md",
-    "obsidian notes/campains/seal the demon lord/sessions.md",
-    "obsidian notes/campains/seal the demon lord/session 5.md"
+    "obsidian notes/coya fill outs/computer program cyoa.md"
   ]
 }
