@@ -1567,6 +1567,18 @@ Vast: 24 hp
 - everette realizes that lizartho was right, and and everette crashes out, he throws himself crying and screaming, splashing into the waves wondering why he can't go home and he is nothing.
 - everettes eyes are green.
 - lizartho has ancan's spellbook
+### Session 106
+- fate is with lilitha as a bow. he wonders why she didnt let him try to talk him out of it. she says that she knew he would be able to and was heasty so he would not have the chance. 
+- the head mistrries decides to hold a training and fate decides to take on 3 of the hand maidens all at the same time. 
+- aethusa senses that everette has disaapered, and decides to  let him go for now. 
+- scyliric asks to become a hearold of aethusa so that he can improve the blight army
+- the petal blight has been left with bliadd by evertte, so when it senses blaidd standing there aethusa notices 
+- they have a convo about where blaidd has been and how much he missed aaethusa.
+- then blaidd drops his disguse as scarlet shadow, allowing fenrier to find him 
+- Fate does some trianing, but when trying to use the elsiana version of the bow, it was unwieldy and hard t control. she could make me kill people if i dont control it properly. 
+- fenrir tells him that someone went into limbo, used the soul machien to make a new body. 
+- fenrir leads them in and shows that the mahcine has used all its soul energy. he also finds fate's dad's body and ancan's spellbook. 
+- 
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
