@@ -11,12 +11,14 @@
             "id": "30b7b053abd54bbe",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "obsidian notes/wyrd winds/Pip.pdf"
+                "file": "obsidian notes/coya fill outs/tiny hearm picker.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Pip"
+              "icon": "lucide-file",
+              "title": "tiny hearm picker"
             }
           }
         ]
@@ -180,11 +182,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6dee39c5bbd25dc0",
+  "active": "30b7b053abd54bbe",
   "lastOpenFiles": [
+    "obsidian notes/coya fill outs/vajra on saturn.md",
+    "obsidian notes/coya fill outs/valkarke squadmaster.md",
+    "obsidian notes/coya fill outs/warlock coven.md",
+    "obsidian notes/coya fill outs/magic academia v3.md",
+    "obsidian notes/coya fill outs/hentai nemisis v2.md",
+    "obsidian notes/coya fill outs/deep space marines.md",
+    "obsidian notes/coya fill outs/computer program cyoa.md",
+    "obsidian notes/coya fill outs/ranches of geolocus.md",
+    "obsidian notes/coya fill outs/magical girl.md",
+    "obsidian notes/coya fill outs/thp part 15 scoring.md",
+    "obsidian notes/wyrd winds/Pip.pdf",
     "obsidian notes/wyrd winds/umlilo amanzi.pdf",
     "obsidian notes/wyrd winds/Augustus Venn CS.pdf",
-    "obsidian notes/wyrd winds/Pip.pdf",
     "obsidian notes/wyrd winds/Untitled.md",
     "obsidian notes/Night in the backstreets/Enemies.md",
     "Welcome.md",
@@ -194,16 +206,9 @@
     "obsidian notes/earthrealm/harold war/Earthrelm_hearold war.md",
     "obsidian notes/wyrd winds",
     "obsidian notes/earthrealm/odyssey/Earthrealm Odyssey.md",
-    "obsidian notes/coya fill outs/magical girl.md",
-    "obsidian notes/coya fill outs/warlock coven.md",
-    "obsidian notes/coya fill outs/ranches of geolocus.md",
-    "obsidian notes/coya fill outs/magic academia v3.md",
     "obsidian notes/coya fill outs/tiny hearm picker.md",
-    "obsidian notes/coya fill outs/thp part 15 scoring.md",
     "().md",
     "Pasted image 20260619004526.png",
-    "obsidian notes/coya fill outs/deep space marines.md",
-    "obsidian notes/coya fill outs/hentai nemisis v2.md",
     "trails in the sky 1/orbment lap replace ment.md",
     "trails in the sky 1",
     "2026-04-25.md",
@@ -211,14 +216,11 @@
     "obsidian notes/campains/age of weaving/Weaving schools and their princaples..md",
     "obsidian notes/campains/age of weaving/character creation.md",
     "obsidian notes/coya fill outs/archdemon of corruption.md",
-    "obsidian notes/coya fill outs/valkarke squadmaster.md",
-    "obsidian notes/coya fill outs/computer program cyoa.md",
     "obsidian notes/coya fill outs/binder.md",
     "obsidian notes/campains/marcy's thing.md",
     "files.base",
     "obsidian notes/coya fill outs",
     "obsidian notes/campains",
-    "earthrealm",
     "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey.png",
     "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey.jpeg",
     "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey 9.png",
