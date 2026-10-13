@@ -11,12 +11,14 @@
             "id": "30b7b053abd54bbe",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "obsidian notes/wyrd winds/Pip.pdf"
+                "file": "obsidian notes/earthrealm/harold war/Earthrelm_hearold war.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Pip"
+              "icon": "lucide-file",
+              "title": "Earthrelm_hearold war"
             }
           }
         ]
@@ -182,6 +184,10 @@
   },
   "active": "30b7b053abd54bbe",
   "lastOpenFiles": [
+    "obsidian notes/earthrealm/Aysync search.md",
+    "obsidian notes/coya fill outs/deep space marines.md",
+    "obsidian notes/coya fill outs/computer program cyoa.md",
+    "obsidian notes/wyrd winds/Pip.pdf",
     "obsidian notes/wyrd winds/umlilo amanzi.pdf",
     "obsidian notes/coya fill outs/tiny hearm picker.md",
     "obsidian notes/coya fill outs/vajra on saturn.md",
@@ -189,12 +195,9 @@
     "obsidian notes/coya fill outs/warlock coven.md",
     "obsidian notes/coya fill outs/magic academia v3.md",
     "obsidian notes/coya fill outs/hentai nemisis v2.md",
-    "obsidian notes/coya fill outs/deep space marines.md",
-    "obsidian notes/coya fill outs/computer program cyoa.md",
     "obsidian notes/coya fill outs/ranches of geolocus.md",
     "obsidian notes/coya fill outs/magical girl.md",
     "obsidian notes/coya fill outs/thp part 15 scoring.md",
-    "obsidian notes/wyrd winds/Pip.pdf",
     "obsidian notes/wyrd winds/Augustus Venn CS.pdf",
     "obsidian notes/wyrd winds/Untitled.md",
     "obsidian notes/Night in the backstreets/Enemies.md",

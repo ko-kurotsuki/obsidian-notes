@@ -1578,7 +1578,10 @@ Vast: 24 hp
 - Fate does some trianing, but when trying to use the elsiana version of the bow, it was unwieldy and hard t control. she could make me kill people if i dont control it properly. 
 - fenrir tells him that someone went into limbo, used the soul machien to make a new body. 
 - fenrir leads them in and shows that the mahcine has used all its soul energy. he also finds fate's dad's body and ancan's spellbook. 
-- 
+
+### Session 107
+- aethusa has caused an overgrowth, due to her hignetemnt emoitons of seeing blaidd trying to give sylric his hearoldry 
+- aethusa explains what she saw with blaidd.
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
