@@ -1582,6 +1582,7 @@ Vast: 24 hp
 ### Session 107
 - aethusa has caused an overgrowth, due to her hignetemnt emoitons of seeing blaidd trying to give sylric his hearoldry 
 - aethusa explains what she saw with blaidd.
+- fate 
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
