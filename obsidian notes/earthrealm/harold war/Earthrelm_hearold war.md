@@ -1584,7 +1584,7 @@ Vast: 24 hp
 - aethusa explains what she saw with blaidd.
 - fate is in bed, he tries not to use the power of elsiana's bow to calm himself, but he activates it accendtly. 
 - elsiana says that she was in blaidds mother when blaidd was bing born. she is now able to feel proud of him 
-- bliadd is speaking to runt soulless lizartho. lizartho
+- bliadd is speaking to runt soulless lizartho. lizartho says that he was the right hand man of bliadd in his timeline.  he wants to bargin for his life and offers the info for anime
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
