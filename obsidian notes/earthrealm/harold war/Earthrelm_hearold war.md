@@ -1590,7 +1590,11 @@ Vast: 24 hp
 - to improve his wearebeasts he calls in gizzo, but gizzo says that he needs his equipment from castle highrock 
 - blaidd makes a plan to comeback and when to the bone knight camp. but 
 - sublimate romainusm put a fireball in ancan's spellbook so when blaidd picked it up it set the soul machine on fire. burning the remains 
-- gizzo got mauled in 
+- gizzo got mauled in limbo, but blaidd brought him back
+- ancan has a deck of many things, and his spell book as well as the deck are made from shards of the heart of chaos realm.
+- gizzo gains costly victory
+- shale gians orb of chaos
+- fate gains glacial fog
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
