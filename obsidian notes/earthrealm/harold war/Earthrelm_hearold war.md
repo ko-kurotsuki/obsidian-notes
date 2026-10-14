@@ -1592,9 +1592,14 @@ Vast: 24 hp
 - sublimate romainusm put a fireball in ancan's spellbook so when blaidd picked it up it set the soul machine on fire. burning the remains 
 - gizzo got mauled in limbo, but blaidd brought him back
 - ancan has a deck of many things, and his spell book as well as the deck are made from shards of the heart of chaos realm.
+- we all read the book and get spells
 - gizzo gains costly victory
 - shale gians orb of chaos
 - fate gains glacial fog
+- aethusa of vision of elapsing eons
+- feiyan - thousand darts
+- redroes converse with dragon
+- elsiana and blaidd have a conversation.
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
