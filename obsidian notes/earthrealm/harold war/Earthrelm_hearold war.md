@@ -1584,7 +1584,13 @@ Vast: 24 hp
 - aethusa explains what she saw with blaidd.
 - fate is in bed, he tries not to use the power of elsiana's bow to calm himself, but he activates it accendtly. 
 - elsiana says that she was in blaidds mother when blaidd was bing born. she is now able to feel proud of him 
-- bliadd is speaking to runt soulless lizartho. lizartho says that he was the right hand man of bliadd in his timeline.  he wants to bargin for his life and offers the info for anime
+- bliadd is speaking to runt soulless lizartho. lizartho says that he was the right hand man of bliadd in his timeline.  he wants to bargin for his life and offers the info for anime. blaidd kills him.
+- when blaidd kills him there is time slipping, so blaidd forgets all about lizartho and what he learned 
+- blaidd wants to make an army of werewolves to fight, but starts out with just a ware bat, were rat, and werebums, th ebat has a trace of vampire blood though
+- to improve his wearebeasts he calls in gizzo, but gizzo says that he needs his equipment from castle highrock 
+- blaidd makes a plan to comeback and when to the bone knight camp. but 
+- sublimate romainusm put a fireball in ancan's spellbook so when blaidd picked it up it set the soul machine on fire. burning the remains 
+- gizzo got mauled in 
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
