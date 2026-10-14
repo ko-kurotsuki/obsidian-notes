@@ -1582,7 +1582,9 @@ Vast: 24 hp
 ### Session 107
 - aethusa has caused an overgrowth, due to her hignetemnt emoitons of seeing blaidd trying to give sylric his hearoldry 
 - aethusa explains what she saw with blaidd.
-- fate 
+- fate is in bed, he tries not to use the power of elsiana's bow to calm himself, but he activates it accendtly. 
+- elsiana says that she was in blaidds mother when blaidd was bing born. she is now able to feel proud of him 
+- bliadd is speaking to runt soulless lizartho. lizartho
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
