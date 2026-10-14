@@ -1599,7 +1599,7 @@ Vast: 24 hp
 - aethusa of vision of elapsing eons
 - feiyan - thousand darts
 - redroes converse with dragon
-- elsiana and blaidd have a conversation.
+- elsiana and blaidd have a conversation. she says that she is proud of him and excedied her every expectation. she then says that mixing lilithina and ellsiana has allowed both of them to grow exponentally, so mixing in the last sister, vycera could allow them to become as powerful or even more powerful then amon. as elsiana's son blaidd could consume the result, and become the vessal for a power that surpassses amon.
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
