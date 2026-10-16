@@ -1604,7 +1604,8 @@ Vast: 24 hp
 - fate and aethusa are at the runis of the golith fort
 - konkosum has escapsed as we are looking for her. 
 - shale doesnt know the fly spell, we slander her for this. fate decides to get her the fly spell scroll for her birthday. fate senses shere some of konkonsm's chains have broken off, and leads them flying to where he sensed it.
-- everette is where lizartho is. they talk about how meaningless being here is, and how lizarto can only make a hole big enough to see through but never move through. he saw giants bending the elements
+- everette is where lizartho is. they talk about how meaningless being here is, and how lizarto can only make a hole big enough to see through but never move through. he saw giants bending the elements. they get ready to fight 
+- 
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
