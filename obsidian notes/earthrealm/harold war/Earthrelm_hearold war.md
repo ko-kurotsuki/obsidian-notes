@@ -1600,6 +1600,9 @@ Vast: 24 hp
 - feiyan - thousand darts
 - redroes converse with dragon
 - elsiana and blaidd have a conversation. she says that she is proud of him and excedied her every expectation. she then says that mixing lilithina and ellsiana has allowed both of them to grow exponentally, so mixing in the last sister, vycera could allow them to become as powerful or even more powerful then amon. as elsiana's son blaidd could consume the result, and become the vessal for a power that surpassses amon.
+### Session 108
+- fate and aethusa are at the runis of the golith fort
+- konkosum has escapsed as we are looking for her. 
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
