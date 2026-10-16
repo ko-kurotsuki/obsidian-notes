@@ -1601,11 +1601,11 @@ Vast: 24 hp
 - redroes converse with dragon
 - elsiana and blaidd have a conversation. she says that she is proud of him and excedied her every expectation. she then says that mixing lilithina and ellsiana has allowed both of them to grow exponentally, so mixing in the last sister, vycera could allow them to become as powerful or even more powerful then amon. as elsiana's son blaidd could consume the result, and become the vessal for a power that surpassses amon.
 ### Session 108
-- fate and aethusa are at the runis of the golith fort
+- fate and aethusa and shale are at the runis of the golith fort
 - konkosum has escapsed as we are looking for her. 
 - shale doesnt know the fly spell, we slander her for this. fate decides to get her the fly spell scroll for her birthday. fate senses shere some of konkonsm's chains have broken off, and leads them flying to where he sensed it.
 - everette is where lizartho is. they talk about how meaningless being here is, and how lizarto can only make a hole big enough to see through but never move through. he saw giants bending the elements. they get ready to fight 
-- 
+- when fate's party reaches the center of the storm. we see koncoum flrozen in heavenly ice, and perl and 2 other souless with her.
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
