@@ -34,5 +34,7 @@ Art By: Sakimichan
 Perk: Fertility Control
 Allows you to control the fertility of yourself and any waifus you might have.
 
+gain 6 extra vouters to spend in the next 4 weeks
+
 [[week 3 avatar]]
 [[week 5 type moon]]
