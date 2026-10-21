@@ -13,5 +13,23 @@ to select targets to gain constant awareness of the target's location in 3D rela
 3) Shortstacking: Sometimes being small is convenient! You and those around you can at will switch to a more compact form about half your size with no issues.
 
  
-4) Interspecies Biology Compatibility: Why should biology be
+MIPHA 3
+1) Interspecies Biology Compatibility: Why should biology be
 an obstacle to two hearts in love? With this, you will never encounter any compatibility issues when dealing with other intelligent species. No allergic or averse reactions, genetic compatibility, and you can eat their food no problem.
+2) Fairy In A Bottle: Should worst come to worst and you
+are dealt a mortal blow, this will allow you to be pulled back from the jaws of death with a bit of healing. You won't be back to 100%, you're still going to have to recover, but you won't be dead. There is a time limit on uses of this, but you will know when it's charged, when it's not and how much longer it'll take to charge.
+3) Zora Scale Mail: You're as at home in the water as a fish.
+You can swim quick and nimbly, even up waterfalls, dive as deep as you want, breathe underwater and see in the dark.
+
+impa1
+2) Yojimbo 1: Personal and professional relationships tend to blur around you. Those you work closely with you will find yourself growing closer with on a personal level, whether that be your employer, coworker or employee.
+
+
+urbosa 1
+twintova 1
+1) Two Heads Are Better Than One 1: You can split yourself into multiple people. The separated copies are weaker than the original, but they are also connected by a hivemind so that even though they can operate independently, they will still remain parts of the whole. NOTE: Hivemind applies to any other self replicating abilities you might have as well.
+cia 1
+
+
+[[week 14 kill la kill]]
+[[week 16 beach resort build]]
