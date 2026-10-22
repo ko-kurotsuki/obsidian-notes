@@ -25,9 +25,18 @@ Perk: Reciprocity
 Because the pleasure you take is equal to the love that you make, or some-thing like that. Basically, if a sex act feels good for them, it'll feel good for you too, and vice-versa. Going down on a woman will make your tongue tingle, and getting head yourself will be equally pleasant for her. As a nice side effect, this makes sexual pleasure very intuitive and easy to give. You can even spread it around, so it affects people even when you're not directly involved!
 ...And as a nice parting benefit, regular ol' kisses can also cause pleasure and even orgasm, if they're passionate enough.
 
-Marika Krishna
-Series: Cara the Bloodlord
-Art By: Otzer
-Perk: Reciprocity
-Because the pleasure you take is equal to the love that you make, or some-thing like that. Basically, if a sex act feels good for them, it'll feel good for you too, and vice-versa. Going down on a woman will make your tongue tingle, and getting head yourself will be equally pleasant for her. As a nice side effect, this makes sexual pleasure very intuitive and easy to give. You can even spread it around, so it affects people even when you're not directly involved!
-...And as a nice parting benefit, regular ol' kisses can also cause pleasure and even orgasm, if they're passionate enough.
+Aishwarya Rai
+Series: Witch of Steel Annerose
+Art By: Kagami
+Perk: Oil of Aphrodite
+All your bodily fluids will temporarily increase the sensitivity of someone when they touch them, but in a strictly sexy way. This obvi-ously works internally as well as externally, refreshes as they're reap-plied, and produces warm, soothing pleasure as it works. And, as the stupid joke goes, they're all very good for the skin.
+
+Hildegard Galverian
+Series: Eden's Ritter: The Dragon Princess of Hell
+Art By: Q-Gaku
+Perk: Hip Control
+You can control the size and sensitivity of any hips and butts you touch. Whether you like 'em broad and thick or slender and flat, or anywhere in-between, you can make it so! This also automatically cleans out the insides, if you're into that particular hole, and can adjust tightness for both relevant orifices, depending on whether you prefer tight and thirsty or soft, pillowy, and welcoming.
+
+gain 6 vouters for the month
+[[week 23  tenchi muyo]]
+[[week 25 testament of sister new devil]]
