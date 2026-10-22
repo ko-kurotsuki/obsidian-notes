@@ -47,3 +47,5 @@ Mommy Issues: You're really good at mediating between estranged parents and chil
 
 gain 7 vouters that can be spend on weeks 17 18 19 20 21
 
+[[week 19  teen titans]]
+[[week 21 season 2 finale]]

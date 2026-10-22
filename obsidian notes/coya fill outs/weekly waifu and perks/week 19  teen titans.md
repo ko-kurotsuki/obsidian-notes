@@ -20,5 +20,11 @@ sour and you just really, REALLY need to not be there anymore? From now on, when
 6) Under The Stars: Your Pocket Dimension will have an utterly
 breathtaking night sky with as high a frequency of rare things like meteor showers, shooting stars, auroras, all those neat little things like that, and a moon as big or small as you want.
 
+JINX 1
+2) Love Redeems 1: It's awful to find yourself falling for someone on the other side of the enemy lines isn't it? Makes it feel so much better if you can convince them to join your side doesn't it? Well now, with a bit of effort, you'll definitely be able to! Go get 'em! You got this!
+Bumblebee 1
+3) Star Student 1: You effortlessly excel in all areas of learning, be it physical or academics. You will with even a smidgen or effort be top of any class you enter, and even without it absorb knowledge like a sponge.
+blackfire 1
+
 [[week 18 justice league unlimited]]
 [[week 20  wanted]]

@@ -24,7 +24,8 @@ to become Amazon land, which will be populated entirely by badass women who also
 (Yes, you can make it so they only welcome certain men in one way or the other)
 
 FIRE 1
-
+HUNTRESS 1
 VIXEN 1
+(attribute) of a (animal)1: You can invoke the attributes of any animal you know and gain those attributes, which will stack multiplicatively with any other physical abilities you already have.
 [[week 17 HHPR]]
 [[week 19  teen titans]]
