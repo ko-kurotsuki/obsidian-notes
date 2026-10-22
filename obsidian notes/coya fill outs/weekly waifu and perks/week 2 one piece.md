@@ -17,6 +17,7 @@ your command, within that territory you hold a 100% adoration rating. You can do
 
 Vivi Nefertari Alabasta 1
 Art By: Shellmaru
+
 Mutual Affection 1: If you love somebody, or something abstract like a country, then they will love you back as much as you love them. Likewise, if someone loves you, you will be aware of it and fully capable of loving them back just as much.
 
 Immunity 1: You are now fully immune to all poisons, no matter the dosage, and can safely metabolize them with not so much as a stomachache afterwards. This also comes with immunity to disease, so no more getting sick either! Poisons are very tasty now that they can't kill you.

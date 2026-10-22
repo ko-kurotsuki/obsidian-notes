@@ -25,14 +25,14 @@
             "id": "5cb866c7acdb9a6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "obsidian notes/coya fill outs/weekly waifu and perks/week 25 testament of sister new devil.md",
-                "mode": "source",
-                "source": false
+                "aFile": "obsidian notes/coya fill outs/weekly waifu and perks/week 2 one piece.md",
+                "bFile": "obsidian notes/coya fill outs/weekly waifu and perks/week 2 one piece.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "week 25 testament of sister new devil"
+              "icon": "diff",
+              "title": "Diff: week 2 one piece"
             }
           }
         ],
@@ -199,11 +199,17 @@
   },
   "active": "5cb866c7acdb9a6b",
   "lastOpenFiles": [
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 26 rosario + vampire.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 3 avatar.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 2 one piece.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/week 1 naruto.md",
+    "obsidian notes/coya fill outs/weekly waifu and perks/week 2 one piece.md",
+    "obsidian notes/coya fill outs/weekly waifu and perks/week 3 avatar.md",
+    "obsidian notes/coya fill outs/weekly waifu and perks/week 4 hentai heroine rescue program.md",
+    "obsidian notes/coya fill outs/weekly waifu and perks/week 5 type moon.md",
+    "Welcome.md",
+    "obsidian notes/wyrd winds/umlilo amanzi.pdf",
+    "obsidian notes/wyrd winds/Augustus Venn CS.pdf",
+    "obsidian notes/campains/marcy's thing.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/week 25 testament of sister new devil.md",
+    "obsidian notes/coya fill outs/weekly waifu and perks/week 26 rosario + vampire.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/week 24 HHRP.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/week 23  tenchi muyo.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/week 22 dragonball.md",
@@ -213,7 +219,6 @@
     "obsidian notes/coya fill outs/weekly waifu and perks/week 19  teen titans.md",
     "obsidian notes/coya fill outs/archdemon of corruption.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/week 17 HHPR.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 5 type moon.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/week 6 fairytail.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/week 11 bleach.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/week 13 my hero academia.md",
@@ -222,13 +227,8 @@
     "obsidian notes/coya fill outs/weekly waifu and perks/week 14 kill la kill.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/week 12 season 1 finale.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/week 10 pokemon.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 9 konosuba.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 8 HHRP.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 4 hentai heroine rescue program.md",
     "obsidian notes/coya fill outs/weekly waifu and perks",
     "obsidian notes/wyrd winds/Pip.pdf",
-    "obsidian notes/wyrd winds/umlilo amanzi.pdf",
-    "obsidian notes/wyrd winds/Augustus Venn CS.pdf",
     "obsidian notes/Pip.pdf",
     "Pip.pdf",
     "obsidian notes/wyrd winds",
