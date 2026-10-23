@@ -28,6 +28,19 @@ a nearby person's dreams and get a window into their sub-conscious. Everyone wil
 Field of Dreams: You can conjure illusions into the waking
 world. They are incredibly convincing, able to cheat all senses, and sufficiently powerful ones can even cause per-manent harm or kill, although this power is fueled by the strength of your emotions and stronger illusions are more effective according to your own emotional state.
 
+Dimensional Strike 1m: You've learned a technique involving
+It's moving across dimensions. This can either be used defen-sively, slipping into another dimension for a moment to dodge incoming attacks, or offensively, "sawing" through virtually anything that isn't also multi-dimensional. very dangerous and doing it a lot in a row is really bad for any weapon or body part you're doing it with. Skilled masters can even use this to strike things at range, although you're not there yet!
+
+Open-Minded Parent 1m: Sometimes, the hardest part of
+being a parent is accepting that your kids aren't just a small version of you. This perk will help you to under-stand the difference between your child making harmless choices you don't understand and harmful choices you need to have a talk about, as well as provide some blanket mental bolstering for having conversations about difficult subjects like the Talk.
+
+Ruby Tojo 1m
+Series: Rosario + Vampire
+Art By:
+nakabashireimei &
+Unknown
+
+
 [[week 25 testament of sister new devil]]
 
 [[week 27 high shcool dxd]]

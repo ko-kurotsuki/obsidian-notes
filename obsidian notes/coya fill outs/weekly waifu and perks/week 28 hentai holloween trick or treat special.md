@@ -74,15 +74,11 @@ Lady Death is going to subject you to a portion of her own brutal experiences, s
 
 i have wisdom to get through traps and tricks, with super intelect and navagation and my magic is equal to my physical power so now my reaciton time is good, alll while being dauntless 
 
-gain 7m vouters
+gain 7m vouters that are used immdiatly because the month is at is end
 
-Dimensional Strike: You've learned a technique involving
-It's moving across dimensions. This can either be used defen-sively, slipping into another dimension for a moment to dodge incoming attacks, or offensively, "sawing" through virtually anything that isn't also multi-dimensional. very dangerous and doing it a lot in a row is really bad for any weapon or body part you're doing it with. Skilled masters can even use this to strike things at range, although you're not there yet!
+[[week 27 high shcool dxd]]
+[[week 29 soul caliber]]
 
-Priestess of Thunder: You gain an affinity for magic of one
-element. If you have such an affinity already then the effec-tiveness is now doubled. This does not just work for attacks but also for resistance against this element should someone decide to attack you with it. fire
 
-Tears of the Phoenix: You can toggle any of your bodily fluids to gain de-aging properties. Consuming said fluids will age the person down a couple of months or even years, depending on the amount consumed. It is not possible to age underneath the age of 18 with this perk.
 
-Phoenix-Feather: You and those close to you become near
-immortal. In order to kill you for keeps, someone would need to either chop you up into tiny pieces or inflict clearly-lethal injuries like decapitation or massive explosions on you a minimum of three distinct times. In addition to that your natural healing is significantly improved.
+

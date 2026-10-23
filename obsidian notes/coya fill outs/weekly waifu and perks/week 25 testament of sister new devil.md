@@ -31,4 +31,6 @@ Testament of
 Sister New Devil
 Art By: Ookuma
 
+Magic Resistance 1m: Magic is only about half as effective on you or other people you share this perk with, and it stacks with any other perks or abilities they might have to reduce the effective-ness of specific kinds of magic.
+
 [[week 26 rosario + vampire]]
