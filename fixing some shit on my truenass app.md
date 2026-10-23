@@ -22,7 +22,7 @@ services:
     devices:
       - /dev/net/tun:/dev/net/tun
     environment:
-      - VPN_SERVICE_PROVIDER= custom
+      - VPN_SERVICE_PROVIDER=custom
       - VPN_TYPE=wireguard
       - FIREWALL_OUTBOUND_SUBNETS=192.168.1.0/24
       - WIREGUARD_ENDPOINT_IP=129.80.162.199
