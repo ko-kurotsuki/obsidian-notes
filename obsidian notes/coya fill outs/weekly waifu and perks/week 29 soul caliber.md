@@ -33,6 +33,6 @@ Series: Soul Edge
 Art By:
 fisticuffsclub & Yukijirushi Nyugyou
 [[week 28 hentai holloween trick or treat special]]
-[[week 30 fatal fury/ art of fighting]]
+[[week 30 fatal fury and art of fighting]]
 
 
