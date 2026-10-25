@@ -1,4 +1,4 @@
-Mai Shiranui
+Mai Shiranui 3
 Game: Fatal Fury II
 Art By: Zesker &
 Flowerxl
@@ -10,7 +10,7 @@ Widow Woman: Because sometimes, the sadder but wiser girl's the girl for you. Wi
 
 Nice Legs: With this perk, almost anything you can do with your arms and hands can also be done with your legs and feet. From pushing and lifting to shooting energy blasts to opening door-knobs, the possibilities are endless. Also comes with a bit of extra flexibility and balance, so that you can better move your legs around properly.
 
-Yuri Sakazaki
+Yuri Sakazaki 2
 Game: Art of Fighting II
 Art By: Amania Orz &
 RyukiBlade64
@@ -18,7 +18,7 @@ RyukiBlade64
 The Basics: Flashy elite tricks aren't as important as a
 good solid foundation of fundamentals! So long as you master the basic elements of something, from cooking to kung fu, you'll be able to hold your own against masters. Maybe not surpass them immediately, but any further advanced techniques will be something you can sous out on your own, even coming up with your own new ideas, just by following the logic built in to the foundations.
 
-Sinclair Game: Art of Fighting III
+Sinclair Game: Art of Fighting III 3
 Art By: Unknown
 Dancing Sword: Whenever you let go of a weapon
 you're holding, you can continue to control it with your mind, causing it to hover in thin air and move around to strike as hard as it would if you were actually holding it. This is about as mentally-taxing as actually fighting with such a weapon, but it's rela-tively easy to return it back to your hand and catch it. (You can use this on ranged weapons, but not the projectiles they shoot.)

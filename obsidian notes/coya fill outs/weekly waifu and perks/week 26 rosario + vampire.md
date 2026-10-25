@@ -1,4 +1,4 @@
-Moka Ayashiya
+Moka Ayashiya 3
 (Inner, Outer, and a Shuzen Family Value Pack!)
 Art By: Rankerhen & dieselturbo Series: Rosario + Vampire
 Know Your Place!: Contempt is your armor and pride
@@ -8,7 +8,7 @@ of your greatest weaknesses from destroying you. Whether it's as simple as food 
 One Big Happy(?) Family: We don't all have to get
 along or agree, but we can all at least admit we're family, right? With this perk, you and your extended family can at least tolerate each other and get along on holidays and family reunions. It won't suddenly make everyone friends or stop any genuine differ-ences of opinion or ideology from being a thing, but it will at least ensure nasty arguments or worse never escalate into anything toxic, and diametrically opposed viewpoints will at least find tolerance.
 
-Mizore Shirayuki
+Mizore Shirayuki 3
 Series: Rosario + Vampire
 Art By: Blue-senpai
 Biological Clockstopper: Worried about running out of time
@@ -18,7 +18,7 @@ different! With this perk, you can follow people around mostly-unnoticed, even i
 Harmless Freezing: Your powers always come with a built-in
 safety switch. No matter how incredibly deadly they'd logi-cally seem, you can always choose to pull your punch, and just make them painful but debilitating if you want.
 
-Kurumu Kurono
+Kurumu Kurono 3
 Series: Rosario + Vampire
 Art By: CreatureCola
 A Kiss Between Friends: Are you or someone you know just

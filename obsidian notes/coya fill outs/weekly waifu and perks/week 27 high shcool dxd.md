@@ -1,4 +1,4 @@
-Yasaka & Rossweisse 
+Yasaka & Rossweisse  3
 Series: High School DxD
 Art By: lindaroze
 Leylines: Whenever you are in your home, you have access to the leylines in your vicinity. This gives you almost endless sources of energy.
@@ -8,7 +8,7 @@ For example: train your physical strength and the strength of your magical attac
 Legendary Wand: You gain an ancient and powerful
 magical wand that enhances the caster's magic rather drastically. Only you, or someone else you designate, can wield it properly.
 
-Xenovia Quarta & Irina Shidou
+Xenovia Quarta & Irina Shidou 3
 Series: High School DxD
 Art By: lindaroze & 27lsd
 Holy Moly: You learn a unique discipline combining
@@ -18,16 +18,18 @@ thing between adults. With this perk, so long as it's con-sensual and friendly o
 The Good and The Bad: Nothing in this world is just black
 or white; every individual holds both good and evil traits within them. And you can now use this by slowly encour-aging specific traits so as to gently push them into any direction. Maybe ending up with an angel that doesn't mind a little bit of mischief or even a demon that goes to church every Sunday to pray...
 
-Rias Gremory & Akeno Himejima & Grayfia Lucifuge Series: High School DxD
+Rias Gremory & Akeno Himejima & Grayfia Lucifuge Series: High School DxD 3
 Art By: lexiaduer
 The Strongest Queen: Whomever you do the honors of giving the title "Empress" will see a significant boost to all her abilities and traits. You can only have one "Empress" at any given time, and this title can be swapped in a ceremony involving you and the previous and future "Empresses."
 Priestess of Thunder: You gain an affinity for magic of one
 element. If you have such an affinity already then the effec-tiveness is now doubled. This does not just work for attacks but also for resistance against this element should someone decide to attack you with it. fire
-
+The Power of Destruction: With some focus and a second or
+two to prepare, you can release a red energy as an attack that disintegrates any matter, living or not.
+While you may not have much fine control at the start, training will help you fine tune this powerful ability.
 
 designnate kaguya ototsuki as empress 
 
-Asia Argento & Raynare 
+Asia Argento & Raynare 3
 Series: High School DxD
 Art By: mei ichi & dining
 

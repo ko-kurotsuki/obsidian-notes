@@ -1,6 +1,6 @@
-1 general vouter
+1 general voucher
 
-Sophitia Alexandra
+Sophitia Alexandra 3
 Game: Soul Edge
 Art By: Serafleur &
 suika (atelier yuu)
@@ -9,7 +9,7 @@ Bring In A Third: In love with someone who's already happily married to someone 
 Fanservice Pack: You and those around you will age like a
 fine wine. Rather than love handles and wrinkles, a decade and a few kids on a woman will just result in bigger breasts, wider hips, and softer features, while men will enjoy rugged and manly bodies rather than growing a gut and losing their hair. This is somewhat tied to individual aesthetic (some women look better aging into tans and muscles for example, and some men into a more slender, elegant appearance), and it also protects against having looks permanently ruined by violence, sickness, accidents, or all the other things that can happen to someone over the years, with any scars only serving to make them look cool and sexy.
 
-Isabella "Ivy" Valentine
+Isabella "Ivy" Valentine 2
 Series: Soul Calibur
 Art By: tea (nakenashi) &
 alterlesott
@@ -17,18 +17,17 @@ alterlesott
 Dark Lineage: In the end, your destiny is your own. No
 matter what dark forces intercept your path, whether supernatural evils or the corrupting power of greed and money, you will decide your own fate, and cannot be lured astray by them unless you allow yourself to be. This also lets you derive tremendous benefits from otherwise-dangerous power sources without being destroyed or corrupted by them.
 
-Taki
+Taki 1
 Series: Soul Edge
 Art By: mikoyan
 
-Cassandra Alexandra
+Cassandra Alexandra 2
 Series: Soul Calibur II
 Art By: kansuke & kansuke
-
 Shield Bash!: When they say the best defense is a good
 offense, they usually mean something very different. Your defensive and offensive powers fuel one another in inverse but overlapping proportions; the better you are at taking it the more you can dish it out and vice versa. And yes, this means that smashing someone in the face with a shield is now one of the most effective attacks you can make.
 
-Seong Mi-na
+Seong Mi-na 1
 Series: Soul Edge
 Art By:
 fisticuffsclub & Yukijirushi Nyugyou

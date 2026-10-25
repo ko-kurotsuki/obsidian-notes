@@ -33,4 +33,5 @@ Art By: Ookuma
 
 Magic Resistance 1m: Magic is only about half as effective on you or other people you share this perk with, and it stacks with any other perks or abilities they might have to reduce the effective-ness of specific kinds of magic.
 
+1m means 1 monthy voucher was used
 [[week 26 rosario + vampire]]

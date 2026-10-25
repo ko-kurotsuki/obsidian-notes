@@ -1,4 +1,5 @@
-[[week 22 dragonball]][[week 22 dragonball]]Washu Hakubi 3
+[[week 22 dragonball]][[week 22 dragonball]]
+Washu Hakubi 3
 Series: Tenchi Muyo!
 Art By: sugishin46
 Dimensional Folding Trick: You know how to make things
@@ -18,16 +19,16 @@ similar, they're like two peas in a pod. With this perk, you can literally merge
 Wives Like Sisters: The love your partners have for one another
 will be just as strong as their love for you. It will take many forms according to their many personalities and how they interact with each other, but sisterly affection will reign. If you like, this love can also become less platonic and more romantic, again, accord-ing to personality, though some may prefer monogamy or tight-knit groups rather than general free love.
 
-Mihoshi Kuramitsu
+Mihoshi Kuramitsu 1
 Series: Tenchi Muyo!
 Art By: Tenzen & speh
 
-Ayeka Jurai
+Ayeka Jurai 1
 Series: Tenchi Muyo!
 Art By: Official Artist &
 censored yuu
 
-Ryoko Hakubi
+Ryoko Hakubi 1
 Series: Tenchi Muyo!
 Art By: mattai (38myyyy) &
 sugishin46
