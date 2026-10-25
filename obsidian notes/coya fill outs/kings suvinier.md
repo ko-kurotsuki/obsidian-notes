@@ -42,6 +42,7 @@ Beyond the shores of Etsaia lay a group of islands ruled by the minor power of A
 
 prize
 Zoldneri
+![[Pasted image 20261024230435.png]]
 With their armies split and their homelands vulnerable, Etsaia was forced to turn towards hiring mercenaries and such. Zoldneri being one of the best assassins they could afford.
 It was a mix of luck, skill, and chance that saved you from her hidden blade. Putting her in these restraints was as much for fun as it was for safety.
 Officially, you're keeping her as a prize.
@@ -61,3 +62,16 @@ Where the sword fails, the wand might prevail. Magic is an umbrella term to cove
 1. Cantrips. Make dishes levitate, instantly tidy a room, make small fires, generate water enough to fill a few cups, etc. Nothing too powerful, but still neat and convenient. Also great party tricks.
 2. Most professional magic users fall here and have to be this powerful to be an army magus. Blast elemental shots, raise barriers, heal the injured, see visions of recent events, and more. A majority are jack of all trades, but those that specialize in one branch are considered close to Class 3 in those fields.
 3. Archmage territory. Class 3 Mages are considered one-man armies, factors that could change a battle on their own. This is the point where your Souvenir looks more like a weapon you keep close by.
+
+queen
+Palici
+![[Pasted image 20261024230347.png]]
+Despite certain rumors, you wouldn't call Palici a childhood friend. Your were a prince and she was a young orphan being trained as a royal maid, with little to no other options in life. You never really talked much, but you did overhear that what she really wanted to do was to become a mage. For some reason, you helped her meet with the former Court Mage, who recommended her to a decent Academia.
+
+Palici has been grateful ever since and a dutiful mage in service to the country. And while not childhood friends, you are definitely friends now; which is why Palici is the very same one who designed and placed the magic contract on your Souvenir's back.
+And Not the strongest per say, but she is skilled and knowledgeable in magic and its potential to better people's lives. For very biased reasons, she believes you will make the right decisions for the future of your nation and is one of your staunchest defenders. That said, being your queen means she can try and improve the magic institutions in your nation, with the goal to make magic more common.
+All Others
+Due to her time with your souviner, they have become friends and very much "sister-wives" who support you and each other. In fact, Palici treats your Souvenir's position as your slae as just another job, if anything.
+
+
+These two have formed a very casual master/student relationship. Palici finds Churel's observations on magic interesting and thought provoking while Churel loves to tease Palici about finally "rewarding" you for helping her dream come true.
