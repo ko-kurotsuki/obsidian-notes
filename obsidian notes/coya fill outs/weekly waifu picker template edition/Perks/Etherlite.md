@@ -3,6 +3,8 @@ type: perk
 name: "Etherlite"
 waifu: "[[Sion Eltnam Atlasia & Sokaris]]"
 series: "[[Type-Moon]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

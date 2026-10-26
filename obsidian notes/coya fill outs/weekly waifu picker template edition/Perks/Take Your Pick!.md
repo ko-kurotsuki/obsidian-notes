@@ -3,6 +3,8 @@ type: perk
 name: "Take Your Pick!"
 waifu: "[[Sion Eltnam Atlasia & Sokaris]]"
 series: "[[Type-Moon]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

@@ -3,6 +3,8 @@ type: perk
 name: "The Apprentice"
 waifu: "[[Dawn]]"
 series: "[[Pokemon]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

@@ -3,6 +3,8 @@ type: perk
 name: "Little Bit Beastly"
 waifu: "[[Yoruichi Shihoin]]"
 series: "[[Bleach]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

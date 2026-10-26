@@ -3,6 +3,8 @@ type: perk
 name: "Excellent Breeding"
 waifu: "[[Queen Layla]]"
 series: "[[HHRP 1]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

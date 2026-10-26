@@ -3,6 +3,8 @@ type: perk
 name: "Ring of Protection"
 waifu: "[[Claudia Levantine]]"
 series: "[[HHRP 2]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

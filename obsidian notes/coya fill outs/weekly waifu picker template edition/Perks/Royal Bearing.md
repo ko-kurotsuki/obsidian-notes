@@ -3,6 +3,8 @@ type: perk
 name: "Royal Bearing"
 waifu: "[[Erza Scarlet]]"
 series: "[[Fairy Tail]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

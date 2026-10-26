@@ -3,6 +3,8 @@ type: perk
 name: "Master of Your Domain"
 waifu: "[[Boa Hancock]]"
 series: "[[One Piece]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

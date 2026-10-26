@@ -3,6 +3,8 @@ type: perk
 name: "Sensitive Steel"
 waifu: "[[Darkness]]"
 series: "[[Konosuba]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

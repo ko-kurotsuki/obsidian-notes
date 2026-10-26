@@ -3,6 +3,8 @@ type: perk
 name: "Summon Water"
 waifu: "[[Aqua]]"
 series: "[[Konosuba]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

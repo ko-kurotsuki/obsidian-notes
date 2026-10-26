@@ -3,6 +3,8 @@ type: perk
 name: "Purification"
 waifu: "[[Aqua]]"
 series: "[[Konosuba]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

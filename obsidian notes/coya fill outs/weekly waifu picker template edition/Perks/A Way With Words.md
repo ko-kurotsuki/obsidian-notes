@@ -3,6 +3,8 @@ type: perk
 name: "A Way With Words"
 waifu: "[[Princess Azula]]"
 series: "[[Avatar]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

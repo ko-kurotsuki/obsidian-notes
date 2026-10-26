@@ -3,6 +3,8 @@ type: perk
 name: "Righteous Energy"
 waifu: "[[Princess Lilia]]"
 series: "[[HHRP 1]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

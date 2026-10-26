@@ -3,6 +3,8 @@ type: perk
 name: "Breast Control"
 waifu: "[[Sakura Igawa]]"
 series: "[[HHRP 1]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

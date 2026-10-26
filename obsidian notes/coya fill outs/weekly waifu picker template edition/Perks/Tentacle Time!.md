@@ -3,6 +3,8 @@ type: perk
 name: "Tentacle Time!"
 waifu: "[[Lily Futaba Ramses]]"
 series: "[[HHRP 2]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

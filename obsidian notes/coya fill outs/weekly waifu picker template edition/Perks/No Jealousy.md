@@ -3,6 +3,8 @@ type: perk
 name: "No Jealousy"
 waifu: "[[Tita Luvence]]"
 series: "[[HHRP 2]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

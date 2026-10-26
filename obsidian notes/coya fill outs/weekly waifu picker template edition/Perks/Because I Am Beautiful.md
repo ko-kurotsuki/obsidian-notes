@@ -3,6 +3,8 @@ type: perk
 name: "Because I Am Beautiful"
 waifu: "[[Boa Hancock]]"
 series: "[[One Piece]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

@@ -3,6 +3,8 @@ type: perk
 name: "Elemental Master"
 waifu: "[[Korra]]"
 series: "[[Avatar]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

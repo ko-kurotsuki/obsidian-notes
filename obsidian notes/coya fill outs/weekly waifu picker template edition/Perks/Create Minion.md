@@ -3,6 +3,8 @@ type: perk
 name: "Create Minion"
 waifu: "[[Irene Belserion]]"
 series: "[[Fairy Tail]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

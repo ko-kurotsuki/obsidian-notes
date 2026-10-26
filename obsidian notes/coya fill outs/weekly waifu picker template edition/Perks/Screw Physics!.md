@@ -3,6 +3,8 @@ type: perk
 name: "Screw Physics!"
 waifu: "[[Yamato]]"
 series: "[[One Piece]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

@@ -3,6 +3,8 @@ type: perk
 name: "Clothes Make The Power Up"
 waifu: "[[Erza Scarlet]]"
 series: "[[Fairy Tail]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

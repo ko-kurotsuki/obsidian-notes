@@ -3,6 +3,8 @@ type: perk
 name: "Fracción"
 waifu: "[[Tier Harribel]]"
 series: "[[Bleach]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

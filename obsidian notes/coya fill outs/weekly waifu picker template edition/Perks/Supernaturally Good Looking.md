@@ -3,6 +3,8 @@ type: perk
 name: "Supernaturally Good Looking"
 waifu: "[[Naberal Gamma]]"
 series: "[[Overlord]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

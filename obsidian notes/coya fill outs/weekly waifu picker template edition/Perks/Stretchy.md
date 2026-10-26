@@ -3,6 +3,8 @@ type: perk
 name: "Stretchy"
 waifu: "[[Queen Opala]]"
 series: "[[HHRP 2]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

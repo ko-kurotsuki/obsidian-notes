@@ -3,6 +3,8 @@ type: perk
 name: "Level Headed"
 waifu: "[[Princess Azula]]"
 series: "[[Avatar]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

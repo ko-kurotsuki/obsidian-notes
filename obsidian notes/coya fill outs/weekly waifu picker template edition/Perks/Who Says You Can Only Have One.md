@@ -3,6 +3,8 @@ type: perk
 name: "Who Says You Can Only Have One?"
 waifu: ""
 series: "[[Naruto]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

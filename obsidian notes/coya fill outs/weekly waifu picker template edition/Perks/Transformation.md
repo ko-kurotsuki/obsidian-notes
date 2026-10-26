@@ -3,6 +3,8 @@ type: perk
 name: "Transformation"
 waifu: "[[Naruko Uzumaki]]"
 series: "[[Naruto]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

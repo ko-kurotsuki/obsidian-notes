@@ -3,6 +3,8 @@ type: perk
 name: "Born Lucky"
 waifu: "[[Princess Azula]]"
 series: "[[Avatar]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

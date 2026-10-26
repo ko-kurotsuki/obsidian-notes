@@ -3,6 +3,8 @@ type: perk
 name: "Masochist EX"
 waifu: "[[Darkness]]"
 series: "[[Konosuba]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

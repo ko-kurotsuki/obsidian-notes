@@ -3,6 +3,8 @@ type: perk
 name: "Misinterpreted In The Best Possible Way"
 waifu: "[[Darkness]]"
 series: "[[Konosuba]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

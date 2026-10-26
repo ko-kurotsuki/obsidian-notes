@@ -3,6 +3,8 @@ type: perk
 name: "I Reject!"
 waifu: "[[Orihime Inoue]]"
 series: "[[Bleach]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

@@ -1,11 +1,14 @@
 ---
 type: series
 week: 12
+season: 1
 vouchers: 0
 bonus_used: 0
 bonus_earned: 6
+hhrp: false
+resort_build: false
 ---
-Previous: [[Bleach]]
+Previous: [[Bleach]] | Next: [[My Hero Academia]]
 
 # Season 1 Finale (Week 12)
 

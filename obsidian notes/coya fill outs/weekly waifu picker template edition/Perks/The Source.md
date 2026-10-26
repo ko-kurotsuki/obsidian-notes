@@ -3,6 +3,8 @@ type: perk
 name: "The Source"
 waifu: "[[Kaguya Ootsutsuki]]"
 series: "[[Naruto]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

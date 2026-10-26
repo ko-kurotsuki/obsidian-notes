@@ -3,6 +3,8 @@ type: perk
 name: "Mutual Affection"
 waifu: "[[Vivi Nefertari]]"
 series: "[[One Piece]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

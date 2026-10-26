@@ -3,6 +3,8 @@ type: perk
 name: "Powerhouse"
 waifu: "[[Kaguya Ootsutsuki]]"
 series: "[[Naruto]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

@@ -3,6 +3,8 @@ type: perk
 name: "Reincarnation"
 waifu: "[[Korra]]"
 series: "[[Avatar]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

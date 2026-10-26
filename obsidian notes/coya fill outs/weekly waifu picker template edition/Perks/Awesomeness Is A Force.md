@@ -3,6 +3,8 @@ type: perk
 name: "Awesomeness Is A Force"
 waifu: "[[Yamato]]"
 series: "[[One Piece]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

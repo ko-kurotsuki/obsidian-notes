@@ -3,6 +3,8 @@ type: perk
 name: "Exot-dick Equipment"
 waifu: "[[Queen Farah]]"
 series: "[[HHRP 2]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

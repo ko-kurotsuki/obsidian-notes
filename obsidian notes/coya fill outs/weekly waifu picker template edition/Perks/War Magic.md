@@ -3,6 +3,8 @@ type: perk
 name: "War Magic"
 waifu: "[[Naberal Gamma]]"
 series: "[[Overlord]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

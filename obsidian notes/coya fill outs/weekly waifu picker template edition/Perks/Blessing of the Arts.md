@@ -3,6 +3,8 @@ type: perk
 name: "Blessing of the Arts"
 waifu: "[[Aqua]]"
 series: "[[Konosuba]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

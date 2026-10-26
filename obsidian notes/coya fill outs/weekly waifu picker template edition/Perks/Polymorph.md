@@ -3,6 +3,8 @@ type: perk
 name: "Polymorph"
 waifu: "[[Irene Belserion]]"
 series: "[[Fairy Tail]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

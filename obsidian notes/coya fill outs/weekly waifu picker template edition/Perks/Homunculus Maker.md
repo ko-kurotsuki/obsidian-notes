@@ -3,6 +3,8 @@ type: perk
 name: "Homunculus Maker"
 waifu: ""
 series: "[[Type-Moon]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

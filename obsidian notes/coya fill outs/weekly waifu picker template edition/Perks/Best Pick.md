@@ -3,6 +3,8 @@ type: perk
 name: "Best Pick"
 waifu: "[[Megumin]]"
 series: "[[Konosuba]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

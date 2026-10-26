@@ -3,6 +3,8 @@ type: perk
 name: "Team Building"
 waifu: "[[Cynthia & Lusamine]]"
 series: "[[Pokemon]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

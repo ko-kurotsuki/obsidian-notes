@@ -3,6 +3,8 @@ type: perk
 name: "Final Boss Energy"
 waifu: "[[Cynthia & Lusamine]]"
 series: "[[Pokemon]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

@@ -3,6 +3,8 @@ type: perk
 name: "Better Together"
 waifu: "[[Lucy Heartfilia]]"
 series: "[[Fairy Tail]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

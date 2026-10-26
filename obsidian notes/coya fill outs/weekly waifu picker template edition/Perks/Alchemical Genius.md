@@ -3,6 +3,8 @@ type: perk
 name: "Alchemical Genius"
 waifu: "[[Rani VIII]]"
 series: "[[Type-Moon]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

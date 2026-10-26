@@ -14,8 +14,10 @@ planned: false
 Origin: Himekishi Lilia
 Art by: Zol
 
-```dataview
-TABLE WITHOUT ID file.link AS Perk, owned AS Owned, planned AS Planned
-FROM "Perks"
-WHERE waifu = this.file.link
+```dataviewjs
+const me = dv.current();
+const base = l => l ? String(l.path ?? l).replace(/[\[\]]/g, "").split("|")[0].split("/").pop().replace(/\.md$/, "") : "";
+const rows = dv.pages('"Perks"').where(p => base(p.waifu) === me.file.name).values;
+if (rows.length) dv.table(["Perk", "Cost", "Resort", "Owned", "Planned"], rows.map(p => [p.file.link, p.cost ?? 1, p.resort ? "🏝️" : "", p.owned ? "✅" : "", p.planned ? "📝" : ""]));
+else dv.paragraph("No perks.");
 ```

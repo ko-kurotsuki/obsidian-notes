@@ -3,6 +3,8 @@ type: perk
 name: "Delicious"
 waifu: "[[Arcueid Brunested]]"
 series: "[[Type-Moon]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---

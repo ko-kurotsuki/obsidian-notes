@@ -3,6 +3,8 @@ type: perk
 name: "W.R.E.C.K.E.D."
 waifu: "[[Saki Yoshida]]"
 series: "[[HHRP 2]]"
+resort: false
+cost: 1
 owned: true
 planned: false
 ---
