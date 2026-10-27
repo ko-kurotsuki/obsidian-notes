@@ -44,7 +44,7 @@ for (let i = 1; i <= count; i++) {
 
 await tp.file.rename(series);
 await tp.file.move("Series/" + series);
--%>
+%>
 ---
 type: series
 week: <% week %>
