@@ -69,12 +69,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian notes/coya fill outs/weekly waifu picker template edition/Perks/Ahegao.md",
+                "file": "obsidian notes/coya fill outs/weekly waifu picker template edition/Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ahegao"
+              "title": "Dashboard"
+            }
+          },
+          {
+            "id": "810264d6ce9bc14a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian notes/coya fill outs/picking a goddess.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "picking a goddess"
             }
           },
           {
@@ -134,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -281,7 +295,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -296,8 +310,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "756d6df2b566fe94",
+  "active": "810264d6ce9bc14a",
   "lastOpenFiles": [
+    "obsidian notes/coya fill outs/weekly waifu picker template edition/Dashboard.md",
+    "obsidian notes/coya fill outs/picking a goddess.md",
+    "obsidian notes/coya fill outs/weekly waifu picker template edition/README.md",
+    "obsidian notes/coya fill outs/weekly waifu picker template edition/Untitled.md",
+    "obsidian notes/coya fill outs/weekly waifu picker template edition/Perks/Zora Scale Mail.md",
+    "obsidian notes/coya fill outs/weekly waifu picker template edition/Perks/Ahegao.md",
+    "obsidian notes/coya fill outs/weekly waifu and perks/week 26 rosario + vampire.md",
+    "obsidian notes/coya fill outs/kings suvinier.md",
     "obsidian notes/coya fill outs/weekly waifu picker template edition/Series/street fighter.md",
     "obsidian notes/coya fill outs/weekly waifu picker template edition/Waifus/Untitled.md",
     "obsidian notes/coya fill outs/weekly waifu picker template edition/Waifus/juri han.md",
@@ -312,18 +334,10 @@
     "obsidian notes/coya fill outs/weekly waifu picker template edition/Perks/The Future is Now.md",
     "obsidian notes/coya fill outs/weekly waifu picker template edition/Waifus/chun-li.md",
     "obsidian notes/coya fill outs/weekly waifu picker template edition/Perks/Them Legs.md",
-    "obsidian notes/coya fill outs/weekly waifu picker template edition/Untitled.md",
     "obsidian notes/coya fill outs/weekly waifu picker template edition/perk.md",
     "obsidian notes/coya fill outs/weekly waifu picker template edition/waifu.md",
     "obsidian notes/coya fill outs/weekly waifu picker template edition/new series.md",
-    "obsidian notes/coya fill outs/weekly waifu picker template edition/Perks/Zora Scale Mail.md",
     "obsidian notes/coya fill outs/weekly waifu picker template edition/Perks/You Know Who To Call!.md",
-    "obsidian notes/coya fill outs/weekly waifu picker template edition/Perks/You Can Bang In The Shower Hut.md",
-    "obsidian notes/coya fill outs/weekly waifu picker template edition/Perks/Yojimbo.md",
-    "obsidian notes/coya fill outs/weekly waifu picker template edition/Perks/Wriggly.md",
-    "obsidian notes/coya fill outs/weekly waifu picker template edition/Perks/Wisdom.md",
-    "obsidian notes/coya fill outs/weekly waifu picker template edition/Perks/Wings.md",
-    "obsidian notes/coya fill outs/weekly waifu picker template edition/Perks/Wholesome Land.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/weekly waifu template test/Waifus",
     "obsidian notes/coya fill outs/weekly waifu and perks/weekly waifu template test/Templates",
     "obsidian notes/coya fill outs/weekly waifu and perks/weekly waifu template test/Series",
