@@ -41,6 +41,104 @@ Mythology: Caananite
 -Ba'laat is nature lover who owns a garden which she fills with differnet plants from across the world and is a traveler to distant lands sight seeing. Her mastery within the home is focused on cooking which was at one point renown throughout her city of Byblos. She isn't much of a speaker for herself, rather she backs down and acts like a very shy woman with a gentle voice.
 -Intimacy with Ba'laat is an extreme masochist who likes to be dominated sexually, and who gets off of from you mocking her to the unmentioned things most couples wouldn't do. Though this is only for private matters with the two and she'll die of embarassment if it's mentioned in the public or to others.
 -You can expect a nice comfortable life with her in a cozy home. It doesn't take much to ro-mance her.
+
+Inari Okami: Goddess of Foxs, Industry, Agriculture, Fertility, Rise, Tea, and Sake
+Mythology: Shinto
+(Difficulty Rating: Demigod)
+-Inari Okami is the Goddess of Foxs and a variety of other things in Japan. She has been looking for a mate to have children with for a long time, and has come to you thanks to the match site being displayed across the God World.
+-Being the Goddess of Foxs, Agriculuture, Sake, and Industry, Inari will teach you how to take care of foxs, how to make them do your bidding, how to build the hard working industry of a nation from scratch, how to start you very own farms and maintain them, and how to make your own sake to drink.
+-As a trade Inari owns several businesses across the Mortal and God World which she manages everything personally; this has given her a hard working and stiff personality that makes her seem dry, but it's all a front. She actually likes to lounge around and read about upcoming businesses, new technology being used in the workforce, and new methods for farming. When she becomes a mother however, she would like you to take over operations as she becomes a stay at home wife.
+-Intimacy with Inari will involve long hours of sex (No seriously several hours. Her libido is extremely high even for a deity; she's a nymphomaniac) trying many different positions non-stop until her desired results have been achieved. To put it bluntly, Inari wants to be impregnated and will do it any place in private. Trying from behind might be hard to do due to her tails. You can touch ALL the fluffy tails.
+
+Isis: Goddess of Health, Marriage, Children, and Wisdom
+Mythology: Egyptian
+(Difficulty Rating: Demigod)
+-After, Osiris death and his promotion to God of the Afterlife and several other key events in Egyptian m thology, Isis has found herself alone and all the time in the world. For the most part she spent her time running one of the best insitutions of medicine in the God World until stumbling upon the "Goddess-to-a Mortal" site bringing her to you.
+-Isis is a young looking beaut who loved to indulge herself in the finer things in life, and enjoys studying things she never heard of before, and likes to take part in physical activities going on outdoors. If you eve find yourself lost in any kind of studies she will be there to lend you all the assistance you will need, or if you need someone to find comfort in she'll be there to hold you and tell you everything is going to be ok
+-When worrying about your health, you have nothing to fear. Isis will give you all the medical services offered in the God World to ensure you live a long healthy life, and as her love you will be tutored in me cine.
+-As for the bedly affairs. Isis demands all your love, passion, and attention as she shows you the correct way to use your body to pleasure her. When you are master at that, she'll stop guiding you and let you c what you want
+-If you're wondering why Isis is currently in the form she is now. It's because she saw many images in which the modern mortal man loves smug little girls called lolis, and making them theirs. So to make a huge impression on you she taken on this form.
+-You love smug lolis too don't you? You want to make Isis yours while she's in this form too don't you? It's okay to admit "Motherly, dark skin, smug lolis are the best." Everytime you say that out loud Isis will reward you by making you feel really good with the random use of one of her body parts on a certain body part of yours.
+
+
+Ninlil: Goddess of the Wind
+Mythology: Sumerian
+(Difficulty Rating: Mortal)
+-An ancient Goddess who directs the wind of the Mortal World and God World with ease and gave birth to many other deities back when she was with the God Enlil who constantly disguised himself as different people and had his way with her. Ninlil as a single Goddess is looking for a man who is more responsible than him and used the new site to discover you.
+-Among the many Goddesses, Ninlil is known for being fertile and meant for breeding. It should be known how-ever, she can't stay up for long periods of time in the day (6-10 hours max) before drifting up to slumber like a sleeping beauty where she's in a defenseless state and easy to pray upon. She hopes you are a gentle man who will defend and cuddle next to her when she falls asleep.
+-When awake and active, Ninlil is often kind to those she meet and a gost of fun entertainment playing strung instruments for those who wish to hear and singing songs with a beautiful voice. As her spouse the unique ability that she possesses is the use of the Wind, where you can sue it to help speed yourself up, find the location of yourself or person using it, create gusts, or wild hurricanes. A unique ability that is very useful to anyone with the skill and brains to use it.
+-Having relations with her Ninlil doesn't mind whatever you are into so long as you promise never to take advan-tage of her when she happens to fall into a deep sleep, and you promise never to do what Ninlil had doen and dressed up as a different person who taken advantage of her. She actually a developed a fear of this from Enlil.
+
+Nut: Goddess of the Universe
+Mythology: Egyptian
+(Difficulty Rating: Demigod)
+-After being seperated from Geb by the orders of Ra for what she did, Nut has been single for a long time and has taken up many hobbies to pass the tim till the "Goddess-to-a-Mortal" site was made by her friend Hathor and many other Goddesses. She was among the first sent a letter about the site to use it to find a new lover.
+-Nut is a sweet, mature goddess who will always be there to serve all your needs, and all she needs to be happy is you. If you are wondering about her hobbies she has been paying attention to the Mortal World and loves to cook play boardgames such as Pathfinder/DnD/etc, collecting art books, going to the theather, and etc (Nut is somewhat a dork). Since's it's been a very long time she has done aynthing not related to her hobbies, be pre-pared to watch her become something of a mess as she tried to do things not related t them. Also be ready to have something you mainly do be based around her hobbies.
+-Intimacy will be something else as she tries out new things she heard from her goddess friends for the past [REDACTED] years. If you ever want to learn about her job, Nut will teach you how to read the stars and skies so you will know your exact location anywhere in the world, and will teach you how to locate stuff using them as well.
+
+Nyx: Primordial Goddess of the Night
+Mythology: Greek
+(Difficulty Rating: Mortal)
+-An old saying was "Night and Darkness are one.", but that turned out to be a lie as Nyx seperated from Erebus. Using the match site, Nyx has come to you to make you her new husband who will treat her right and not just a second thing.
+-She is a powerful goddess who has given birth to many gods who effect the Mortal World in a big way, and she even has the big god of the Greek Mythology, Zeus fearing her. Nyx is incrediable as she likes to dazzle people with ehr age and knowledge, and has a habit of sneaking around as a shadow to easedrop.
+-Being married to her she will take you into a realm of eternal night where the two fo you can curl up and
+sleep. When it comes to intimacy Nyx is fond of using her power to drag on the night, and willing to try
+whatever kinks you have in mind, and will create a list of her favorites to least favorites to try every night.
+The woman doesn't mind even having more children.
+
+Selene: Goddess of the Moon
+Mythology: Greek
+(Difficulty Rating: God)
+-Ever since Endymions passing, Selene has looked on the Mortal World yearning for something more. The popular match site for goddesses has helped her as she came across you a young mortal who catchs her interests.
+-Selene is an orderly and nice goddess with a spark to learn and many things modern society has to offer, and she expects you to be her tour guide as you introduce her to the mazing things being offered.
+-You should know Selene has had over fifthy children, and because of it is a master of multi-tasking to the extreme able to keep track of everything that is happening around her. It's a very useful skill in handling daily affairs. As her lover you get to go to the moon inside her chariot.
+-As for intimacy Selene is willing to do it with you, but you should know she doesn't understand the con-cept of "No." and that it's best for you to stay awake in a safe place if you are not in the mood for rela-tions as she will rape you in your sleep.
+
+Sif: Goddess of Earth
+Mythology: Norse
+(Difficulty Rating: Mortal)
+-The former wife to Thor. Sif is a Goddess who brings about changes across the Earth and who is known as a prophetess who foretold future events. She saw herself investigating the "Godess-to-a-Mortal" site and following the vision, investigated it, bringing herself to you.
+-A nasty trick was once played on Sif in which she had her hair shorn by Loki and later replaced with the beautiful gold hair you see now. Despite that she is one of the most loveliest of women who is able to hold her temper against the most awful of insults, espcially those played by a God of Trickery like Loki.
+-She serves herself and guests with high honor and respect, though if somebody steps out of bounds she expects yo to be there to defend her honor or show some form of strength display (something she ad-mires). Despite her appearance she has had multiple children who have married off to others so you do not need to worry about them. As her spouse she cannot offer you much in power herself, a few tricks in manipulating the earth at best along wit hthe ability to allow you to glimpse into the future to see events that may occur, depending on your actions and those involved in the vision.
+-Sif has always enjoyed the rough things about sex. From ramming her as hard as possible to choking her with your own bare hands, or hitting her with a whip. She's something of a masochists believe it or not, and will do what you force upon her even in public.
+
+Taweret: Goddess of Fertility and Childbirth
+Mythology: Egyptian
+(Difficulty Rating: Demigod)
+-Taweret, a Goddess recorded as "She who is great", "Great One", "Lady of Heaven", "Mistress of the Hori-zon", "Mistress of Pure Water", and "Lady of the Birth House" for her job of purifying the Nile River long ago, and worship throughout the history of Egypt while offering divine protection. In her life she has had 3 main consorts, but none of them happened to stick with her thus she used the "Goddess-to-a-Mortal" site after its popularity among the Goddesses in the God World sky rocketed.
+-Back in the olden days many assosciated Taweret with a hippopotamus due to her nature of being a pro-tective older sister and mother to others, and having something of an aggressive nature when getting her point across. Though she swears that's in the past and she has changed dramatically (She really hasn't) and will become defensive if somebody says otherwise. Her old job has made her a skiled worker of the home capable making medicine, food, cleaning, and many other tasks that others wou ld consider difficult.
+-The only skill she can teach you from her times as a Goddess is the unique ability to create protective barriers and charms, along with the ability to purify the waters in which you drink or ever encounter, restoring them to a fresh state.
+-As you can see from her body, she's very well endowed, and that comes from the fact that she wants many, many, many, many, many children as she never had one (Though a deity known as Amun-Re claims to be her son, though that's a lie). She has watched many mortals in her day have large families who she provided protection over, and watched their young develop and she wants to experience that too. Taweret is willing to do any position so long as its vaginal and without protection, and the results are that she has atleast the minimal amount of 10 children to raise as a healthy family. You will not be allowed to cum unless its inside her.
+
+The Triple Goddess: Goddess of Witchcraft
+Mythology: Neopaganism
+(Difficulty Rating: God)
+-Having enough of the Horned god, the Triple Goddess has used the match site to come to you thinking you're going to be the perfect lover. Unlike most goddesses, the Triple Goddess is split into three different bodies and personalities:
+The Maiden - The young, inexperienced half that is happy go lucky. Often journeying around ready to un-cover the mysteries the world has to offer.
+The Mother-The mature side that s experienced, She is understanding to you and won't treat you like a play mate like The Maiden, and will act more like a house wife.
+The Crone - A bitter woman not just for the sake of being bitter, but because she's a cynic and likes being bitter. She is always plotting something and could be considered the tough and bad girl of the group.
+-Accepting the Triple Goddess as a lover you will be granted the ability to summon familiars, contract demons, and make potions. When going out on dates with the Triple Goddess you will have to find a way to please each part of her, instead of just one side. The Maiden is innocent and enjoys doing activities that will bring good health such as excerising and dancing. The Mother enjoys tending to the home and spend-ing days releaxed in doors. The Crones likes to gamble and take part in dangerous acitivties that could get the both of you in trouble with the law.
+-Intimacy with the Triple Goddess is weird. She likes it when you handle each of her aspect one at a time, taking care of their individual needs. With enough convincing you could try to please all three of them at the same time. The Triple Goddess is one wife with three bodies, each with their own characters and needs.
+
+Xochiquetzal: Goddess of Beauty, Sex, Crafts, Ferility, Dance, Music, Singing,
+Weaving, Magic, and Love Spells
+Mythology: Aztec
+(Difficulty Rating: God)
+-A maiden Goddess who has had a tough life throughout her godhood, originally being kidnapped and married to multiple gods who used her up, and then discarded her to the side like a rag. Though she puts on a smiling face the several incidents have left her for the longest time depressed, lonely, and mistrustful of all Gods in the God World. Her use of the "Goddess-to-a-Mortal" site came from given hope she can find true love as a good wife to a person who won't wrong her, then proceed to throw her away.
+-Xochiquetzal isn't like most Aztec Gods who keep to the blood festivals, sacrifiaces, and all the other violent stuff. She has learned to modernize like a fw gods, but keep that Aztec feel in her life as an aesthethic, so you shouldn't fear her touching your chest, leaning in to list to your heartbeat, and doing other stuff to be close. She is deeply in love with the modern world the Mortal World has, and most her things are technology based, so you don't have to worry about teaching her how to use a computer or play video games.
+-Forcefully being the wife to many gods, Xochiquetzal has learned a lot to take care of the home for others and isn't too friendly to dirty stuff in any form. She also learned many skills to keep her husband entertained being a master of singing, dancing, music, making necklaces-clothes-and other objects all on her own. She'll also be happy to learn new skills if it makes you keep her by your side, and don't abandon her.
+-For intmacy Xochiquetzal has developed a fetish of being taken by force, that she deeply resents and some what loves. If you could pretend your forcing yourself on her she'll easily submit as it gets her off. Xochiquetzal will even take it a step further by giving you a love potion to use on her during this time for you to "forcefully" make her drink.
+-That, Snek you see is her son, Quetzalcoatl. He's is a quite a mama's boy, and came by to check you out because he doesn't trust that "Goddess-to-a-Mortal" site or that new site "Gods-You-Want-Wives!?!" that has appeared thinking them as scams. He's smaller than what he should be, but the reason why is because he doesn't have to explain jack shit to you, and you should mind your damn business, mortal.
+
+Tiamat: Primordial Goddess of the Ocean
+Mythology: Mesopotamian
+(Difficulty Rating: God)
+-Tiamat is described as an ancient dragon that created everything within the cosmos alongside Abzu. After several incidents in which she had to be split in half, Tiama has become a single goddess. Like many God-desses in the God World she is lonely and you know wants to be held by somebody who will call her, theirs. This is the reason why she used the "Goddess-to-a-Mortal" site.
+-To weaker beings Tiamat's very prescene and power is all consuming and most cower in fear as she is the Mother of Monsters and Gods. As your spouse you won't ever find her lifting a finger to do housework or any other type of chores as her children will gladly do whatever she asks from cooking, combing her hair, and etc. Because of her children doing all the housework she is a very lax and lazy wife who spends her time messing around on the computer or watching tv.
+-Tiamat believes do to her status a Primordial Goddess she has to have a special type of praise. So, When-ever you try to take her out on dates or to public places expect to hold her in high regards. Because of Tiamat you will be given a lot of respect in the World of Monsters and command some of them to do your bidding.
+-She's highly worried about her body appearance. Though she's actually quite plump (Having fat in all the right places) she believes she still has the appearance she has back when she was with Abzu and believes herself to be fit and in her prime. Tiamat is very sensitive about this subject, due to the amount of children she has, and will often ask for your thoughts on her body.
+-When it comes to intimacy Tiamat throws away her laziness persona and becomes fully engaged in the activity. You will realize why she is considered a dragon as you do things that seemed impossible and your lower pelvis area becomes sore. It's recommened to have the highest quality of health insurance that you can get.
+
 6+9+9+6= 30coins
 
 Comfort Archaic
