@@ -111,12 +111,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian notes/coya fill outs/soul fighter.md",
+                "file": "obsidian notes/coya fill outs/weekly waifu and perks/week 31 street fighter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "soul fighter"
+              "title": "week 31 street fighter"
+            }
+          },
+          {
+            "id": "0abb760db6ee0c0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian notes/coya fill outs/weekly waifu and perks/week 33 warcraft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "week 33 warcraft"
             }
           },
           {
@@ -176,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -338,10 +352,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "94f7d9731cda6927",
+  "active": "0abb760db6ee0c0b",
   "lastOpenFiles": [
-    "obsidian notes/coya fill outs/deep space marines.md",
+    "obsidian notes/coya fill outs/weekly waifu and perks/week 31 street fighter.md",
+    "obsidian notes/coya fill outs/weekly waifu and perks/week 32 HHRP.md",
+    "obsidian notes/coya fill outs/weekly waifu and perks/week 33 warcraft.md",
     "obsidian notes/coya fill outs/soul fighter.md",
+    "obsidian notes/coya fill outs/deep space marines.md",
     "obsidian notes/coya fill outs/hentai nemisis v2.md",
     "obsidian notes/coya fill outs/warlock coven.md",
     "obsidian notes/coya fill outs/valkarke squadmaster.md",
@@ -363,9 +380,6 @@
     "obsidian notes/coya fill outs/weekly waifu picker template edition/Waifus/poison.md",
     "obsidian notes/coya fill outs/weekly waifu picker template edition/Perks/Be a Good Pet.md",
     "obsidian notes/coya fill outs/weekly waifu picker template edition/Waifus/ibuki.md",
-    "obsidian notes/coya fill outs/weekly waifu picker template edition/Waifus/laura matsuda.md",
-    "obsidian notes/coya fill outs/weekly waifu picker template edition/Waifus/rose & menat.md",
-    "obsidian notes/coya fill outs/weekly waifu picker template edition/Perks/The Future is Now.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/weekly waifu template test/Waifus",
     "obsidian notes/coya fill outs/weekly waifu and perks/weekly waifu template test/Templates",
     "obsidian notes/coya fill outs/weekly waifu and perks/weekly waifu template test/Series",
