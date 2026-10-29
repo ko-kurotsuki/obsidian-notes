@@ -1,3 +1,4 @@
+[[week 32 HHRP]]
 Jaina Proudmoore 3
 Game: Warcraft III
 Art By: TigrSasha
@@ -22,7 +23,8 @@ Alexstrasza 1
 Game: Warcraft II
 Art By: Felox08
 
-Love For All Creation 1: Humility doesn't have any obvious
-practical value, but the villains who always get stomped at the end of the story never seem to practice it. Even someone as powerful as a dragon-god sees the value in compassion and love. With this perk, no matter how far above humanity you ascend, you will never lose your virtues that spring from empathy for others.
+Flames of the Life-Binder 1: Fire consumes, embodying destruction, but often forgotten is that the warmth and light of the flames also nurture and heal. Any fire-based attacks that you produce won't burn out of control, only igniting where you intend. It won't hurt your allies, either. To the contrary, they will feel a reinvigorating warmth, minor wounds washing away quickly. Your flames are especially effective on demons and the undead.
 
 Arcane Torrent 1: You can drain energy from outside sources. Drain it from living beings to replenish your reserves, or from natural intersections in ley lines or other fonts of abundant power to amplify your power well past its normal limits.
+
+[[week 34 fire force]]
