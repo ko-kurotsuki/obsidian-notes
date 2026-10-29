@@ -27,3 +27,8 @@ Be Of Good Cheer: You've a knack for keeping other
 people's spirits up by maintaining a positive attitude. Notably, you yourself don't necessarily *have* to be happy on the inside; so long as you fake it, those around you will perk up and never fall into despair. And after all, some-times all it takes to feel better yourself is to see others around you feeling good, right?
 Combine: Normally, the mechanical difficulties of getting
 two machines to merge and share systems are staggering. This perk elides a bit of that. With it, you can easily combine and mix-and-match parts from a broad variety of devices, even computers. It works best when these machines share a function, but you could even use a car for a cockpit in a pinch! And machines of the same kind will increase in power and effectiveness as they merge together too.
+
+[[week 38 mass effect]]
+
+[[40 steven universe]]
+
