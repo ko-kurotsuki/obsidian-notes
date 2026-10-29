@@ -35,4 +35,10 @@ Art By: Tarakonovich
 Perk: Personal Evolution
 Evolution is usually the slow work of generations of repro-duction and trait proliferation. For you, it's a much more rapid thing. Your body can adjust its structure to be composed of specialized stem cells, allowing you to rapidly change in response to environmental or physical factors, from growing armor plates when you're getting hit to extra muscles when you need to lift, to specialized organs for surviving in dangerous conditions. Be careful though; even rapid evolution is still pretty slow! Something that's killing you might not politely wait for you to evolve immunity to it! And there are some things you just can't evolve around...
 
+[[week 36 HHRP-Happy Holiday Regifting Program]]
+
+[[week 38 mass effect]]
+
+
+
 6m vouters
