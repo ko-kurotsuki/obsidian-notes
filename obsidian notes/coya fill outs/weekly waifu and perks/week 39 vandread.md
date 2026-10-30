@@ -30,5 +30,5 @@ two machines to merge and share systems are staggering. This perk elides a bit o
 
 [[week 38 mass effect]]
 
-[[40 steven universe]]
+[[week 40 steven universe]]
 

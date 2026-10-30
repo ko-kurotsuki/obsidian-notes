@@ -19,6 +19,7 @@ or dance moves, people may fuse into an amalgamation of the constituent parties,
 
 Rose
 Art By: pigeon666
+Hard-Light Fight 1m: The counter point to offense is defense. This perk allows you to manifest a series of defenses from force-fields. You can generate shields, walls, & bubbles around your allies, self, or enemies. These can deflect, reflect or even pierce if you elect to use spikes on these. Further-more, your bubbles can teleport to your base either as an emergency evac or as a way to imprison your foes.
 
 Lapis Lazuli
 Art By: postblue98
@@ -26,5 +27,8 @@ The Sea's Wrath: You gain the power to manipu-late a particular element, one att
 
 Peridot
 Art By: Bichrom
+
+Perfect Hole 1m: The best ingredients, the best tools,
+the best circumstances. Pfft, who needs all that? With this perk, even if you have the absolute worst ingredients & ways of combining them, anything you make will come out in the most ideal way it possibly could. Be it baked goods or even making new crystal gems it will all be the best possible cuts, colours, & clarity.
 
 [[week 41 star wars]]

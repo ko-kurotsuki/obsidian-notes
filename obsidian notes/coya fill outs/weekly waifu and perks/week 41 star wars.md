@@ -1,3 +1,4 @@
+[[week 39 vandread]]
 Mara Jade Skywalker Novel: Heir to the Empire
 Art By: Patrick Finch
 Force Sensitivity: You gain an extra sensory power, making you
@@ -23,3 +24,6 @@ Prospect Insurance: We all know ideas or people who,
 sadly, just never live up to their full potential. Maybe they just make poor choices or double-down on mistakes, maybe they panic and flail around at the first sign of trouble, and maybe they just can't seem to bring themselves to overcome their worst impulses. They are their own worst enemies. Well, with this perk, you can help them, and potentially yourself if you* are your own worst enemy! It will help them avoid these pitfalls, or to dig their way out of any pits they've already fallen in, eventually accomplishing the great things you always knew they (or you) could!
 Beginner's Luck: You get a huge boost in capability
 whenever you try something out for the very first time. From making a dramatic escape from the detention block of a space station to outgunning trained fighter pilots to firing a torpedo down a two-meter wide exhaust port to getting in a swordfight with experienced opponents, you can always rely on fortune's favor and intuition to carry you through at least once. Just be careful; it fades pretty fast.
+
+[[week 42 no game no life]]
+
