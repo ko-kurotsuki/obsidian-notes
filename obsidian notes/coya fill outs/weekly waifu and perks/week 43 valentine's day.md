@@ -1,3 +1,5 @@
+[[week 42 no game no life]]
+
 ill be using my prohet perks to gain insignt into all the girls to claim them
 
 Hana Uzaki - Uzaki-chan Wants to Hang Out!
@@ -92,3 +94,72 @@ B) I'd love to help you make 100 more friends, and it's MORE friends, because I'
 Aphonic Advocacy: This perk offers a two-way street regarding nonverbal insight into people. Is there a reason they aren't speaking up? Do they have an insecurity? This doesn't compel you to stand up for others, but now you will be able to tell if someone is needing a wingman. Conversely, those who would come to your aid will be able to see that you are needing something even if to all the world you appear to be duck; calm and collected on the surface, legs kicking like crazy underneath it.
 
 i also gain komi's mom
+
+Taiga Aisaka - Toradora!
+Art By: Hitokoto & Sydus
+Challenge: "I'm already meeti- How dare a mongrel like you say I look like a child! There! Yeah you better run! I don't care how many 'Perks' you say your friends have, I'll split your head open, ugly bastards! Oh! It's y-you! I've got to deal with these mongrels so I won't be able to go on our d-date- no I don't care that he's got friends coming, I'll beat the shit out of them all, i-it's not like I want your help or anything!" Fight off the thugs harassing Taiga.
+i sweep then all with shadow clones
+
+Date: "Those guys weren't so tough, but... it was still really nice that you came to my rescue. Thank you. I guess you're good enough to treat me to a Valentine's date.
+
+B) Cook for her
+
+Conversation: "You've spoiled me so nicely. And
+you've stayed; I tried to push you away, but... I've gotten used to the idea that I'll always be alone; I'll never get the ending I want. I've always chosen to believe that someone was watching over me, and you've been just like that, a gift from God. You made me feel like I'm worth it, but, I'm really not. I'm sorry. I need to work on improving myself, I need to get better so I can respect myself and be someone who stands by your side instead of just being taken care of. I promise to try my best. Thank you!
+
+
+B) I'll be here for as much of it as you need. It's a tough road you've chosen, but walk it proudly and I'll be there when you stumble; there's no shame in that.
+
+Palmtop Tiger: Who says bigger is better? From now on, anything miniature that you use will have the same strength as something of its normal size. Firing a slingshot? It will have the same punch as a longbow. Shrunk down to the size of a fly? You'll still be able to hit just as hard, and move just as fast as you could before. Model cars can zoom like real Nascar. Even if your muscles can't grow any more physically, you'll still be able to advance your our strength through training. Have a tiny 'pen'? Discard your shame, it can offload as much ink as a big paintbrush, with none of the loss to dexterity.
+ i still use brest controll to giver her large brests
+
+Hayase Nagatoro - Don't Toy With Me, Miss Nagatoro!
+Art Art By: Kanchiyo & Kagato007
+Challenge: "Whoa! He's just like you said he'd be!" "Yeah, he's looks like just as much of a weird geek as that Catalogue said!" "Gross!" "Hey, isn't that a little mean?" "It's not mean if it's true!" "Yeah, it's just helping him at this point, helping him be less gross!" "Hahahaha!" "But since we're here, we might as well see how lame a date with him really could be, right?" "Oh that's hilarious!" Ditch Hayase's friends.
+i teleport us to the date location directly
+
+Date: "Oh well, I'm sure I can still have fun without them. I was looking to have some time alone with you, anyways- just kidding! Haha, you look so gross, I bet you're thinking about all the pervy things you want to do on this once-in-a-lifetime opportunity to go on a date with such a cute girl! Like maybe lock arms, 'accidentally' feel my boob, and maybe even get lucky! You're such a pervert! Gross~! Gross~!"
+
+B) Aquarium 
+Conversation: "It's been so much fun toying
+with you. I just love wimpy guys who let me walk all over them. Seriously though, I've been pretty horrible to you! Don't you ever get mad?"
+A) Please step on me, ma'am!
+
+Abusive Affection: People of your preferred gender will begin to develop feelings for you based on how badly they treat you. It doesn't have to be personal; the soldier trying to kill you during war could be struck by your beauty, and feel the pang of unrealised romance for the rest of their life despite never learning your name. For people you're closer with, they might feel guilt for their actions and start treating you better based on their love for you, or they might awaken to a sadistic streak and become hooked on bullying you even more. This largely depends on the person, but it also influenced by your own preferences.
+patreon.com/Kagal600?
+
+im claiming her friends maki toushi  and sakura
+
+
+Miyako Shikimori - Shikimori's Not Just a Cutie
+Art By: So Shio & Seya
+Challenge: "It's you! Did I keep you waiting?" Shikimori bounces forward to greet you, with a demure, sweet smile beaming across her face. Suddenly, with the shriek of snapping rusted iron, a sign right above your head begins to fall. Evade the falling sign-
+
+
+Shikimori jumps and kicks the sign out of the air and to the side. Looks like the challenge wasn't for you this time. Her eyes are cold and serious, and full of concern. "Are you okay?"
+Date: "M-me? No, I'm fine, I'm worried about you! And though... yes, I suppose it's better to move on, if you're okay- My leg? No, I can walk fine! That was so unfemi-nine of me... Thanks for worrying about me, though... I guess we can go, if you'd like..."
+
+C) Historical museum
+Conversation: "So wonderful. It's just like I've
+always fantasised about. When I was young, I read a shoujo manga, and I was entranced by the idea of a romance like that. That's when I decided I wanted to be more girly, and I really tried my best on that! But, I ruined it, didn't I? Saving you like that wasn't very cute of me at all. You were probably going to dodge it yourself. I know you're strong, but I couldn't help myself; I just had to come to your rescue."
+
+B) I don't just want to see your cute side, though! I want to see all of you. With those intense eyes, and your wonderful kindness, you're just like a dashing hero.
+
+ Curse of Vast Misfortune: You gain the ability to place a potent magical curse on anyone you please. After performing a short ritual involving a piece of their clothing and hair or body fluids, your target will have the worst luck imaginable. This will manifest through every aspect of their life; never winning a bet again will be the least of their issues. They will lose any important items or documents, and things lost will stay lost. Fasteners will undo themselves, vehicles will lose control and swerve into them, they will trip over rocks and holes that seem to come out of nowhere, clumsy as a newborn. Everything that can go wrong, will. Only a soul pure enough to retain hope despite constant suffer-ing can hope to bear this curse. You may undo the curse with a similar ritual.
+
+Yor Briar - Spy X Family
+Art By: Kagi (Dicedkey) & Stable Diffusion
+Challenge: Hello. It is nice to meet you. I am the assassin Thorn Princess. At the behest of my employers, I've come to pursue a romantic relationship with you Apparently, I'm considered suspicious for just still being single, and a relationship would act as sufficient cover. They're looking to pair me up with a man that can match my combat abilities, since he would be the only worthy match for me, so they have leaked this location to a squad of Westalis assassins as a test to see how you can handle a combat situation of this magnitude with no prior warning. They're hoping to kill me and the man I meet at my rendezvous, who they've been alerted is potentially a greater threat to their country than any to come before. I'm sorry, but this is the degree of peril I live with every day. If this goes well and you survive, I'd like very much to become your bride!" Neutralise the assailants.
+ill just use my magic powers to incenrate them all to a crisp
+Date: "Ah, such elegant movements... So fast, so strong! Oh! You pursued this date of your own free interest as well, didn't you? That must mean you find the appearance of my face and body attractive, correct?"
+
+C) Luxurious restaurant
+Conversation: "That went so well. I had so much fun! This is the part, where, I'm to advance our courtship, and t-that means, I s-should, k-k-k-k-k-kiss you... I've n-n-never, but, I w-w-w- NOOOO!!" Yor swipes at you and cradles her crimson cheeks in her balled fists, tears welling up and choking back sobs. "Oh, I can't do this, I'm a failure as a woman! Why would you ever want a muscleheaded woman like me; I can't kiss, I can't cook, I'm completely unmarriageable! I've failed my assignment, I've failed you, I've failed m-m...
+
+A) You have a perfect body, a perfect face, a perfect attitude. I've never been more charmed by a woman than I have by you. You can take all the time you need to get comfortable with 'us'. 
+
+
+Maternal Instinct: Don't just break the cycle of abuse; smash it to dust. Some of your waifus may not, to put it delicately, be the nicest people. You've chosen to share your lives with them regardless; someone has to love them, after all! You now never need to worry whether or not they will be good mothers. Any woman you have a child with will have ideal maternal instincts; no postpartum depression, no abuse, no resentment, and no smothering to the point they'd raise a spoiled momma's boy, either. They will love their children so much that they will do anything they can for them to be happy- not just successful. There will also be enough room in her heart to keep loving YOU just as much, too! She won't trade ideal wife for mother; she's both.
+
+
+[[week 44 super mario bros]]
