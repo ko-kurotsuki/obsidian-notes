@@ -1,7 +1,7 @@
-Snow White (get her step mother too)
+Snow White 1m (get her step mother too)
 Film: Snow White and the Seven Dwarfs
 Art By: Amy Matthews
-Magic Apple: Normal magic potions don't have a reputa-
+Magic Apple 1m: Normal magic potions don't have a reputa-
 tion for being palatable... but you can mix it into food to hide the flavor and preserve the effect! You gain the ability to imbue your cooking with magical effects according to your alchemical repertoire and additional effects based off of your perks. Once digestion starts, the abilities kick in, and will last for a full day after, at which point the food is fully digested. The skilfulness that the food was cooked with determines how strong of an effect you may impart; an unprocessed fruit can be suffused with a simple poison or healing effect, but a dish of such complexity that it
 would win awards could impart the strongest magic
 
@@ -33,3 +33,11 @@ Royal Diplomat: You are now an expert at diplomacy, able
 to act as an effective intermediary between even the most alien societies and broker peace between even the most discordant of enemies. You will be able to swiftly glean the requisite etiquette of both parties. So long as you expend the effort to make them understand one another's posi-tions, you can at least prolong a truce indefinitely. What is peace but an indefinite truce, anyways?
 Hunter Gatherer: You are now as at home in the woods as
 any creature. You gain the skillset of a hunter, whatever that may be in the worlds you have access to, and full knowledge of how to find and identify edible plants and fungi wherever you are. In the wilds, you are able to move through the brush as swiftly as a raven, as stealthily as a weasel, without leaving a trail, as well as perfectly follow the trail of any creature.
+
+Perfect Hair Forever 1m: Your hair is now shimmering,
+thick, full, and gorgeous, never tangling or snagging, growing as long as you desire for up to dozens of meters but still feeling as light as air when you try to move. It's nearly indestructible and has some measure of prehensility when you whip it forth, able to tie itself around objects or opponents and loosen at will. No more split ends, and never have a bad hair day again. Can apply to facial hair, as per your preference, and can selectively remove the body hair of those to whom you bestow this perk.
+
+
+[[week 54  hentai villness wanted week]]
+
+[[week 56 my little pony]]

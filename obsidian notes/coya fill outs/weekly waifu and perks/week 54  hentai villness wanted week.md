@@ -1,4 +1,5 @@
 gain 1 free home in an extradimential space
+thanks to my perk "Who Says You Can Only Have One?" i take both the house perk and the reguler perl
 
 Oboro Koukawa
 Series: Taimanin Asagi
@@ -8,6 +9,8 @@ Although this fallen ninja is a sniveling coward at heart, one must never undere
 i beat her using my ninja ablities to predict and coutnter her
 
 Paradise of Pain and Pleasure: Your new home comes with an extensive-ly-equipped BDSM dungeon, loaded with every kind of restraint, rack, blindfold, needle, bondage gear, and other instruments for exploring the boundaries between pleasure and pain that you could hope for. Furnished to taste.
+Cicada's Shell: You can allow your vital essence to leave your body and
+possess someone else you are aware of, causing them to become a perfect replica of you, up to and including the clothes you are wearing when you use this power. This can be done at great range, so long as you are aware of the target, and even works on corpses. However, it only works on targets significantly weaker than you, trying to use it in rapid succession can easily lead to you messing up the timing, and your true body is helpless while you use this technique; if it is destroyed then your living spirit is on borrowed time in its temporary home.
 
 "Li Mayfeng"
 Series: Witch of Steel Annerose
@@ -16,7 +19,7 @@ Oboro's estranged sister, this cruel gangster also controls the powers of a witc
 i take over her orgization, then fight her, with my amazon courtship she falls in love
 
 Gambling Den: Your home will come equipped with a top-notch traditional gaming room, including all the supplies for every sort of gambling, wargaming, board gaming, large broadcast screens, even tabletop roleplaying gaming, along with a fully-stocked bar and incredibly comfortable chairs and tables. Comes with all the relevant paperwork to enjoy all of the above legally.
-
+White Snake: You can transmute any of your bodily fluids into poisons, ranging from lethal toxins to temporary paralytics to psychedelics and aphrodisiacs that distort the body's perception. By default, this can make a thin, hard-to-control aerosol around your person that affects anyone, but it is used most effectively to make venom that can be quickly and easily smeared on weapons. You are immune to anything you create.
 
 Felicia Black
 Game: Taimanin Kurenai
@@ -26,6 +29,7 @@ Born the offspring of a primeval vampire and a captive kunoichi, Felicia has com
 i have holy powers and purfying flames, so i use those to beat her
 
 Gardening Tool: Your home's yard and grounds become very expan-sive, incorporating many lovely and aesthetically appropriate gardens, rock and water features, and small structures like gazebos for visitors to relax in.
+Crazy Jealous: Sometimes, a bit of disharmony is the spice of life. With this perk, the people closest to you will start to find themselves competing for your attention. It won't be more than you find cute, though. WARNING: The Catalogue accepts no responsibility nor liabil-ity if the amount of jealous bickering you personally find cute is more than you are equipped to handle the consequences of.
 
 Osira
 Series: Legend of Queen Opala
@@ -34,6 +38,7 @@ The ruthless and ambitious Osira has made a dark magical pact with the Serpent G
 i just offer her magical power, and thanks to trasactal courtship perk she starts to fall in love too.
 
 Egyptian Baths: Did you know that ancient Egypt was among the first societies on earth to make use of the thera-peutic properties of the hot tub? Your home gains a beautiful and richly-appointed spa, including great pools of water at various temperatures, huge stocks of various salts and additives, massage tables, and even unusual spa fixtures like saunas, mud baths, birch branches, or other strange ways people get clean and relax around the world
+Prostitution Minigame: You can make money in just about any public setting by doing something obscene and sexual, out of a mixture of pay from the owners and tips. It starts out modest, and it only works in any given estab-lishment once, but it scales up without limit the more you do it. Exactly what the obscene and sexual thing you do is doesn't matter, just that you're willing to do it
 
 Laquadia
 Series: Legend of Queen Opala
@@ -43,6 +48,7 @@ i use my super strong charm effects to get her to lower her defenses and past al
 
 Threshold Guardians: Your home can summon a variety of powerful
 guardians to fight in its defense if attacked. By default, they're fairly simple creatures with limited intelligence beyond basic combat pro-gramming, and their appearance and nature are tailored to the house's particular aesthetic; metaphorical or literal automatons of various stripes. You may choose to have them become more fleshed-out and "real" if you wish, but then you'll have to start paying them and letting them live their lives. i make them more felshed out, they are all really cute dragon waifus with black or red scales. they also all wear bakini armor.  i pay them 100,000 gold a year and they get 3 months off every year
+From the Till: Treating the company's coffers and/or offering plate as your private piggy bank is generally frowned upon, but exceptions are sometimes made. So long as your skimming doesn't get too blatant and audacious, you'll find that you won't get into any real trouble for it, whether because the right people know it's going to a good cause or because the wrong people don't care what a "friend" gets up to.
 
 Leona Morimoto
 Series: Series: Discipline -The Record of a Crusade-
@@ -53,6 +59,7 @@ i beat her by luring her into a trap, i set up mutiple cute and sexy girls ripe 
 
 The Help: Your home has a number of contracted staff who will clean, cook, maintain, and otherwise handle all sorts of household tasks for you. By default, they're rather colorless figures lacking in personality and tailored to the house's particular aesthetic; metaphorical or literal automatons of various stripes. You may choose to have them become more fleshed-out and "real" if you wish, but then you'll have to start paying them and letting them live their lives.
 i flesh them out: they are all shortstack goblin girls who wear maid uniforms. they are very tradicnal but completly commando underneeth. they get paid 100,000 gold a year and 3 months off.
+Gold-Plated Blunt Instrument: Now, problems really do just go away if you throw enough money at them! Whether it takes the form of buying the best equipment, hiring the best specialists, or just straight-up bribery, so long as your bank account has enough digits, you will never encounter an obstacle that you can't solve with cold, hard cash.
 
 Fan Mei and Sei Mei Game: Violated Hero III -My Too Sensitive Cock-
 Art by: Johnny
@@ -60,7 +67,7 @@ Fan Mei and Sei Mei (no relation) are dark spirits who prefer to take on the for
 
 I count as a darkness elemental since i have the affineity, they automaticlly have to listen to my strong willed requests.
 Movable Boundary: You may now choose to situate your new home anywhere you have physical access to rather han an extradimensional space, seamlessly integrating it into the environment and adopting appropriate aesthet-cs to "blend in." You can choose to move this from one location or another (or back out into contained extradimen-sional space), but doing so does require a great amount of magical or technological effort.
-
+Not Just a Pawn: Pawns are called that because they're the weakest pieces on the chessboard, and their lives get used up and sacrificed on behalf of the others. But get a pawn to the other end of the chessboard and watch what happens! While you're being manipulated or used in others' plots, you'll slowly but surely grow in strength, permanently, until you're powerful enough that they can control you no longer.
 
 Cellaria Markerlight
 Game: Soul Link
@@ -71,6 +78,7 @@ Oh, and she's a master actress with some limited shapeshift-ing, so don't necess
 i use my own bioengneering to make us immune to the alian invaison after i get a sample. then jus slowly convince her myself
 
 Scylla: You can alter others' biology by getting your own biological matter inside of their bodies. This works best with comparatively large quantities of living cells, so blood transfusions or sexual intercourse work best, but a kiss will do in a pinch. Once you do, you can freely apply to or share with them the effects of any abilities you have that can modify or alter your own body, although you need to be aware of them and reasonably close to modify these alterations further.
+Smart Home: Your home has a number of automated conveniences, including self-operating appliances, self-opening doors, and a small staff staff of unobtrusive autonomous cleaning and maintenance units, all operable by both voice and manual commands. Various Various magical and technological aesthetics are available for all of the above according to taste.
 
 gain 8 monthly vouters
 
