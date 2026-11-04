@@ -45,3 +45,7 @@ address to connect instantly, but the actual
 address or GPS coordinates at which the
 device is located is a nearly as good substitu-
 tion, only taking a minute or so instead.
+
+[[week 57 sailor moon]]
+
+[[week 59 risng of the sheild hero]]
