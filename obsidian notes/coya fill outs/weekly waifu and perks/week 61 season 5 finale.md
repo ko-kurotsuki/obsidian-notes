@@ -58,3 +58,52 @@ Fujisaki (The Maid I Hired Recently Is Mysterious) Art By: Konbu Wakame
 To Buttle: This perk allows you to perform even the most demeaning of tasks all while maintaining your dignity & composure.
 Natsume (The Maid I Hired Recently Is Mysterious) Art By: Konbu Wakame
 Unseen Help: Possibly even better that true invisibility, people will go out of their way not to see you if they think you are meant to be there. And wouldn't you know it? Uniforms are a very easy way to give that impression.
+
+In contrast to that, there is another situation in the dining car. There appears to be someone who is... insatiable (they may be a No-Face). When they kept ordering more food it was just laughed off, at first. But it became more urgent. They started eating the plates. We currently have a team of people running them plates as fast possible to keep them from turning on the other diners. We have been trying to discretely usher the passengers away, but they really must be stopped. Can you think of any way to stop them?
+i use my fire to do spirtual purifcation to remove is bibilcal levels of gluttony
+
+Mey-Rin (Black Butler)
+Art By: Marmaladica
+Kintsugi Care: Typically when things break they
+get worse, but with this perk when you break things they actually improve. Cracks becoming literal gold is optional.
+Sadayo Kawakami (Persona 5)
+Art By: r-e-l-o-a-d
+Ennui-Away: Aside from any literal physical
+tiredness that working may cause, this ensures that the labor of anyone working for you is gratifying to them. Forced job satisfaction.
+Ancilla - Monster Girl Dreams
+Art By: official art
+Counting Sheep: You can naturally sense the
+best means to lull somebody to sleep in addition to some spells which can magically force people into drowsiness or even slumber.
+Sowan (Last Origin)
+Art By: taesi
+The Usual?: Even if you don't understand it
+yourself, your staff will always grasp your desires perfectly, & how to subvert them in the most pleasing of ways.
+
+Not to alarm you, & please keep your voice down, but the train is currently under attack. We have a a half dozen ships flanking us with multiple boarding parties. They appear to be attempting to breach the armory. It is where we keep our safe. As you can imagine it is also Hwhere we keep our security personnel. Do you feel up to fighting off scores of desperados?
+See you out there, space cowboy.
+i use my several ships and build a mech to fight off the pirates
+
+Dragonmaid Tillroo (Yu-Gi-Oh!) Art By: fang410693029
+Beginning Of The Battle: Anyone working for you or under your protection may, at the start of a fight, choose to teleport to safety and summon you (or a champion of your choosing) to fight on their behalf.
+Dragonmaid House (Yu-Gi-Oh!) Art By: YataMasa 5195
+House Of Cards: Any games you play can be made lewder. The cards all have sexy monster girls on them, spaces in board games have more fun effects, etc.
+Mary (Devil Summoner: Soul Hackers) Art By: take9999
+Under My Roof: People will treat those working for you or under your care with dignity & respect no matter how inhuman they may be.
+Persephone (Castlevania) Art By: kous
+That Attack Sucked: You can create a vortex that nullifies any projectile attacks it comes in contact with. Based on your power level, the number of attacks you can stop scales with you.
+
+Now that all of the prior problems have been resolved we find ourselves with a new concern. You have been running around being magnificent & there are 28 very excited maids throughout the train. You don't need to take them with you, but could you keep them distracted until we unload the train? There is a very real threat they may start assaulting our guests if you don't.
+
+i use my clones to go at it with all the maids at once.
+
+Iroha (Samurai Spirits) Art By: tomo eokaiteru
+Failed Ornithology: People will fail to classify you properly. Most notably, this will cause people to use entirely the wrong types of magic or traps against you as they fail to grasp your nature. She is a bird, not a demon.
+Paffel (Summon Night) Art By: senri gan
+Scrubbed History: Sometimes the hardest thing
+to clean is your digital footprint. This allows you to pick a person or event & systematicaly remove them from the public record.
+Lifts-Her-Tail (Elder Scrolls) Art By: chia mio
+To Serve: People will become aroused from doing chores/household things for you. It can be self defeating mopping while dripping on the floor.
+Ai Hayasaka (Love Is War) Art By: sobanutt
+Time AND A Half: Looking at your schedule, whatever amount of time you actually devoted to working you can go back and inject half as much additional time into your calendar. An 8 hour work day gives you an extra 4 hours.
+
+gain 12 sesonal vouters 6 genral vouters (im at a total 13)
