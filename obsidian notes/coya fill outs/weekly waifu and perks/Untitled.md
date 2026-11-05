@@ -115,3 +115,32 @@ x-portals:
     path: /
     port: 8188
     scheme: http
+    
+    
+    
+    
+    services:
+  comfyui:
+    container_name: comfyui
+    image: corundex/comfyui-rocm:latest
+    devices:
+      - /dev/kfd:/dev/kfd
+      - /dev/dri:/dev/dri
+    group_add:
+      - video
+    ports:
+      - '8188:8188'
+    environment:
+      - MODEL_DOWNLOAD=none
+    restart: unless-stopped
+    volumes:
+      - /mnt/mnt/comfyui/models:/opt/comfyui/models
+      - /mnt/mnt/comfyui/input:/opt/comfyui/input
+      - /mnt/mnt/comfyui/output:/opt/comfyui/output
+      - /mnt/mnt/comfyui/user:/opt/comfyui/user
+x-portals:
+  - host: 0.0.0.0
+    name: Web UI
+    path: /
+    port: 8188
+    scheme: http
