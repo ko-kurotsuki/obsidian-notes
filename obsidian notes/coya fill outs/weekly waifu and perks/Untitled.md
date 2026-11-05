@@ -59,3 +59,59 @@ x-portals:
     port: 8188
     scheme: http
     ```
+    
+    
+    
+services:
+  comfyui:
+    container_name: comfyui
+    image: hikage/comfyui-docker:latest
+    environment:
+      - NVIDIA_VISIBLE_DEVICES=all
+      - NVIDIA_DRIVER_CAPABILITIES=all,compute,utility
+    ports:
+      - '8188:8188'
+    restart: unless-stopped
+    runtime: nvidia
+    stdin_open: true
+    tty: true
+    volumes:
+      - /mnt/mnt/comfyui/models:/opt/comfyui/models
+      - /mnt/mnt/comfyui/input:/opt/comfyui/input
+      - /mnt/mnt/comfyui/output:/opt/comfyui/output
+      - /mnt/mnt/comfyui/user:/opt/comfyui/user
+x-portals:
+  - host: 0.0.0.0
+    name: Web UI
+    path: /
+    port: 8188
+    scheme: http
+    
+      
+
+# FAILED
+
+[EFAULT] Failed 'up' action for 'cui' app. Please check /var/log/app_lifecycle.log for more details
+
+
+
+services:
+  comfyui:
+    container_name: comfyui
+    image: hikage/comfyui-docker:latest
+    ports:
+      - '8188:8188'
+    restart: unless-stopped
+    stdin_open: true
+    tty: true
+    volumes:
+      - /mnt/mnt/comfyui/models:/opt/comfyui/models
+      - /mnt/mnt/comfyui/input:/opt/comfyui/input
+      - /mnt/mnt/comfyui/output:/opt/comfyui/output
+      - /mnt/mnt/comfyui/user:/opt/comfyui/user
+x-portals:
+  - host: 0.0.0.0
+    name: Web UI
+    path: /
+    port: 8188
+    scheme: http
