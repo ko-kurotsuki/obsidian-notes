@@ -119,7 +119,7 @@ x-portals:
     
     
     
-    services:
+services:
   comfyui:
     container_name: comfyui
     image: corundex/comfyui-rocm:latest
@@ -134,10 +134,10 @@ x-portals:
       - MODEL_DOWNLOAD=none
     restart: unless-stopped
     volumes:
-      - /mnt/mnt/comfyui/models:/opt/comfyui/models
-      - /mnt/mnt/comfyui/input:/opt/comfyui/input
-      - /mnt/mnt/comfyui/output:/opt/comfyui/output
-      - /mnt/mnt/comfyui/user:/opt/comfyui/user
+      - /mnt/mnt/comfyui/models:/models
+      - /mnt/mnt/comfyui/input:/input
+      - /mnt/mnt/comfyui/output:/output
+      - /mnt/mnt/comfyui/user:/user
 x-portals:
   - host: 0.0.0.0
     name: Web UI
