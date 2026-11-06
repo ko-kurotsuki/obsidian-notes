@@ -1,0 +1,6 @@
+Lost in the Nature
+Deep and unexplored jungles, freezing and deadly mountain peak or arid and vicious desert, your headquarters are sited in the middle of one of the most hostile natural places in the world.
+Only the most courageous (or the craziest) adventurers are able to reach it. The infernal climate, the dangerous flora and the fierce fauna that permanently harass your assassins have made them the toughest survivors in the world, able to undertake a mission in the deadliest places.
+
+Educated as a Killer
+Members are recruited from childhood, whether orphans enrolled in the street or children abducted from their parents. Then, the guild provides them a proper education in their hideout, teaching them everything they have to know as future assassins. It takes tens of years to train an efficient hitman. In fact, the children of the guild are just like pupils in a school... with a slight difference : they learn to kill, not to solve mathematical equations. This form of recruitment ensures an homogeneity among members' philosophies and way of killing because they all received the same education, from the same masters.
