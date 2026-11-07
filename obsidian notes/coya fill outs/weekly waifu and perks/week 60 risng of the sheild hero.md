@@ -30,7 +30,7 @@ You may summon and dismiss it at will, but it may not leave your person. You can
 Spirit Physiology 1m: You gain the benefits of your soul having a specific
 constitution, linking it more closely with your body. This results in your reserves of spiritual energies, such as mana or what have you, greatly amplifying your physical power, speed, durability, and the power of your spells. The bonus is greatest when you are at full capacity, your power boost lessening proportionally with your energy volume, but use of these bonuses without instinctively holding back to what would otherwise be normal levels will drain your reserves, as will getting hit. Mana potions will be even more overpowered.
 
-[[week 58 HHRP]]
+[[week 59 senran kagura]]
 
-[[weel 60 ranma 1 2]]
+[[week 61 ranma 1 2]]
 

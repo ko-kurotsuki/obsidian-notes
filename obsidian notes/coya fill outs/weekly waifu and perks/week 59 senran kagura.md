@@ -42,3 +42,12 @@ Mental Mending: Mental disorders are
 more commonplace than most people would think. This is where you come in. If people wish to have their disorder gone in your presence, then you can simply wave the disorder away with a hand gesture. Works even in groups as well as remotely via phones or other devices, as long as there is some form of communication established.
 Fragile Clothing: When in a fight, people may at times
 be hit, and clothing is supposed to be somewhat of a protection from attacks. It doesn't work that way for your waifus, though. Their clothing will rip and tear quite quickly when they are hit. Their skin, however, will be a lot more robust and give them the same amount of protection that the torn clothing would have given them, as well as reduce bruising.
+
+
+
+[[week 60 risng of the sheild hero]]
+
+
+
+[[week 58 HHRP]]
+

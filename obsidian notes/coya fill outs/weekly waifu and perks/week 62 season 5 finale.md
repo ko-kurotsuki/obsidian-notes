@@ -1,4 +1,4 @@
-gain 
+
 
 The first problem we could use your help with is in the luggage car. It seems somebody thought it would be wise to pilfer the luggage of the other passengers. Do you think you could help recover the stolen possesions & return them to the appropriate cases all without their owners being any the wiser?
 ill use my analysis tools to figure out whose is whose, then teleport them to the right spot
@@ -107,3 +107,7 @@ Ai Hayasaka (Love Is War) Art By: sobanutt
 Time AND A Half: Looking at your schedule, whatever amount of time you actually devoted to working you can go back and inject half as much additional time into your calendar. An 8 hour work day gives you an extra 4 hours.
 
 gain 12 sesonal vouters 6 genral vouters (im at a total 13)
+
+[[week 61 ranma 1 2]]
+
+[[week 63 digimon]]

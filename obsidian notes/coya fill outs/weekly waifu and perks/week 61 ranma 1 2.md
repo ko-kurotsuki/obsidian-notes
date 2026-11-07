@@ -22,4 +22,4 @@ kindness and respect, they are always disposed to more or less repay the favor. 
 The Token Sane One: You are now able to always
 keep a clear head and think things through rationally no matter how chaotic or downright crazy the situa-tion around you might become. This also comes with an incredible talent for calming people down and mediating any conflicts that might arise, even those involving the most volatile and pigheaded of person-alities.
 
-[[week 61 season 5 finale]]
+[[week 62 season 5 finale]]
