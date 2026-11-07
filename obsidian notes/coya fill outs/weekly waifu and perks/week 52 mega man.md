@@ -5,7 +5,8 @@ Art By: Tobitori
 Roll
 Series: Mega Man
 Art By: olavNSFW
-
+Look Inside My Heart: You plant the seeds of goodness in others when you present them with your own kindness.
+Those who are more entrenched or possess incredible will-power will require a lot more effort to get through to, but even a mindless, soulless killing machine can be made into a genuinely loving caretaker with you showing them how. As an added bonus, you receive a small boost to all skills per-taining to looking after others, such as housekeeping and medicine.
 
 
 Leviathan
@@ -13,6 +14,11 @@ Series: Mega Man Zero
 Art By: Hoshi Mikan
 Heavenly Guardian: Beings that share any of your elemen-
 tal affinities immediately recognize you as one of their own, and if you possess sufficiently more willpower than them they willingly submit to your commands and authority.
+Cool Siren 1s: You gain an affinity for water and ice, though
+more so the former, stacking with previous affinities if you already have them. You can manifest and manipulate water with a thought and are able to shape and selectively freeze and unfreeze portions of it instantly. Should your body receive damage, you may automatically and unconsciously manifest and freeze a spiked ball of water that will seek out and ram into the offender.
+More, I Say! 1s: Defeating someone in battle causes them to
+develop an attraction towards you, the nature of which you determine when this occurs. This works best when victory appears reachable for your opponent, encouraging them to seek a rematch and increasing this attraction more and more should you continue winning. You will see no such effect if you completely overwhelm them, at least not from this perk.
+
 
 Tron Bonne
 Series: Mega Man Legends

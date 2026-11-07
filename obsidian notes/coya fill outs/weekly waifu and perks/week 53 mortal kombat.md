@@ -23,6 +23,9 @@ So when the time comes, don't shy away and give the General a call! He will be s
 Know Your Sh!t: When it comes to military stuff, nobody can
 one up you. You know a vast amount of old and modern military tactics, you know military gear so well that you can disassemble and reassemble it in your sleep. And when new things get developed you will receive an encripted E-Mail giving you a brief summary about what's new on the market.
 
+Jade 1s
+Debut: Mortal Kombat II (1993)
+Art By: dandon fuga & apone3d
 A Body To Die For 1: If you were to rate the beauty of all
 humanoid creatures between 1 and 10, then naturally there would be just as many on the bottom as there would be on top.
 And now all those beings that you would rate a 1, 2 or 3 will all increase to a 4 or 5. Sure your standards might shift afterwards, but I am sure quite a few people will enjoy their increased beauty either way!

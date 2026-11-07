@@ -34,10 +34,27 @@ to act as an effective intermediary between even the most alien societies and br
 Hunter Gatherer: You are now as at home in the woods as
 any creature. You gain the skillset of a hunter, whatever that may be in the worlds you have access to, and full knowledge of how to find and identify edible plants and fungi wherever you are. In the wilds, you are able to move through the brush as swiftly as a raven, as stealthily as a weasel, without leaving a trail, as well as perfectly follow the trail of any creature.
 
+Rapunzel 1s
+Film: Tangled
+Art By: Sane Person
 Perfect Hair Forever 1m: Your hair is now shimmering,
 thick, full, and gorgeous, never tangling or snagging, growing as long as you desire for up to dozens of meters but still feeling as light as air when you try to move. It's nearly indestructible and has some measure of prehensility when you whip it forth, able to tie itself around objects or opponents and loosen at will. No more split ends, and never have a bad hair day again. Can apply to facial hair, as per your preference, and can selectively remove the body hair of those to whom you bestow this perk.
 
+Elsa 3s 
+Film: Frozen Art By: Sakimichan
+Let It Go: Maybe you're overwhelmed by your
+responsibilities, or just bored, but you want out. With this perk, you'll always be able to abandon what you've taken on. It's perfect if you're afraid of commitment. This ensures that a capable replacement or replacements will take your place swiftly. People may resent you for giving up, but they'll get over it more quickly with this. This applies all the way from replacing your position in an organization to single mothers of children you abandon, finding them a wonderful stepfather. The ability to live with yourself is not included.
+Winter Wonderland: You now have great, but
+limited, power over the weather. You may summon a chilling wind, blizzards, hail and sleet, a winter storm of any sort, and have them persist as long as you please. You may deactivate them at will, but they will have to disperse naturally. This does not allow you to summon milder weather conditions than a cold and heavy rainfall, but they may occur naturally after your storms blow past.
+The Cold Never Bothered Me Anyway: You
+are now fully immune to freezing and cold effects. No more slipping on ice, no more shivering, even freeing you from the effects of time dilation and erasure caused by absolute zero temperatures.
 
+
+Belle 1s
+Film: Beauty and the Beast
+Art By: Oni & Psicoero
+Sanctum Bibliotheca 1s: There's nothing like the serenity of a
+library to a bookworm 1s. With this perk, that sanctity will be com-pletely unspoiled. Any library you keep or frequent will be soundproofed to the outside world, and all occupants will be hushed to no louder than a whisper. Any documents inside will be protected from rot, insects and light. You'll have perfect memory of any contents of books you read therein.
 [[week 54  hentai villness wanted week]]
 
 [[week 56 my little pony]]

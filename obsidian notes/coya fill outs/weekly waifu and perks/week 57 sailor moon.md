@@ -18,6 +18,7 @@ Series: Sailor Moon
 Art By: Arion Canvas
 Shrine Tender 1m: You gain great spiritual sensitivity, manifesting
 as a sixth sense. This can be used to detect malevolent or benevolent forces, to find individuals through focusing on items of close significance to them, through great effort to glimpse important past or future events, or just for down-to-earth silli-ness like fortune-telling. (Which doesn't mean it won't work!)
+Gender Pass 1s: Some people just tend to have... problems with other genders, whether they admit it or not. Armed with this perk, it won't be an issue for you, in either direction.
 
 Lita/Makoto Kino
 "Sailor Jupiter"
