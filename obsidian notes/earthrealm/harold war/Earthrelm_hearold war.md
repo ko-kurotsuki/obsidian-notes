@@ -1606,6 +1606,11 @@ Vast: 24 hp
 - shale doesnt know the fly spell, we slander her for this. fate decides to get her the fly spell scroll for her birthday. fate senses shere some of konkonsm's chains have broken off, and leads them flying to where he sensed it.
 - everette is where lizartho is. they talk about how meaningless being here is, and how lizarto can only make a hole big enough to see through but never move through. he saw giants bending the elements. they get ready to fight 
 - when fate's party reaches the center of the storm. we see koncoum flrozen in heavenly ice, and perl and 2 other souless with her.
+### Session 109
+- fate aetusa and shale stand agianst perl and the 2 souless she brought. behind her is konconsm frozen in hevenly frost.
+- everette is fighting multiple lizarthos. 
+- fate makes a deal with elisana so that she can talk with blaidd when she requests without fate interfering or listening in. she agrees to not make it during an inconvenient time. in exhange he gets full contorl over the cupid elsiana
+- 
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
