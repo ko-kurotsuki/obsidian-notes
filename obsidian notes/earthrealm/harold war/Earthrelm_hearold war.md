@@ -1610,7 +1610,7 @@ Vast: 24 hp
 - fate aetusa and shale stand agianst perl and the 2 souless she brought. behind her is konconsm frozen in hevenly frost.
 - everette is fighting multiple lizarthos. 
 - fate makes a deal with elisana so that she can talk with blaidd when she requests without fate interfering or listening in. she agrees to not make it during an inconvenient time. in exhange he gets full contorl over the cupid elsiana
-- 
+- during the fight everette severs his past self. he sees  a vision of his past as he does so. he sees some sort of village in a forest, with a river running through it. he hears a voice call behind him and its sylric. he says that aethusa wanted to retore her druid circle. everette was raised in the circle, and it seems like everyone around him didnt like him very much. then one day he heard voices, and recived a sigil on  his hand, this was the awakening of his hearoldry. his hearoldry made evryone to forget who he is. evertte's mom is aethusa.  she ended up going into hibernaiton due to becomeing a blood bearer and not eating souls.  everettes father is blaidd but he was born from his essance after blaidd died.
 - -----------------------------
 
 # Manual: Tale of the Mage Slayer
