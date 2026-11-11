@@ -1832,3 +1832,4 @@ Cost: 1 action, 1 arcane action, 2 bonus actions. 2 5th lvl slots, 4 sorc points
 
 
 # Fate new combo guide
+df
