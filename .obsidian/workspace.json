@@ -76,6 +76,18 @@
               "icon": "lucide-file",
               "title": "goddess of the new world"
             }
+          },
+          {
+            "id": "8ea05f2d9c9ef251",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.0"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.0"
+            }
           }
         ],
         "currentTab": 4
@@ -240,7 +252,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "756d6df2b566fe94",
+  "active": "0113f1732707b569",
   "lastOpenFiles": [
     "obsidian notes/coya fill outs/weekly waifu and perks/week 63 digimon.md",
     "obsidian notes/coya fill outs/goddess of the new world.md",
