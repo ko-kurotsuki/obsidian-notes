@@ -9,7 +9,7 @@ Sabieen doughter of adoria and juun
 
 Lord umbron is a draon born and a herold of Ancan, but there isnt anything about him in the library part of his heroldy is to be able to read and understand books and spells instantly, but it seems he has a limit he can read without rest. He may have the ablity to read people asl w
 
-Shale sorcaon, first bron of the white dragon. She ventures into chaos relm, and has made many innovations inthe school. Uses fire and ice spells, and create life. May be able to boost magiacal ablities
+Shale sorcaon, first born of the white dragon. She ventures into chaos relm, and has made many innovations inthe school. Uses fire and ice spells, and create life. May be able to boost magiacal ablities
 
 Axel used to be a herold of Ancan, but retired to start a family
 
