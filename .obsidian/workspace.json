@@ -46,9 +46,23 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.15.1"
             }
+          },
+          {
+            "id": "27017ed341ddad4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian notes/coya fill outs/castor girl.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "castor girl"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -103,11 +117,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 310.5
   },
   "right": {
     "id": "81cafdf88ca26015",
@@ -123,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "obsidian notes/coya fill outs/castor girl.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
@@ -152,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "obsidian notes/coya fill outs/castor girl.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           },
           {
@@ -177,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian notes/coya fill outs/gamer girl.md",
+                "file": "obsidian notes/coya fill outs/castor girl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -210,46 +225,46 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a7f72e3c1a981ad2",
+  "active": "07052139fe16037c",
   "lastOpenFiles": [
+    "obsidian notes/coya fill outs/goddess of the new world.md",
+    "obsidian notes/coya fill outs/hentai nemisis v2.md",
+    "obsidian notes/coya fill outs/kings suvinier.md",
+    "obsidian notes/coya fill outs/magic academia v3.md",
+    "obsidian notes/coya fill outs/magical girl.md",
+    "obsidian notes/coya fill outs/picking a goddess.md",
+    "obsidian notes/coya fill outs/ranches of geolocus.md",
+    "obsidian notes/coya fill outs/soul fighter.md",
+    "obsidian notes/coya fill outs/The Terpsichorean Academy.md",
+    "obsidian notes/coya fill outs/thp part 15 scoring.md",
+    "obsidian notes/coya fill outs/tiny hearm picker.md",
+    "obsidian notes/coya fill outs/vajra on saturn.md",
+    "obsidian notes/coya fill outs/valkarke squadmaster.md",
+    "obsidian notes/coya fill outs/your assassins' guild.md",
+    "obsidian notes/coya fill outs/warlock coven.md",
+    "obsidian notes/coya fill outs/a new elemental.md",
+    "obsidian notes/coya fill outs/archdemon of corruption.md",
+    "obsidian notes/coya fill outs/gamer girl.md",
+    "obsidian notes/coya fill outs/computer program cyoa.md",
+    "obsidian notes/coya fill outs/castor girl.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/week 61 ranma 1 2.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/week 63 digimon.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/week 58 HHRP.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/week 62 season 5 finale.md",
-    "obsidian notes/coya fill outs/goddess of the new world.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/Untitled.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/week 60 risng of the sheild hero.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 59 senran kagura.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 57 sailor moon.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 56 my little pony.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 55 disney princesses.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 54  hentai villness wanted week.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 53 mortal kombat.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 52 mega man.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 51 RWBY.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 50 april fools clussy fever.md",
-    "obsidian notes/coya fill outs/your assassins' guild.md",
     "obsidian notes/weekly waifu pics/Aqua.png",
     "obsidian notes/weekly waifu pics",
     "obsidian notes/weekly waifu picks",
     "obsidian notes/New folder",
     "Untitled",
-    "weel 60 ranma 1/2.md",
     "weel 60 ranma 1",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 1 naruto.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 49 HHRP.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 48 seven deadly sins.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 47 monster musume.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 46 macross.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 45 HHRP.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 44 super mario bros.md",
-    "obsidian notes/coya fill outs/weekly waifu and perks/week 43 valentine's day.md",
     "attachments/Pasted image 20261024222549.png",
     "attachments/Pasted image 20261024230435.png",
     "attachments",
     "attachments/Pasted image 20261024230347.png",
     "attachments/Pasted image 20260619004526.png",
-    "files.base",
+    "obsidian notes/coya fill outs/files.base",
     "obsidian notes/coya fill outs/weekly waifu and perks/weekly waifu template test/Waifus",
     "obsidian notes/coya fill outs/weekly waifu and perks/weekly waifu template test/Templates",
     "obsidian notes/coya fill outs/weekly waifu and perks/weekly waifu template test/Series",

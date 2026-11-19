@@ -4,5 +4,7 @@
   "calc-craft",
   "numerals",
   "templater-obsidian",
-  "dataview"
+  "dataview",
+  "obsidian-meta-bind-plugin",
+  "js-engine"
 ]
