@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Earthrelm_hearold war"
             }
+          },
+          {
+            "id": "a7f72e3c1a981ad2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,7 +210,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cd37529a65349d27",
+  "active": "a7f72e3c1a981ad2",
   "lastOpenFiles": [
     "obsidian notes/coya fill outs/weekly waifu and perks/week 61 ranma 1 2.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/week 63 digimon.md",
