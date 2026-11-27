@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 610 symmetrical faults.md",
+                "file": "results.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ECE 610 symmetrical faults"
+              "title": "results"
             }
           },
           {
@@ -205,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECE 610 symmetrical faults.md",
+                "file": "results.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,13 +240,14 @@
   },
   "active": "60c019b9ea5bef70",
   "lastOpenFiles": [
+    "ECE 610 symmetrical faults.md",
+    "results.md",
     "attachments/Pasted image 20261122212413.png",
     "attachments/Pasted image 20261122192209.png",
     "Summer internship 2026.md",
     "in stars and time.md",
     "fixing some shit on my truenass app.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/week 48 seven deadly sins.md",
-    "ECE 610 symmetrical faults.md",
     "obsidian notes/coya fill outs/weekly waifu and perks/week 61 ranma 1 2.md",
     "obsidian notes/coya fill outs/castor girl.md",
     "obsidian notes/coya fill outs/goddess of the new world.md",
@@ -284,7 +285,6 @@
     "obsidian notes/coya fill outs/weekly waifu and perks/weekly waifu template test/Series",
     "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey.png",
     "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey.jpeg",
-    "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey 9.png",
-    "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey 8.png"
+    "obsidian notes/earthrealm/Attachments/notes for Earthrealm Odyssey 9.png"
   ]
 }
